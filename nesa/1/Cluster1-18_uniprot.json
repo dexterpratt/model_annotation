@@ -1,0 +1,931 @@
+{
+    "CCDC65": {
+        "UniProtKB_ID": "DRC2_HUMAN",
+        "Description": "Dynein regulatory complex subunit 2",
+        "GO": [
+            "axonemal dynein complex",
+            "axoneme",
+            "ciliary basal body",
+            "motile cilium",
+            "axonemal dynein complex assembly",
+            "cilium assembly",
+            "cilium-dependent cell motility",
+            "regulation of cilium movement"
+        ],
+        "Location": [
+            "flagellum axoneme",
+            "cytoskeleton",
+            "cell projection",
+            "cytoplasm",
+            "flagellum basal body",
+            "cilium",
+            "flagellum"
+        ],
+        "Disease": [
+            "Ciliary dyskinesia",
+            "Ciliopathy",
+            "Kartagener syndrome",
+            "Primary ciliary dyskinesia"
+        ],
+        "Disease_description": [
+            "Ciliary dyskinesia: A disorder characterized by abnormalities of motile cilia. Respiratory infections leading to chronic inflammation and bronchiectasis are recurrent, due to defects in the respiratory cilia. Patients may exhibit randomization of left-right body asymmetry and situs inversus, due to dysfunction of monocilia at the embryonic node. Primary ciliary dyskinesia associated with situs inversus is referred to as Kartagener syndrome."
+        ],
+        "Complexes": [
+            "Component of the nexin-dynein regulatory complex (N-DRC)"
+        ]
+    },
+    "CDC42BPA": {
+        "UniProtKB_ID": "MRCKA_HUMAN",
+        "Description": "Serine/threonine-protein kinase MRCK alpha",
+        "GO": [
+            "actomyosin",
+            "cell leading edge",
+            "cell-cell junction",
+            "cytoplasm",
+            "cytoskeleton",
+            "cytosol",
+            "extracellular exosome",
+            "lamellipodium",
+            "ATP binding",
+            "identical protein binding",
+            "magnesium ion binding",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "actin cytoskeleton reorganization",
+            "actomyosin structure organization",
+            "cell migration",
+            "peptidyl-threonine phosphorylation",
+            "protein phosphorylation"
+        ],
+        "Location": [
+            "cell projection",
+            "lamellipodium",
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homodimer and homotetramer via the coiled coil regions (PubMed:11283256). Interacts tightly with GTP-bound but not GDP-bound CDC42 (PubMed:9418861). Forms a tripartite complex with MYO18A and LURAP1 with the latter acting as an adapter connecting CDC42BPA and MYO18A. LURAP1 binding results in activation of CDC42BPA by abolition of its negative autoregulation (PubMed:18854160). Interacts with LURAP1. Interacts (via AGC-kinase C-terminal domain) with FAM89B/LRAP25 (via LRR repeat). Forms a tripartite complex with FAM89B/LRAP25 and LIMK1 (By similarity)"
+        ]
+    },
+    "DHCR24": {
+        "UniProtKB_ID": "DHC24_HUMAN",
+        "Description": "Delta(24)-sterol reductase",
+        "GO": [
+            "cytoplasm",
+            "cytoskeleton",
+            "cytosol",
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane",
+            "Golgi membrane",
+            "membrane",
+            "nucleus",
+            "delta24(24-1) sterol reductase activity",
+            "delta24-sterol reductase activity",
+            "enzyme binding",
+            "FAD binding",
+            "oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor",
+            "peptide antigen binding",
+            "amyloid precursor protein catabolic process",
+            "apoptotic process",
+            "cholesterol biosynthetic process",
+            "cholesterol biosynthetic process via desmosterol",
+            "cholesterol biosynthetic process via lathosterol",
+            "male genitalia development",
+            "membrane organization",
+            "negative regulation of apoptotic process",
+            "negative regulation of cell population proliferation",
+            "negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",
+            "plasminogen activation",
+            "protein localization",
+            "Ras protein signal transduction",
+            "regulation of cell cycle",
+            "regulation of neuron death",
+            "response to hormone",
+            "response to oxidative stress",
+            "skin development",
+            "steroid metabolic process",
+            "tissue development"
+        ],
+        "Location": [
+            "membrane",
+            "golgi apparatus membrane",
+            "endoplasmic reticulum",
+            "golgi apparatus",
+            "endoplasmic reticulum membrane"
+        ],
+        "Disease": [
+            "Desmosterolosis",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Desmosterolosis: Rare autosomal recessive disorder characterized by multiple congenital anomalies and elevated levels of the cholesterol precursor desmosterol in plasma, tissue, and cultured cells."
+        ],
+        "Complexes": [
+            "Interacts with DHCR7; this interaction regulates DHCR7 activity"
+        ]
+    },
+    "EIF1AY": {
+        "UniProtKB_ID": "IF1AY_HUMAN",
+        "Description": "Eukaryotic translation initiation factor 1A, Y-chromosomal",
+        "GO": [
+            "cytoplasm",
+            "RNA binding",
+            "translation initiation factor activity",
+            "translational initiation"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "ERGIC2": {
+        "UniProtKB_ID": "ERGI2_HUMAN",
+        "Description": "Endoplasmic reticulum-Golgi intermediate compartment protein 2",
+        "GO": [
+            "COPII-coated ER to Golgi transport vesicle",
+            "cytoplasm",
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane",
+            "endoplasmic reticulum-Golgi intermediate compartment membrane",
+            "Golgi apparatus",
+            "intracellular membrane-bounded organelle",
+            "membrane",
+            "nucleolus",
+            "nucleus",
+            "retrograte transporter complex, Golgi to ER",
+            "transporter complex",
+            "endoplasmic reticulum to Golgi vesicle-mediated transport",
+            "retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"
+        ],
+        "Location": [
+            "cis-golgi network membrane",
+            "membrane",
+            "endoplasmic reticulum-golgi intermediate compartment membrane",
+            "nucleus",
+            "golgi apparatus",
+            "endoplasmic reticulum",
+            "cytoplasm",
+            "endoplasmic reticulum membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "May form a heteromeric complex composed of ERGIC1, ERGIC2 and ERGIC3 (PubMed:31142615). Interacts with ERGIC3, the interaction is required for the stable expression of both proteins (PubMed:31142615). May interact with EEF1A1 (PubMed:17980171)"
+        ]
+    },
+    "FAM162A": {
+        "UniProtKB_ID": "F162A_HUMAN",
+        "Description": "Protein FAM162A",
+        "GO": [
+            "cytosol",
+            "mitochondrial membrane",
+            "mitochondrion",
+            "activation of cysteine-type endopeptidase activity involved in apoptotic process",
+            "cellular response to hypoxia",
+            "neuron apoptotic process",
+            "positive regulation of apoptotic process",
+            "positive regulation of release of cytochrome c from mitochondria"
+        ],
+        "Location": [
+            "membrane",
+            "mitochondrion membrane",
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with HSP90AB1; HSP90AB1 is essential for FAM162A mitochondrial localization and pro-apoptotic activity (PubMed:16698020). Interacts with VDAC2; the interaction is probably involved in inducing mitochondrial permeability transition (PubMed:15082785)"
+        ]
+    },
+    "FUNDC2": {
+        "UniProtKB_ID": "FUND2_HUMAN",
+        "Description": "FUN14 domain-containing protein 2",
+        "GO": [
+            "mitochondrial outer membrane",
+            "mitochondrion",
+            "nucleus",
+            "phosphatidylinositol-3,4,5-trisphosphate binding",
+            "autophagy of mitochondrion",
+            "cellular triglyceride homeostasis",
+            "regulation of platelet activation"
+        ],
+        "Location": [
+            "mitochondrion",
+            "membrane",
+            "mitochondrion outer membrane",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "HERC2": {
+        "UniProtKB_ID": "HERC2_HUMAN",
+        "Description": "E3 ubiquitin-protein ligase HERC2",
+        "GO": [
+            "centriole",
+            "cytoplasm",
+            "cytosol",
+            "membrane",
+            "nucleoplasm",
+            "nucleus",
+            "plasma membrane",
+            "guanyl-nucleotide exchange factor activity",
+            "SUMO binding",
+            "ubiquitin protein ligase activity",
+            "ubiquitin protein ligase binding",
+            "zinc ion binding",
+            "cellular response to DNA damage stimulus",
+            "DNA repair",
+            "intracellular protein transport",
+            "proteasome-mediated ubiquitin-dependent protein catabolic process",
+            "protein ubiquitination",
+            "spermatogenesis"
+        ],
+        "Location": [
+            "centriole",
+            "cytoskeleton",
+            "nucleus",
+            "centrosome",
+            "cytoplasm",
+            "microtubule organizing center"
+        ],
+        "Disease": [
+            "Intellectual developmental disorder",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Intellectual developmental disorder: A disorder characterized by significantly below average general intellectual functioning associated with impairments in adaptive behavior and manifested during the developmental period. MRT38 is characterized by global developmental delay affecting motor, speech, adaptive, and social development. Patients manifest autistic features, aggression, self-injury, impulsivity, and distractibility."
+        ],
+        "Complexes": [
+            "Interacts (when phosphorylated at Thr-4827 and sumoylated) with RNF8 (via FHA domain); this interaction increases after ionizing radiation (IR) treatment. Interacts with XPA. Interacts with NEURL4. Via its interaction with NEURL4, may indirectly interact with CCP110 and CEP97"
+        ]
+    },
+    "KCNMA1": {
+        "UniProtKB_ID": "KCMA1_HUMAN",
+        "Description": "Calcium-activated potassium channel subunit alpha-1",
+        "GO": [
+            "apical plasma membrane",
+            "caveola",
+            "membrane",
+            "plasma membrane",
+            "postsynaptic membrane",
+            "voltage-gated potassium channel complex",
+            "actin binding",
+            "calcium-activated potassium channel activity",
+            "identical protein binding",
+            "large conductance calcium-activated potassium channel activity",
+            "metal ion binding",
+            "voltage-gated potassium channel activity",
+            "cellular potassium ion homeostasis",
+            "micturition",
+            "negative regulation of cell volume",
+            "positive regulation of apoptotic process",
+            "potassium ion transport",
+            "regulation of ion transmembrane transport",
+            "regulation of membrane potential",
+            "relaxation of vascular associated smooth muscle",
+            "response to calcium ion",
+            "response to carbon monoxide",
+            "response to hypoxia",
+            "response to osmotic stress",
+            "smooth muscle contraction involved in micturition"
+        ],
+        "Location": [
+            "membrane",
+            "cell membrane"
+        ],
+        "Disease": [
+            "Paroxysmal nonkinesigenic dyskinesia",
+            "Epilepsy",
+            "Cerebellar atrophy",
+            "Liang-Wang syndrome",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Paroxysmal nonkinesigenic dyskinesia: An autosomal dominant neurologic disorder characterized by absence seizures, generalized tonic-clonic seizures, paroxysmal nonkinesigenic dyskinesia and involuntary dystonic or choreiform movements. Onset is usually in childhood. Patients may have seizures only, dyskinesia only, or both.",
+            "Epilepsy: An autosomal dominant form of idiopathic generalized epilepsy, a disorder characterized by recurring generalized seizures in the absence of detectable brain lesions and/or metabolic abnormalities. Generalized seizures arise diffusely and simultaneously from both hemispheres of the brain. Seizure types include juvenile myoclonic seizures, absence seizures, and generalized tonic-clonic seizures. EIG16 is characterized by onset of seizures soon after birth or in the first years of life.",
+            "Cerebellar atrophy: An autosomal recessive disease characterized by epilepsy, developmental delay and severe cerebellar atrophy.",
+            "Liang-Wang syndrome: An autosomal dominant syndrome characterized by a highly variable phenotype and severity. The broad spectrum of clinical features includes developmental delay, intellectual disability, ataxia, axial hypotonia, and poor or absent speech, visceral and cardiac malformations, connective tissue presentations with arterial involvement, bone dysplasia and characteristic craniofacial dysmorphism. About half of patients have cerebral and cerebellar atrophy, and thin corpus callosum."
+        ],
+        "Complexes": [
+            "Homotetramer; which constitutes the calcium-activated potassium channel. Interacts with RAB11B (By similarity). Interacts with beta subunits KCNMB1, KCNMB2, KCNMB3 and KCNMB4. Interacts with gamma subunits LRRC26, LRRC38, LRRC52 and LRRC55. Beta and gamma subunits are accessory, and modulate its activity"
+        ]
+    },
+    "KLHL36": {
+        "UniProtKB_ID": "KLH36_HUMAN",
+        "Description": "Kelch-like protein 36",
+        "GO": [
+            "cullin family protein binding",
+            "protein ubiquitination"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with CUL3"
+        ]
+    },
+    "LAMP1": {
+        "UniProtKB_ID": "LAMP1_HUMAN",
+        "Description": "Lysosome-associated membrane glycoprotein 1",
+        "GO": [
+            "autolysosome",
+            "autophagosome membrane",
+            "azurophil granule membrane",
+            "cytolytic granule membrane",
+            "cytoplasm",
+            "cytosol",
+            "endosome membrane",
+            "external side of plasma membrane",
+            "extracellular exosome",
+            "ficolin-1-rich granule membrane",
+            "late endosome",
+            "late endosome membrane",
+            "lysosomal membrane",
+            "lysosome",
+            "melanosome",
+            "membrane",
+            "multivesicular body",
+            "perinuclear region of cytoplasm",
+            "phagolysosome membrane",
+            "plasma membrane",
+            "sarcolemma",
+            "synaptic vesicle",
+            "enzyme binding",
+            "protein domain specific binding",
+            "virus receptor activity",
+            "establishment of protein localization to organelle",
+            "Golgi to lysosome transport",
+            "granzyme-mediated programmed cell death signaling pathway",
+            "positive regulation of natural killer cell degranulation",
+            "positive regulation of natural killer cell mediated cytotoxicity",
+            "protein stabilization",
+            "regulation of organelle transport along microtubule"
+        ],
+        "Location": [
+            "endosome membrane",
+            "cytolytic granule membrane",
+            "lysosome membrane",
+            "endosome",
+            "membrane",
+            "cell membrane",
+            "late endosome membrane",
+            "lysosome"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "(Microbial infection) Interacts with Lassa virus protein glycoprotein",
+            "(Microbial infection) Interacts with mumps virus protein F; this interaction promotes protein F cleavage by FURIN",
+            "Interacts with ABCB9; this interaction strongly stabilizes ABCB9 and protects ABCB9 against lysosomal degradation (PubMed:22641697). Interacts with FURIN (PubMed:32295904)"
+        ]
+    },
+    "MARVELD1": {
+        "UniProtKB_ID": "MALD1_HUMAN",
+        "Description": "MARVEL domain-containing protein 1",
+        "GO": [
+            "cytoplasm",
+            "cytoskeleton",
+            "membrane",
+            "nucleus",
+            "plasma membrane",
+            "structural constituent of myelin sheath",
+            "cell cycle",
+            "myelination"
+        ],
+        "Location": [
+            "membrane",
+            "cytoskeleton",
+            "cell membrane",
+            "nucleus",
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "MBOAT7": {
+        "UniProtKB_ID": "MBOA7_HUMAN",
+        "Description": "Lysophospholipid acyltransferase 7",
+        "GO": [
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane",
+            "membrane",
+            "mitochondria-associated endoplasmic reticulum membrane",
+            "1-acylglycerol-3-phosphate O-acyltransferase activity",
+            "2-acylglycerol-3-phosphate O-acyltransferase activity",
+            "acyltransferase activity",
+            "lysophospholipid acyltransferase activity",
+            "O-acyltransferase activity",
+            "layer formation in cerebral cortex",
+            "lipid modification",
+            "phosphatidylcholine acyl-chain remodeling",
+            "phosphatidylinositol acyl-chain remodeling",
+            "phosphatidylinositol biosynthetic process",
+            "regulation of triglyceride metabolic process",
+            "ventricular system development"
+        ],
+        "Location": [
+            "membrane",
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane"
+        ],
+        "Disease": [
+            "Intellectual developmental disorder",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Intellectual developmental disorder: A disorder characterized by significantly below average general intellectual functioning associated with impairments in adaptive behavior and manifested during the developmental period. MRT57 patients have moderate to severe intellectual disability, and delayed psychomotor development with poor or absent speech. Some patients manifest seizures and autistic features."
+        ],
+        "Complexes": [
+            "Interacts with SPTSSA; the interaction facilitates MBOAT7 location to mitochondria-associated membranes (MAMs)"
+        ]
+    },
+    "MEIG1": {
+        "UniProtKB_ID": "MEIG1_HUMAN",
+        "Description": "Meiosis expressed gene 1 protein homolog",
+        "GO": [
+            "cytosol",
+            "manchette",
+            "nucleus",
+            "manchette assembly",
+            "protein localization",
+            "sperm axoneme assembly"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with PACRG"
+        ]
+    },
+    "NEURL4": {
+        "UniProtKB_ID": "NEUL4_HUMAN",
+        "Description": "Neuralized-like protein 4",
+        "GO": [
+            "centriole",
+            "cytoplasm",
+            "ubiquitin protein ligase activity"
+        ],
+        "Location": [
+            "centriole",
+            "cytoskeleton",
+            "centrosome",
+            "cytoplasm",
+            "microtubule organizing center"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with CCP110; this interaction propmotes CCP110 ubiquitination and degradation via the proteasome pathway. Via its interaction with CCP110, may indirectly interact with CEP97. Interacts with the E3 ubiquitin-protein ligase HERC2 and UBE3A. May interact with MAPK6 and hence mediate MAPK6 interaction with UBE3A. Interaction with UBE3A may be indirect and mediated by HERC2"
+        ]
+    },
+    "PACRG": {
+        "UniProtKB_ID": "PACRG_HUMAN",
+        "Description": "Parkin coregulated gene protein",
+        "GO": [
+            "axonemal microtubule",
+            "cell body",
+            "cytosol",
+            "manchette",
+            "neuron projection",
+            "nucleus",
+            "sperm midpiece",
+            "vesicle",
+            "actin binding",
+            "alpha-tubulin binding",
+            "beta-tubulin binding",
+            "chaperone binding",
+            "G protein-coupled receptor binding",
+            "heat shock protein binding",
+            "Hsp70 protein binding",
+            "Hsp90 protein binding",
+            "ubiquitin protein ligase binding",
+            "cellular response to unfolded protein",
+            "negative regulation of cell death",
+            "protein localization",
+            "spermatid development"
+        ],
+        "Location": [
+            "cell projection",
+            "cytoskeleton",
+            "cytoplasm",
+            "cilium axoneme"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Forms a large molecular chaperone complex containing heat shock proteins 70 and 90 and chaperonin components. Interacts with STIP1, PRKN, GPR37, HSPA8, TCP1/CCT1, CCT2, CCT3, CCT4, CCT5, CCT6A, CCT7, CCT8. Interacts with MEIG1 (By similarity)"
+        ]
+    },
+    "PDAP1": {
+        "UniProtKB_ID": "HAP28_HUMAN",
+        "Description": "28 kDa heat- and acid-stable phosphoprotein",
+        "GO": [
+            "cytosol",
+            "extracellular region",
+            "ficolin-1-rich granule lumen",
+            "plasma membrane",
+            "RNA binding",
+            "signal transduction"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "RABL3": {
+        "UniProtKB_ID": "RABL3_HUMAN",
+        "Description": "Rab-like protein 3",
+        "GO": [
+            "endomembrane system",
+            "GTP binding",
+            "GTPase activity",
+            "protein homodimerization activity",
+            "B cell differentiation",
+            "intracellular protein transport",
+            "natural killer cell differentiation",
+            "protein stabilization",
+            "regulation of protein lipidation",
+            "regulation of Ras protein signal transduction",
+            "T cell differentiation in thymus"
+        ],
+        "Location": [],
+        "Disease": [
+            "Pancreatic cancer 5",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Pancreatic cancer 5: A malignant neoplasm of the pancreas. Tumors can arise from both the exocrine and endocrine portions of the pancreas, but 95% of them develop from the exocrine portion, including the ductal epithelium, acinar cells, connective tissue, and lymphatic tissue."
+        ],
+        "Complexes": [
+            "Homodimer (By similarity). Interacts with GPR89; the interaction stabilizes GPR89 (By similarity). Interacts with RAP1GDS1 (PubMed:31406347)"
+        ]
+    },
+    "RER1": {
+        "UniProtKB_ID": "RER1_HUMAN",
+        "Description": "Protein RER1",
+        "GO": [
+            "cell surface",
+            "endoplasmic reticulum",
+            "endoplasmic reticulum-Golgi intermediate compartment",
+            "Golgi apparatus",
+            "Golgi membrane",
+            "plasma membrane",
+            "acetylcholine receptor binding",
+            "positive regulation of protein localization to plasma membrane",
+            "protein retention in ER lumen",
+            "retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",
+            "skeletal muscle acetylcholine-gated channel clustering"
+        ],
+        "Location": [
+            "membrane",
+            "golgi apparatus membrane",
+            "golgi apparatus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "RRBP1": {
+        "UniProtKB_ID": "RRBP1_HUMAN",
+        "Description": "Ribosome-binding protein 1",
+        "GO": [
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane",
+            "membrane",
+            "ribosome",
+            "RNA binding",
+            "signaling receptor activity",
+            "osteoblast differentiation",
+            "protein transport",
+            "translation"
+        ],
+        "Location": [
+            "membrane",
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "SAMD3": {
+        "UniProtKB_ID": "SAMD3_HUMAN",
+        "Description": "Sterile alpha motif domain-containing protein 3",
+        "GO": [],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "SCN1A": {
+        "UniProtKB_ID": "SCN1A_HUMAN",
+        "Description": "Sodium channel protein type 1 subunit alpha",
+        "GO": [
+            "axon",
+            "axon initial segment",
+            "intercalated disc",
+            "neuronal cell body",
+            "node of Ranvier",
+            "nuclear body",
+            "nucleoplasm",
+            "plasma membrane",
+            "T-tubule",
+            "voltage-gated sodium channel complex",
+            "Z disc",
+            "voltage-gated ion channel activity involved in regulation of presynaptic membrane potential",
+            "voltage-gated sodium channel activity",
+            "adult walking behavior",
+            "cardiac muscle cell action potential involved in contraction",
+            "detection of mechanical stimulus involved in sensory perception of pain",
+            "establishment of localization in cell",
+            "membrane depolarization during action potential",
+            "neuromuscular process controlling posture",
+            "neuronal action potential",
+            "neuronal action potential propagation",
+            "regulation of ion transmembrane transport",
+            "sodium ion transmembrane transport",
+            "sodium ion transport"
+        ],
+        "Location": [
+            "membrane",
+            "cell membrane"
+        ],
+        "Disease": [
+            "Generalized epilepsy with febrile seizures plus 2",
+            "Dravet syndrome",
+            "Intractable childhood epilepsy with generalized tonic-clonic seizures",
+            "Migraine",
+            "Febrile seizures",
+            "Developmental and epileptic encephalopathy 6B",
+            "Autism",
+            "Autism spectrum disorder",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Generalized epilepsy with febrile seizures plus 2: A rare autosomal dominant, familial condition with incomplete penetrance and large intrafamilial variability. Patients display febrile seizures persisting sometimes beyond the age of 6 years and/or a variety of afebrile seizure types. This disease combines febrile seizures, generalized seizures often precipitated by fever at age 6 years or more, and partial seizures, with a variable degree of severity.",
+            "Dravet syndrome: A severe form of epileptic encephalopathy characterized by generalized tonic, clonic, and tonic-clonic seizures that are initially induced by fever and begin during the first year of life. Later, patients also manifest other seizure types, including absence, myoclonic, and simple and complex partial seizures. Psychomotor development delay is observed around the second year of life. Some patients manifest a borderline disease phenotype and do not necessarily fulfill all diagnostic criteria for core DRVT. DRVT is considered to be the most severe phenotype within the spectrum of generalized epilepsies with febrile seizures-plus.",
+            "Intractable childhood epilepsy with generalized tonic-clonic seizures: A disorder characterized by generalized tonic-clonic seizures beginning usually in infancy and induced by fever. Seizures are associated with subsequent mental decline, as well as ataxia or hypotonia. ICEGTC is similar to SMEI, except for the absence of myoclonic seizures.",
+            "Migraine: A subtype of migraine associated with transient blindness in some families. Migraine is a disabling symptom complex of periodic headaches, usually temporal and unilateral. Headaches are often accompanied by irritability, nausea, vomiting and photophobia, preceded by constriction of the cranial arteries. The two major subtypes are common migraine (migraine without aura) and classic migraine (migraine with aura). Classic migraine is characterized by recurrent attacks of reversible neurological symptoms (aura) that precede or accompany the headache. Aura may include a combination of sensory disturbances, such as blurred vision, hallucinations, vertigo, numbness and difficulty in concentrating and speaking.",
+            "Febrile seizures: Seizures associated with febrile episodes in childhood without any evidence of intracranial infection or defined pathologic or traumatic cause. It is a common condition, affecting 2-5% of children aged 3 months to 5 years. The majority are simple febrile seizures (generally defined as generalized onset, single seizures with a duration of less than 30 minutes). Complex febrile seizures are characterized by focal onset, duration greater than 30 minutes, and/or more than one seizure in a 24 hour period. The likelihood of developing epilepsy following simple febrile seizures is low. Complex febrile seizures are associated with a moderately increased incidence of epilepsy.",
+            "Developmental and epileptic encephalopathy 6B: A form of epileptic encephalopathy, a heterogeneous group of severe early-onset epilepsies characterized by refractory seizures, neurodevelopmental impairment, and poor prognosis. Development is normal prior to seizure onset, after which cognitive and motor delays become apparent. DEE6B is an autosomal dominant condition characterized by onset of seizures in early infancy, profoundly impaired intellectual development, and a hyperkinetic movement disorder."
+        ],
+        "Complexes": [
+            "The voltage-sensitive sodium channel consists of an ion conducting pore forming alpha-subunit regulated by one or more beta-1 (SCN1B), beta-2 (SCN2B), beta-3 (SCN3B) and/or beta-4 (SCN4B). Beta-1 (SCN1B) and beta-3 (SCN3B) are non-covalently associated with alpha, while beta-2 (SCN2B) and beta-4 (SCN4B) are covalently linked by disulfide bonds. Interacts with FGF13 (PubMed:21566136). Interacts with SCN1B (PubMed:17928445, PubMed:15525788). Interacts with the conotoxin GVIIJ (PubMed:24497506). Interacts with the spider beta/delta-theraphotoxin-Pre1a (PubMed:28428547)"
+        ]
+    },
+    "SCN2A": {
+        "UniProtKB_ID": "SCN2A_HUMAN",
+        "Description": "Sodium channel protein type 2 subunit alpha",
+        "GO": [
+            "axon",
+            "glutamatergic synapse",
+            "intercalated disc",
+            "membrane",
+            "node of Ranvier",
+            "paranode region of axon",
+            "plasma membrane",
+            "presynaptic membrane",
+            "sodium channel complex",
+            "T-tubule",
+            "voltage-gated sodium channel complex",
+            "voltage-gated ion channel activity",
+            "voltage-gated sodium channel activity",
+            "cellular response to hypoxia",
+            "intrinsic apoptotic signaling pathway in response to osmotic stress",
+            "membrane depolarization during action potential",
+            "memory",
+            "myelination",
+            "nervous system development",
+            "neuron apoptotic process",
+            "neuronal action potential",
+            "regulation of ion transmembrane transport",
+            "sodium ion transmembrane transport",
+            "sodium ion transport"
+        ],
+        "Location": [
+            "membrane",
+            "cell membrane"
+        ],
+        "Disease": [
+            "Seizures",
+            "Developmental and epileptic encephalopathy 11",
+            "Episodic ataxia 9",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Seizures: A form of benign familial infantile epilepsy, a neurologic disorder characterized by afebrile seizures occurring in clusters during the first year of life, without neurologic sequelae. BFIS3 inheritance is autosomal dominant.",
+            "Developmental and epileptic encephalopathy 11: An autosomal dominant seizure disorder characterized by neonatal or infantile onset of refractory seizures with resultant delayed neurologic development and persistent neurologic abnormalities. Patients may progress to West syndrome, which is characterized by tonic spasms with clustering, arrest of psychomotor development, and hypsarrhythmia on EEG.",
+            "Episodic ataxia 9: An autosomal dominant neurologic disorder characterized by episodic ataxia manifesting in the first years of life, early-onset seizures, difficulty walking, dizziness, slurred speech, headache, vomiting, and pain. The duration of ataxic episodes is heterogeneous. Most patients show episodes lasting minutes to maximum several hours, but periods lasting days up to weeks have been reported. Some patients have mildly delayed development with speech delay and/or autistic features or mildly impaired intellectual development."
+        ],
+        "Complexes": [
+            "Heterooligomer of a large alpha subunit and a smaller beta subunit. Heterooligomer with SCN2B or SCN4B; disulfide-linked. Heterooligomer with SCN1B or SCN3B; non-covalently linked. Interacts with NEDD4L. Interacts with CALM. Interacts with the conotoxin GVIIJ (PubMed:24497506). Interacts with the spider beta/delta-theraphotoxin-Pre1a (PubMed:28428547). Interacts with the conotoxin KIIIA (PubMed:30765605). Interacts with the spider protoxin-II (PubMed:26894959)"
+        ]
+    },
+    "SRP19": {
+        "UniProtKB_ID": "SRP19_HUMAN",
+        "Description": "Signal recognition particle 19 kDa protein",
+        "GO": [
+            "cytosol",
+            "nuclear body",
+            "nucleolus",
+            "signal recognition particle",
+            "signal recognition particle, endoplasmic reticulum targeting",
+            "7S RNA binding",
+            "RNA binding",
+            "cotranslational protein targeting to membrane",
+            "SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"
+        ],
+        "Location": [
+            "signal recognition particle",
+            "nucleolus",
+            "nucleus",
+            "nucleoplasm",
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of a signal recognition particle complex that consists of a 7SL RNA molecule of 300 nucleotides and 6 protein subunits: SRP72, SRP68, SRP54, SRP19, SRP14 and SRP9 (PubMed:12244299, PubMed:20179341). Interacts with IPO5, IPO7, IPO8, KPNB1 and TNPO1. Interactions with IPO8 and TNPO1 may be involved in SRP19 import into the nucleus (PubMed:11682607)"
+        ]
+    },
+    "SUN5": {
+        "UniProtKB_ID": "SUN5_HUMAN",
+        "Description": "SUN domain-containing protein 5",
+        "GO": [
+            "Golgi apparatus",
+            "meiotic nuclear membrane microtubule tethering complex",
+            "nuclear envelope",
+            "nuclear inner membrane",
+            "sperm connecting piece",
+            "protein-membrane adaptor activity",
+            "nuclear envelope organization",
+            "spermatid development",
+            "spermatogenesis"
+        ],
+        "Location": [
+            "membrane",
+            "nucleus inner membrane",
+            "nucleus",
+            "golgi apparatus"
+        ],
+        "Disease": [
+            "Spermatogenic failure 16",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Spermatogenic failure 16: An infertility disorder caused by spermatogenesis defects and characterized by abnormally shaped spermatozoa in the semen of affected individuals. Most spermatozoa are made up of headless tails, while a small proportion has an abnormal head-tail junction. A few spermatozoa are made up of tailless heads."
+        ],
+        "Complexes": [
+            "Probable homotrimer. Interacts with DNAJB13"
+        ]
+    },
+    "TAOK2": {
+        "UniProtKB_ID": "TAOK2_HUMAN",
+        "Description": "Serine/threonine-protein kinase TAO2",
+        "GO": [
+            "actin cytoskeleton",
+            "axon",
+            "axonal growth cone",
+            "cytoplasm",
+            "cytoplasmic vesicle",
+            "cytoplasmic vesicle membrane",
+            "cytosol",
+            "dendritic growth cone",
+            "neuron projection",
+            "nucleolus",
+            "nucleoplasm",
+            "receptor complex",
+            "ATP binding",
+            "MAP kinase kinase kinase activity",
+            "mitogen-activated protein kinase kinase binding",
+            "neuropilin binding",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activator activity",
+            "protein serine/threonine kinase activity",
+            "tau protein binding",
+            "tau-protein kinase activity",
+            "actin cytoskeleton organization",
+            "activation of protein kinase activity",
+            "apoptotic process",
+            "axonogenesis",
+            "basal dendrite arborization",
+            "basal dendrite morphogenesis",
+            "cell migration",
+            "cellular response to DNA damage stimulus",
+            "focal adhesion assembly",
+            "intracellular signal transduction",
+            "MAPK cascade",
+            "mitotic G2 DNA damage checkpoint signaling",
+            "neuron projection morphogenesis",
+            "positive regulation of JNK cascade",
+            "positive regulation of MAPK cascade",
+            "positive regulation of protein autophosphorylation",
+            "positive regulation of stress-activated MAPK cascade",
+            "protein autophosphorylation",
+            "protein phosphorylation",
+            "protein targeting to membrane",
+            "regulation of actin cytoskeleton organization",
+            "regulation of cell growth",
+            "regulation of cell shape",
+            "regulation of MAPK cascade",
+            "stress-activated MAPK cascade"
+        ],
+        "Location": [
+            "cytoplasmic vesicle membrane",
+            "dendrite",
+            "membrane",
+            "cytoskeleton",
+            "cytoplasmic vesicle",
+            "nucleus",
+            "cell projection",
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with MAP2K3 and MAP2K6 (By similarity). Self-associates. Interacts with tubulins through the C-terminal domain. Interacts with MAP3K7 and interfers with MAP3K7-binding to CHUK and thus prevents NF-kappa-B activation. Isoform 2 interacts with PCDH8; this complex may also include CDH2 (By similarity)"
+        ]
+    },
+    "TIMM21": {
+        "UniProtKB_ID": "TIM21_HUMAN",
+        "Description": "Mitochondrial import inner membrane translocase subunit Tim21",
+        "GO": [
+            "TIM23 mitochondrial import inner membrane translocase complex",
+            "intracellular protein transport",
+            "mitochondrial cytochrome c oxidase assembly",
+            "mitochondrial respiratory chain complex I assembly",
+            "protein import into mitochondrial matrix"
+        ],
+        "Location": [
+            "membrane",
+            "mitochondrion membrane",
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the TIM23 complex. Component of the MITRAC (mitochondrial translation regulation assembly intermediate of cytochrome c oxidase complex) complex, the core components of this complex being COA3/MITRAC12 and COX14 (Probable) (PubMed:23260140). Interacts with COA3 and MT-CO1/COX1 (PubMed:26321642)"
+        ]
+    },
+    "TOMM40": {
+        "UniProtKB_ID": "TOM40_HUMAN",
+        "Description": "Mitochondrial import receptor subunit TOM40 homolog",
+        "GO": [
+            "cytosol",
+            "membrane",
+            "mitochondria-associated endoplasmic reticulum membrane",
+            "mitochondrial inner membrane",
+            "mitochondrial outer membrane",
+            "mitochondrial outer membrane translocase complex",
+            "mitochondrion",
+            "pore complex",
+            "porin activity",
+            "protein transmembrane transporter activity",
+            "ion transport",
+            "protein import into mitochondrial matrix",
+            "protein insertion into mitochondrial outer membrane",
+            "protein targeting to mitochondrion"
+        ],
+        "Location": [
+            "membrane",
+            "mitochondrion outer membrane",
+            "mitochondrion"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Forms part of the preprotein translocase complex of the outer mitochondrial membrane (TOM complex) which consists of at least 7 different proteins (TOMM5, TOMM6, TOMM7, TOMM20, TOMM22, TOMM40 and TOMM70). Interacts with mitochondrial targeting sequences (PubMed:12198123, PubMed:15644312, PubMed:18331822). Interacts with TIMM29; linking the TIM22 complex to the TOM complex (PubMed:27554484). Forms a complex with BCAP31 (via C-terminus) which mediates the translocation of components of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) from the cytosol to the mitochondria (PubMed:31206022). Interacts (via N-terminus) with CYP1A1 (via mitochondrial targeting signal); this interaction is required for CYP1A1 translocation across the mitochondrial outer membrane (By similarity)"
+        ]
+    },
+    "UBAC2": {
+        "UniProtKB_ID": "UBAC2_HUMAN",
+        "Description": "Ubiquitin-associated domain-containing protein 2",
+        "GO": [
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane",
+            "negative regulation of canonical Wnt signaling pathway",
+            "negative regulation of retrograde protein transport, ER to cytosol",
+            "protein localization to endoplasmic reticulum",
+            "Wnt signaling pathway"
+        ],
+        "Location": [
+            "membrane",
+            "endoplasmic reticulum",
+            "endoplasmic reticulum membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with FAF2 (PubMed:23297223). Interacts with LMBR1L (PubMed:31073040). Interacts with AMFR and VCP (By similarity)"
+        ]
+    }
+}
