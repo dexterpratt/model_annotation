@@ -1,0 +1,1521 @@
+{
+    "ADAMTS13": {
+        "UniProtKB_ID": "ATS13_HUMAN",
+        "Description": "A disintegrin and metalloproteinase with thrombospondin motifs 13",
+        "GO": [
+            "cell surface",
+            "endoplasmic reticulum lumen",
+            "extracellular matrix",
+            "extracellular space",
+            "calcium ion binding",
+            "integrin binding",
+            "metalloendopeptidase activity",
+            "metallopeptidase activity",
+            "zinc ion binding",
+            "cell-matrix adhesion",
+            "cellular response to interleukin-4",
+            "cellular response to lipopolysaccharide",
+            "cellular response to tumor necrosis factor",
+            "cellular response to type II interferon",
+            "extracellular matrix organization",
+            "glycoprotein metabolic process",
+            "integrin-mediated signaling pathway",
+            "peptide catabolic process",
+            "platelet activation",
+            "protein catabolic process",
+            "protein processing",
+            "proteolysis",
+            "response to amine",
+            "response to potassium ion",
+            "response to toxic substance"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [
+            "Thrombotic thrombocytopenic purpura",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Thrombotic thrombocytopenic purpura: An autosomal recessive hematologic disease characterized by hemolytic anemia with fragmentation of erythrocytes, thrombocytopenia, diffuse and non-focal neurologic findings, decreased renal function and fever."
+        ],
+        "Complexes": []
+    },
+    "ADGRV1": {
+        "UniProtKB_ID": "AGRV1_HUMAN",
+        "Description": "Adhesion G-protein coupled receptor V1",
+        "GO": [
+            "cell surface",
+            "cytoplasm",
+            "extracellular exosome",
+            "membrane",
+            "periciliary membrane compartment",
+            "photoreceptor inner segment",
+            "plasma membrane",
+            "receptor complex",
+            "stereocilia ankle link",
+            "stereocilia ankle link complex",
+            "stereocilium",
+            "stereocilium membrane",
+            "synapse",
+            "USH2 complex",
+            "adenylate cyclase inhibitor activity",
+            "calcium ion binding",
+            "G protein-coupled receptor activity",
+            "G-protein alpha-subunit binding",
+            "hydrolase activity",
+            "cell surface receptor signaling pathway",
+            "cell-cell adhesion",
+            "cellular response to calcium ion",
+            "detection of mechanical stimulus involved in sensory perception of sound",
+            "establishment of protein localization",
+            "G protein-coupled receptor signaling pathway",
+            "inner ear development",
+            "inner ear receptor cell differentiation",
+            "inner ear receptor cell stereocilium organization",
+            "maintenance of animal organ identity",
+            "negative regulation of adenylate cyclase activity",
+            "nervous system development",
+            "nervous system process",
+            "photoreceptor cell maintenance",
+            "positive regulation of bone mineralization",
+            "positive regulation of protein kinase A signaling",
+            "positive regulation of protein kinase C signaling",
+            "regulation of protein stability",
+            "self proteolysis",
+            "sensory perception of light stimulus",
+            "sensory perception of sound",
+            "visual perception"
+        ],
+        "Location": [
+            "cell projection",
+            "membrane",
+            "photoreceptor inner segment",
+            "cell membrane",
+            "stereocilium membrane"
+        ],
+        "Disease": [
+            "Usher syndrome 2C",
+            "Febrile seizures",
+            "Deafness",
+            "Retinitis pigmentosa",
+            "Usher syndrome"
+        ],
+        "Disease_description": [
+            "Usher syndrome 2C: USH is a genetically heterogeneous condition characterized by the association of retinitis pigmentosa with sensorineural deafness. Age at onset and differences in auditory and vestibular function distinguish Usher syndrome type 1 (USH1), Usher syndrome type 2 (USH2) and Usher syndrome type 3 (USH3). USH2 is characterized by congenital mild hearing impairment with normal vestibular responses.",
+            "Febrile seizures: Seizures associated with febrile episodes in childhood without any evidence of intracranial infection or defined pathologic or traumatic cause. It is a common condition, affecting 2-5% of children aged 3 months to 5 years. The majority are simple febrile seizures (generally defined as generalized onset, single seizures with a duration of less than 30 minutes). Complex febrile seizures are characterized by focal onset, duration greater than 30 minutes, and/or more than one seizure in a 24 hour period. The likelihood of developing epilepsy following simple febrile seizures is low. Complex febrile seizures are associated with a moderately increased incidence of epilepsy."
+        ],
+        "Complexes": [
+            "Forms a heterodimer, consisting of a large extracellular region (alpha subunit) non-covalently linked to a seven-transmembrane moiety (beta subunit) (By similarity). Component of USH2 complex, composed of ADGRV1, PDZD7, USH2A and WHRN. Interacts with USH2A and WHRN (PubMed:16434480). Interacts (via the cytoplasmic region) with PDZD7 (PubMed:20440071). Interacts (via the cytoplasmic region) with MYO7A (via MyTH4-FERM domains) (By similarity)"
+        ]
+    },
+    "C16orf46": {
+        "UniProtKB_ID": "CP046_HUMAN",
+        "Description": "Uncharacterized protein C16orf46",
+        "GO": [
+            "cytosol",
+            "nucleoplasm"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "C2CD4A": {
+        "UniProtKB_ID": "C2C4A_HUMAN",
+        "Description": "C2 calcium-dependent domain-containing protein 4A",
+        "GO": [
+            "nucleolus",
+            "nucleoplasm",
+            "nucleus",
+            "positive regulation of acute inflammatory response",
+            "regulation of cell adhesion",
+            "regulation of vascular permeability involved in acute inflammatory response"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "C2CD4B": {
+        "UniProtKB_ID": "C2C4B_HUMAN",
+        "Description": "C2 calcium-dependent domain-containing protein 4B",
+        "GO": [
+            "nucleus",
+            "positive regulation of acute inflammatory response",
+            "regulation of cell adhesion",
+            "regulation of vascular permeability involved in acute inflammatory response"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "CACNG2": {
+        "UniProtKB_ID": "CCG2_HUMAN",
+        "Description": "Voltage-dependent calcium channel gamma-2 subunit",
+        "GO": [
+            "AMPA glutamate receptor complex",
+            "cell surface",
+            "cerebellar mossy fiber",
+            "cytosol",
+            "endocytic vesicle membrane",
+            "glutamatergic synapse",
+            "hippocampal mossy fiber to CA3 synapse",
+            "plasma membrane",
+            "postsynaptic density membrane",
+            "Schaffer collateral - CA1 synapse",
+            "somatodendritic compartment",
+            "voltage-gated calcium channel complex",
+            "channel regulator activity",
+            "ionotropic glutamate receptor binding",
+            "voltage-gated calcium channel activity",
+            "eye blink reflex",
+            "membrane depolarization",
+            "membrane hyperpolarization",
+            "neuromuscular junction development",
+            "neurotransmitter receptor internalization",
+            "neurotransmitter receptor localization to postsynaptic specialization membrane",
+            "neurotransmitter receptor transport, postsynaptic endosome to lysosome",
+            "positive regulation of AMPA receptor activity",
+            "positive regulation of protein localization to basolateral plasma membrane",
+            "positive regulation of synaptic transmission, glutamatergic",
+            "postsynaptic neurotransmitter receptor diffusion trapping",
+            "protein targeting to membrane",
+            "regulation of AMPA receptor activity",
+            "response to calcium ion",
+            "transmission of nerve impulse"
+        ],
+        "Location": [
+            "synaptosome",
+            "synapse",
+            "membrane"
+        ],
+        "Disease": [
+            "Intellectual developmental disorder",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Intellectual developmental disorder: A disorder characterized by significantly below average general intellectual functioning associated with impairments in adaptive behavior and manifested during the developmental period."
+        ],
+        "Complexes": [
+            "The L-type calcium channel is composed of five subunits: alpha-1, alpha-2/delta, beta and gamma. Interacts with the PDZ domains of DLG4/PSD-95 and DLG1/SAP97. May interact with GOPC (By similarity). Acts as an auxiliary subunit for AMPA-selective glutamate receptors (AMPARs). Found in a complex with GRIA1, GRIA2, GRIA3, GRIA4, CNIH2, CNIH3, CACNG3, CACNG4, CACNG5, CACNG7 and CACNG8 (By similarity). Interacts with GRIA1 and GRIA2 (PubMed:20805473). Interacts with MPP2 (By similarity)"
+        ]
+    },
+    "CARD16": {
+        "UniProtKB_ID": "CAR16_HUMAN",
+        "Description": "Caspase recruitment domain-containing protein 16",
+        "GO": [
+            "protease inhibitor complex",
+            "protein-containing complex",
+            "CARD domain binding",
+            "caspase binding",
+            "cysteine-type endopeptidase activity",
+            "cysteine-type endopeptidase inhibitor activity",
+            "identical protein binding",
+            "kinase binding",
+            "cellular response to hypoxia",
+            "cellular response to lipopolysaccharide",
+            "cellular response to UV-C",
+            "inhibition of cysteine-type endopeptidase activity",
+            "negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",
+            "negative regulation of interleukin-1 beta production",
+            "negative regulation of lipopolysaccharide-mediated signaling pathway",
+            "negative regulation of protein binding",
+            "negative regulation of tumor necrosis factor-mediated signaling pathway",
+            "positive regulation of I-kappaB kinase/NF-kappaB signaling",
+            "positive regulation of NF-kappaB transcription factor activity",
+            "proteolysis"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homooligomer. Interacts with CASP1, CASP4, CARD8 and RIPK2"
+        ]
+    },
+    "CASP1": {
+        "UniProtKB_ID": "CASP1_HUMAN",
+        "Description": "Caspase-1",
+        "GO": [
+            "AIM2 inflammasome complex",
+            "caspase complex",
+            "cytoplasm",
+            "cytosol",
+            "extracellular space",
+            "inflammasome complex",
+            "IPAF inflammasome complex",
+            "microtubule",
+            "NLRP1 inflammasome complex",
+            "NLRP3 inflammasome complex",
+            "nucleolus",
+            "plasma membrane",
+            "protease inhibitor complex",
+            "protein-containing complex",
+            "CARD domain binding",
+            "cysteine-type endopeptidase activator activity involved in apoptotic process",
+            "cysteine-type endopeptidase activity",
+            "cysteine-type endopeptidase activity involved in apoptotic signaling pathway",
+            "endopeptidase activity",
+            "identical protein binding",
+            "kinase binding",
+            "apoptotic process",
+            "cellular response to lipopolysaccharide",
+            "cellular response to mechanical stimulus",
+            "cellular response to organic substance",
+            "cellular response to type II interferon",
+            "cytokine precursor processing",
+            "defense response to virus",
+            "icosanoid biosynthetic process",
+            "osmosensory signaling pathway",
+            "pattern recognition receptor signaling pathway",
+            "positive regulation of cysteine-type endopeptidase activity involved in apoptotic process",
+            "positive regulation of I-kappaB kinase/NF-kappaB signaling",
+            "positive regulation of inflammatory response",
+            "positive regulation of interleukin-1 beta production",
+            "positive regulation of neuron apoptotic process",
+            "positive regulation of release of cytochrome c from mitochondria",
+            "positive regulation of tumor necrosis factor-mediated signaling pathway",
+            "protein autoprocessing",
+            "proteolysis",
+            "pyroptosis",
+            "regulation of apoptotic process",
+            "regulation of inflammatory response",
+            "signal transduction",
+            "signaling receptor ligand precursor processing"
+        ],
+        "Location": [
+            "cytoplasm",
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Heterotetramer that consists of two anti-parallel arranged heterodimers, each one formed by a 20 kDa (Caspase-1 subunit p20) and a 10 kDa (Caspase-1 subunit p10) subunit (PubMed:8044845, PubMed:9987822, PubMed:32109412, PubMed:32553275). May be a component of the inflammasome, a protein complex which also includes PYCARD, CARD8 and NLRP2 and whose function would be the activation of pro-inflammatory caspases (PubMed:15030775, PubMed:33420033). Component of the AIM2 PANoptosome complex, a multiprotein complex that drives inflammatory cell death (PANoptosis) (By similarity). Interacts with CARD8; interacts with the released C-terminus of CARD8 which forms an inflammasome and directly activates CASP1 to promote pyroptosis (PubMed:32051255). Both the p10 and p20 subunits interact with MEFV (PubMed:16785446). Interacts with CARD17P/INCA and CARD18 (PubMed:15383541, PubMed:11051551). Interacts with SERPINB1; this interaction regulates CASP1 activity (PubMed:30692621)",
+            "Heterotetramer that consists of two anti-parallel arranged heterodimers, each one formed by a 20 kDa (Caspase-1 subunit p20) and a 10 kDa (Caspase-1 subunit p10) subunit (PubMed:8044845, PubMed:32109412, PubMed:32553275). Can form a heterodimer with isoform epsilon which then has an inhibitory effect (PubMed:7876192)",
+            "Heterotetramer that consists of two anti-parallel arranged heterodimers, each one formed by a 20 kDa (Caspase-1 subunit p20) and a 10 kDa (Caspase-1 subunit p10) subunit",
+            "Can form a heterodimer with Caspase-1 subunit p20 which then has an inhibitory effect"
+        ]
+    },
+    "CC2D1B": {
+        "UniProtKB_ID": "C2D1B_HUMAN",
+        "Description": "Coiled-coil and C2 domain-containing protein 1B",
+        "GO": [
+            "intracellular membrane-bounded organelle",
+            "nuclear envelope",
+            "nucleoplasm",
+            "nucleus",
+            "DNA-binding transcription factor activity, RNA polymerase II-specific",
+            "DNA-binding transcription repressor activity, RNA polymerase II-specific",
+            "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "CELSR1": {
+        "UniProtKB_ID": "CELR1_HUMAN",
+        "Description": "Cadherin EGF LAG seven-pass G-type receptor 1",
+        "GO": [
+            "membrane",
+            "nucleoplasm",
+            "plasma membrane",
+            "calcium ion binding",
+            "G protein-coupled receptor activity",
+            "apical protein localization",
+            "cell-cell adhesion",
+            "central nervous system development",
+            "establishment of body hair planar orientation",
+            "establishment of planar polarity",
+            "establishment of planar polarity of embryonic epithelium",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "lateral sprouting involved in lung morphogenesis",
+            "neural tube closure",
+            "neuron migration",
+            "orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis",
+            "planar dichotomous subdivision of terminal units involved in lung branching morphogenesis",
+            "protein localization involved in establishment of planar polarity",
+            "regulation of actin cytoskeleton organization",
+            "Rho protein signal transduction",
+            "Wnt signaling pathway, planar cell polarity pathway"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Neural tube defects",
+            "Lymphatic malformation 9",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Neural tube defects: Congenital malformations of the central nervous system and adjacent structures related to defective neural tube closure during the first trimester of pregnancy. Failure of neural tube closure can occur at any level of the embryonic axis. Common NTD forms include anencephaly, myelomeningocele and spina bifida, which result from the failure of fusion in the cranial and spinal region of the neural tube. NTDs have a multifactorial etiology encompassing both genetic and environmental components.",
+            "Lymphatic malformation 9: A form of primary lymphedema, a disease characterized by swelling of body parts due to developmental anomalies and functional defects of the lymphatic system. Patients with lymphedema may suffer from recurrent local infections. Impaired lymphatic drainage in the fetus can develop into hydrops fetalis, a severe condition characterized by excessive fluid accumulation in more than two fetal extra-vascular compartments and body cavities, placental enlargement and edema, pericardial or pleural effusion, or ascites. LMPHM9 is an autosomal dominant form with variable expressivity and incomplete penetrance, characterized by the onset of lower-extremity lymphedema in the first decades of life."
+        ],
+        "Complexes": []
+    },
+    "CELSR2": {
+        "UniProtKB_ID": "CELR2_HUMAN",
+        "Description": "Cadherin EGF LAG seven-pass G-type receptor 2",
+        "GO": [
+            "cytoplasm",
+            "membrane",
+            "plasma membrane",
+            "calcium ion binding",
+            "G protein-coupled receptor activity",
+            "cell-cell adhesion",
+            "cerebrospinal fluid secretion",
+            "cilium assembly",
+            "cilium movement",
+            "dendrite morphogenesis",
+            "G protein-coupled receptor signaling pathway",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "motor neuron migration",
+            "neural plate anterior/posterior regionalization",
+            "regulation of cell-cell adhesion",
+            "regulation of DNA-templated transcription",
+            "regulation of protein localization",
+            "ventricular system development",
+            "Wnt signaling pathway",
+            "Wnt signaling pathway, planar cell polarity pathway"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "CELSR3": {
+        "UniProtKB_ID": "CELR3_HUMAN",
+        "Description": "Cadherin EGF LAG seven-pass G-type receptor 3",
+        "GO": [
+            "membrane",
+            "plasma membrane",
+            "calcium ion binding",
+            "G protein-coupled receptor activity",
+            "cell-cell adhesion",
+            "G protein-coupled receptor signaling pathway",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "Wnt signaling pathway, planar cell polarity pathway"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "CHRM5": {
+        "UniProtKB_ID": "ACM5_HUMAN",
+        "Description": "Muscarinic acetylcholine receptor M5",
+        "GO": [
+            "dendrite",
+            "plasma membrane",
+            "postsynaptic membrane",
+            "synapse",
+            "G protein-coupled acetylcholine receptor activity",
+            "G protein-coupled serotonin receptor activity",
+            "neurotransmitter receptor activity",
+            "phosphatidylinositol phospholipase C activity",
+            "adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway",
+            "chemical synaptic transmission",
+            "dopamine transport",
+            "G protein-coupled acetylcholine receptor signaling pathway",
+            "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+            "gastric acid secretion",
+            "regulation of phosphatidylinositol dephosphorylation",
+            "transmission of nerve impulse"
+        ],
+        "Location": [
+            "cell membrane",
+            "synapse",
+            "membrane",
+            "postsynaptic cell membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "CLBA1": {
+        "UniProtKB_ID": "CLBA1_HUMAN",
+        "Description": "Uncharacterized protein CLBA1",
+        "GO": [
+            "AP-1 adaptor complex",
+            "trans-Golgi network membrane",
+            "clathrin binding",
+            "intracellular transport"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "CMA1": {
+        "UniProtKB_ID": "CMA1_HUMAN",
+        "Description": "Chymase",
+        "GO": [
+            "collagen-containing extracellular matrix",
+            "cytoplasmic ribonucleoprotein granule",
+            "cytosol",
+            "extracellular region",
+            "extracellular space",
+            "secretory granule",
+            "endopeptidase activity",
+            "peptide binding",
+            "serine-type endopeptidase activity",
+            "serine-type peptidase activity",
+            "angiotensin maturation",
+            "basement membrane disassembly",
+            "cellular response to glucose stimulus",
+            "cytokine precursor processing",
+            "extracellular matrix disassembly",
+            "midbrain development",
+            "positive regulation of angiogenesis",
+            "protein catabolic process",
+            "regulation of inflammatory response"
+        ],
+        "Location": [
+            "secreted",
+            "cytoplasmic granule"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "COL20A1": {
+        "UniProtKB_ID": "COKA1_HUMAN",
+        "Description": "Collagen alpha-1(XX) chain",
+        "GO": [
+            "collagen trimer",
+            "collagen-containing extracellular matrix",
+            "endoplasmic reticulum lumen",
+            "extracellular region",
+            "extracellular space"
+        ],
+        "Location": [
+            "secreted",
+            "extracellular space"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "DCANP1": {
+        "UniProtKB_ID": "DCNP1_HUMAN",
+        "Description": "Dendritic cell nuclear protein 1",
+        "GO": [
+            "cytoplasm",
+            "nuclear body",
+            "nucleoplasm",
+            "DNA binding",
+            "auditory behavior",
+            "cochlea development",
+            "cochlea morphogenesis",
+            "craniofacial suture morphogenesis",
+            "genitalia development",
+            "genitalia morphogenesis",
+            "hard palate morphogenesis",
+            "inner ear development",
+            "inner ear morphogenesis",
+            "learned vocalization behavior",
+            "mastication",
+            "negative regulation of relaxation of muscle",
+            "negative regulation of saliva secretion",
+            "neuromuscular process controlling balance",
+            "peristalsis",
+            "regulation of muscle organ development",
+            "thorax and anterior abdomen determination",
+            "trigeminal nerve development",
+            "vestibulocochlear nerve formation"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "DCDC1": {
+        "UniProtKB_ID": "DCDC1_HUMAN",
+        "Description": "Doublecortin domain-containing protein 1",
+        "GO": [
+            "cytoplasm",
+            "Flemming body",
+            "microtubule",
+            "midbody",
+            "mitotic spindle",
+            "carbohydrate binding",
+            "microtubule binding",
+            "cell cycle",
+            "cell division",
+            "intracellular signal transduction",
+            "regulation of mitotic cytokinesis"
+        ],
+        "Location": [
+            "spindle",
+            "cytoplasm",
+            "microtubule",
+            "midbody ring",
+            "cytoskeleton",
+            "midbody"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with dynein intermediate chain, tubulin, RAB8A, RAB3IP, NUDC, PAFAH1B1 and DCTN1 (PubMed:22159412)"
+        ]
+    },
+    "DCDC2B": {
+        "UniProtKB_ID": "DCD2B_HUMAN",
+        "Description": "Doublecortin domain-containing protein 2B",
+        "GO": [
+            "microtubule",
+            "microtubule organizing center",
+            "intracellular signal transduction"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "DCHS1": {
+        "UniProtKB_ID": "PCD16_HUMAN",
+        "Description": "Protocadherin-16",
+        "GO": [
+            "adherens junction",
+            "apical part of cell",
+            "catenin complex",
+            "membrane",
+            "cadherin binding",
+            "calcium ion binding",
+            "adherens junction organization",
+            "branching involved in ureteric bud morphogenesis",
+            "calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "cell migration involved in endocardial cushion formation",
+            "cell morphogenesis",
+            "cell-cell adhesion via plasma-membrane adhesion molecules",
+            "cell-cell junction assembly",
+            "cochlea development",
+            "condensed mesenchymal cell proliferation",
+            "digestive tract development",
+            "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "hippo signaling",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "mitral valve formation",
+            "neural tube development",
+            "neurogenesis",
+            "ossification involved in bone maturation",
+            "pattern specification process",
+            "post-anal tail morphogenesis",
+            "protein localization to plasma membrane"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Van Maldergem syndrome 1",
+            "Mitral valve prolapse 2",
+            "Deafness",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Van Maldergem syndrome 1: An autosomal recessive disorder characterized by intellectual disability, typical craniofacial features, auditory malformations resulting in hearing loss, and skeletal and limb malformations. Some patients have renal hypoplasia. Brain MRI typically shows periventricular nodular heterotopia.",
+            "Mitral valve prolapse 2: A form of mitral valve prolapse, a valvular heart disease characterized by abnormally elongated and thickened mitral valve leaflets, that typically show myxomatous degeneration with increased leaflet compliance. It is associated with mitral regurgitation. Myxomatous mitral valves have an abnormal layered architecture characterized by loose collagen in fibrosa, expanded spongiosa strongly positive for proteoglycans, and disrupted elastin in atrialis. In classic mitral valve prolapse, leaflets are at least 5 mm thick, whereas in the non-classic form, they are less than 5 mm thick. Severe classic mitral valve prolapse is strongly associated with arrhythmias, endocarditis, heart failure, and need for valve surgery. MVP2 inheritance is autosomal dominant."
+        ],
+        "Complexes": [
+            "Heterophilic interaction with FAT4; this interaction affects their respective protein levels"
+        ]
+    },
+    "DICER1": {
+        "UniProtKB_ID": "DICER_HUMAN",
+        "Description": "Endoribonuclease Dicer",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "extracellular exosome",
+            "nucleus",
+            "perinuclear region of cytoplasm",
+            "RISC complex",
+            "RISC-loading complex",
+            "ATP binding",
+            "deoxyribonuclease I activity",
+            "DNA binding",
+            "double-stranded RNA binding",
+            "endoribonuclease activity",
+            "helicase activity",
+            "metal ion binding",
+            "pre-miRNA binding",
+            "protein domain specific binding",
+            "ribonuclease III activity",
+            "RNA binding",
+            "siRNA binding",
+            "apoptotic DNA fragmentation",
+            "global gene silencing by mRNA cleavage",
+            "miRNA metabolic process",
+            "miRNA processing",
+            "negative regulation of gene expression",
+            "negative regulation of Schwann cell proliferation",
+            "negative regulation of transcription by RNA polymerase II",
+            "negative regulation of tumor necrosis factor production",
+            "nerve development",
+            "neuron projection morphogenesis",
+            "NIK/NF-kappaB signaling",
+            "peripheral nervous system myelin formation",
+            "positive regulation of myelination",
+            "positive regulation of Schwann cell differentiation",
+            "pre-miRNA processing",
+            "RISC complex assembly",
+            "RNA phosphodiester bond hydrolysis",
+            "RNA phosphodiester bond hydrolysis, endonucleolytic",
+            "siRNA processing",
+            "tRNA catabolic process"
+        ],
+        "Location": [
+            "cytoplasm",
+            "perinuclear region"
+        ],
+        "Disease": [
+            "Pleuropulmonary blastoma",
+            "Goiter multinodular 1",
+            "Rhabdomyosarcoma",
+            "Global developmental delay",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Pleuropulmonary blastoma: A rare pediatric intrathoracic neoplasm. The tumor arises from the lung, pleura, or both, and appears to be purely mesenchymal in phenotype. It lacks malignant epithelial elements, a feature that distinguishes it from the classic adult-type pulmonary blastoma. It arises during fetal lung development and is often part of an inherited cancer syndrome. The tumor contain both epithelial and mesenchymal cells. Early in tumorigenesis, cysts form in lung airspaces, and these cysts are lined with benign-appearing epithelium. Mesenchymal cells susceptible to malignant transformation reside within the cyst walls and form a dense layer beneath the epithelial lining. In a subset of patients, overgrowth of the mesenchymal cells produces a sarcoma, a transition that is associated with a poorer prognosis. Some patients have multilocular cystic nephroma, a benign kidney tumor.",
+            "Goiter multinodular 1: A common disorder characterized by nodular overgrowth of the thyroid gland. Some individuals may also develop Sertoli-Leydig cell tumors, usually of the ovary.",
+            "Rhabdomyosarcoma: A form of rhabdomyosarcoma, a highly malignant tumor of striated muscle derived from primitive mesenchymal cells and exhibiting differentiation along rhabdomyoblastic lines. Rhabdomyosarcoma is one of the most frequently occurring soft tissue sarcomas and the most common in children. It occurs in four forms: alveolar, pleomorphic, embryonal and botryoidal rhabdomyosarcomas.",
+            "Global developmental delay: A disease characterized by the association of congenital nephromegaly, bilateral Wilms tumor, somatic overgrowth, developmental delay, macrocephaly, and bilateral lung cysts."
+        ],
+        "Complexes": [
+            "Component of the RISC loading complex (RLC), or micro-RNA (miRNA) loading complex (miRLC), which is composed of DICER1, AGO2 and TARBP2; DICER1 and TARBP2 are required to process precursor miRNAs (pre-miRNAs) to mature miRNAs and then load them onto AGO2. Note that the trimeric RLC/miRLC is also referred to as RISC. Interacts with DHX9, AGO1, PIWIL1 and PRKRA. Associates with the 60S ribosome. Interacts with BCDIN3D. Interacts with AGO2, TARBP2, EIF6, MOV10 and RPL7A (60S ribosome subunit); they form a large RNA-induced silencing complex (RISC) (PubMed:17507929). Interacts (via Dicer dsRNA-binding fold domain) with ALOX5 (via PLAT domain); this interaction enhances arachidonate 5-lipoxygenase activity and modifies the miRNA precursor processing activity of DICER1 (PubMed:19022417)",
+            "(Microbial infection) Interacts with ebolavirus transcriptional activator VP30; this interaction prevents TARBP2/TRBP binding to DICER1 and thus allows the virus to counteract host RNA silencing",
+            "(Microbial infection) Interacts with ebolavirus transcriptional activator VP35; this interaction prevents TARBP2/TRBP binding to DICER1 and thus allows the virus to counteract host RNA silencing"
+        ]
+    },
+    "DTWD2": {
+        "UniProtKB_ID": "DTWD2_HUMAN",
+        "Description": "tRNA-uridine aminocarboxypropyltransferase 2",
+        "GO": [
+            "cytoplasm",
+            "nucleus",
+            "tRNA-uridine aminocarboxypropyltransferase activity",
+            "tRNA modification"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "DTX4": {
+        "UniProtKB_ID": "DTX4_HUMAN",
+        "Description": "E3 ubiquitin-protein ligase DTX4",
+        "GO": [
+            "cytosol",
+            "nucleoplasm",
+            "ubiquitin protein ligase activity",
+            "ubiquitin-protein transferase activity",
+            "zinc ion binding",
+            "Notch signaling pathway",
+            "protein ubiquitination",
+            "regulation of type I interferon production"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with NLRP4"
+        ]
+    },
+    "FAM169BP": {
+        "UniProtKB_ID": "F169B_HUMAN",
+        "Description": "Protein FAM169BP",
+        "GO": [],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "FAT1": {
+        "UniProtKB_ID": "FAT1_HUMAN",
+        "Description": "Protocadherin Fat 1",
+        "GO": [
+            "apical plasma membrane",
+            "cell-cell junction",
+            "extracellular exosome",
+            "filopodium",
+            "focal adhesion",
+            "lamellipodium",
+            "nucleus",
+            "perinuclear region of cytoplasm",
+            "plasma membrane",
+            "calcium ion binding",
+            "actin filament organization",
+            "anatomical structure morphogenesis",
+            "cell adhesion",
+            "cell migration",
+            "cell-cell adhesion",
+            "cell-cell signaling",
+            "epithelial cell morphogenesis",
+            "establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis",
+            "establishment or maintenance of cell polarity",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "lens development in camera-type eye"
+        ],
+        "Location": [
+            "nucleus",
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts (via the C-terminus 4300-4400 AA) with ATN1 (PubMed:19131340). Interacts with RERE (PubMed:19131340)"
+        ]
+    },
+    "FAT3": {
+        "UniProtKB_ID": "FAT3_HUMAN",
+        "Description": "Protocadherin Fat 3",
+        "GO": [
+            "dendrite",
+            "plasma membrane",
+            "calcium ion binding",
+            "cell morphogenesis involved in differentiation",
+            "cell-cell adhesion",
+            "dendrite development",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "interneuron migration",
+            "negative regulation of dendrite development",
+            "retina layer formation"
+        ],
+        "Location": [
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "FAT4": {
+        "UniProtKB_ID": "FAT4_HUMAN",
+        "Description": "Protocadherin Fat 4",
+        "GO": [
+            "extracellular exosome",
+            "plasma membrane",
+            "calcium ion binding",
+            "cell-cell adhesion",
+            "cerebral cortex development",
+            "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",
+            "hippo signaling",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "neurogenesis"
+        ],
+        "Location": [
+            "membrane"
+        ],
+        "Disease": [
+            "Van Maldergem syndrome 2",
+            "Hennekam lymphangiectasia-lymphedema syndrome 2",
+            "Deafness",
+            "Disease variant",
+            "Intellectual disability"
+        ],
+        "Disease_description": [
+            "Van Maldergem syndrome 2: An autosomal recessive disorder characterized by intellectual disability, typical craniofacial features, auditory malformations resulting in hearing loss, and skeletal and limb malformations. Some patients have renal hypoplasia. Brain MRI typically shows periventricular nodular heterotopia.",
+            "Hennekam lymphangiectasia-lymphedema syndrome 2: A form of Hennekam lymphangiectasia-lymphedema syndrome, a generalized lymph-vessels dysplasia characterized by intestinal lymphangiectasia with severe lymphedema of the limbs, genitalia and face. In addition, affected individuals have unusual facies and some manifest intellectual disability. HKLLS2 individuals have lymphangiectasia variably affecting the gut, pericardium, lungs, kidneys, and genitalia. Other features include camptodactyly and rare syndactyly. HKLLS2 inheritance is autosomal recessive."
+        ],
+        "Complexes": [
+            "Heterophilic interaction with DCHS1; this interaction affects their respective protein levels. Interacts (via cytoplasmic domain) with MPDZ. Forms a complex with PALS1 and MPDZ"
+        ]
+    },
+    "FREM2": {
+        "UniProtKB_ID": "FREM2_HUMAN",
+        "Description": "FRAS1-related extracellular matrix protein 2",
+        "GO": [
+            "basement membrane",
+            "collagen-containing extracellular matrix",
+            "extracellular exosome",
+            "plasma membrane",
+            "metal ion binding",
+            "anatomical structure morphogenesis",
+            "cell adhesion",
+            "cell communication",
+            "embryonic digit morphogenesis",
+            "eye development",
+            "heart development",
+            "inner ear development",
+            "kidney development",
+            "morphogenesis of an epithelium"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Fraser syndrome 2",
+            "Cryptophthalmos",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Fraser syndrome 2: A form of Fraser syndrome, an autosomal recessive disorder characterized by cryptophthalmos, cutaneous syndactyly, and urogenital abnormalities including renal agenesis or hypoplasia. Additional features include abnormalities of the larynx, ear malformations, and facial abnormalities.",
+            "Cryptophthalmos: An autosomal dominant, rare condition characterized by congenital eyelid malformation with an underlying malformed eye. It can be bilateral or unilateral and is classified into complete (typical), incomplete (atypical) and abortive (congenital symblepharon) forms. The skin of patients with complete cryptophthalmos extends uninterrupted from the forehead to the cheek, whereas incomplete cryptophthalmos exists when there is medial eyelid fusion, but coincident intact lateral structures. The symblepharon variety presents with fusion of the upper eyelid skin to the superior aspect of the globe. The complete variety is the most common form."
+        ],
+        "Complexes": [
+            "Interacts with FREM1"
+        ]
+    },
+    "FZD3": {
+        "UniProtKB_ID": "FZD3_HUMAN",
+        "Description": "Frizzled-3",
+        "GO": [
+            "apical plasma membrane",
+            "axon",
+            "cell surface",
+            "cytoplasm",
+            "dendrite",
+            "filopodium tip",
+            "lateral plasma membrane",
+            "membrane",
+            "neuronal cell body",
+            "plasma membrane",
+            "presynaptic active zone",
+            "G protein-coupled receptor activity",
+            "PDZ domain binding",
+            "Wnt receptor activity",
+            "Wnt-protein binding",
+            "canonical Wnt signaling pathway",
+            "cell proliferation in midbrain",
+            "commissural neuron axon guidance",
+            "dopaminergic neuron axon guidance",
+            "establishment of planar polarity",
+            "hair follicle development",
+            "inner ear morphogenesis",
+            "midbrain morphogenesis",
+            "motor neuron migration",
+            "negative regulation of execution phase of apoptosis",
+            "negative regulation of mitotic cell cycle, embryonic",
+            "neural tube closure",
+            "neuron differentiation",
+            "planar cell polarity pathway involved in axon guidance",
+            "positive regulation of neuroblast proliferation",
+            "post-anal tail morphogenesis",
+            "response to electrical stimulus",
+            "response to xenobiotic stimulus",
+            "serotonergic neuron axon guidance",
+            "sympathetic ganglion development",
+            "Wnt signaling pathway, planar cell polarity pathway"
+        ],
+        "Location": [
+            "cell surface",
+            "apical cell membrane",
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with VANGL2"
+        ]
+    },
+    "HPSE2": {
+        "UniProtKB_ID": "HPSE2_HUMAN",
+        "Description": "Inactive heparanase-2",
+        "GO": [
+            "extracellular matrix",
+            "extracellular space",
+            "plasma membrane",
+            "heparan sulfate proteoglycan binding",
+            "heparanase activity",
+            "cell population proliferation",
+            "extracellular matrix organization",
+            "positive regulation of cell population proliferation"
+        ],
+        "Location": [
+            "extracellular matrix",
+            "secreted",
+            "extracellular space"
+        ],
+        "Disease": [
+            "Urofacial syndrome 1"
+        ],
+        "Disease_description": [
+            "Urofacial syndrome 1: A rare autosomal recessive disorder characterized by facial grimacing when attempting to smile and failure of the urinary bladder to void completely despite a lack of anatomical bladder outflow obstruction or overt neurological damage. Affected individuals often have reflux of infected urine from the bladder to the upper renal tract, with a risk of kidney damage and renal failure."
+        ],
+        "Complexes": [
+            "Interacts with HPSE. Interacts with SDC1 (via glycan chains)"
+        ]
+    },
+    "IFNE": {
+        "UniProtKB_ID": "IFNE_HUMAN",
+        "Description": "Interferon epsilon",
+        "GO": [
+            "extracellular space",
+            "cytokine activity",
+            "type I interferon receptor binding",
+            "adaptive immune response",
+            "B cell differentiation",
+            "B cell proliferation",
+            "cellular response to virus",
+            "cytokine-mediated signaling pathway",
+            "defense response to bacterium",
+            "defense response to virus",
+            "humoral immune response",
+            "natural killer cell activation involved in immune response",
+            "positive regulation of peptidyl-serine phosphorylation of STAT protein",
+            "response to exogenous dsRNA",
+            "T cell activation involved in immune response",
+            "type I interferon-mediated signaling pathway"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "INSL4": {
+        "UniProtKB_ID": "INSL4_HUMAN",
+        "Description": "Early placenta insulin-like peptide",
+        "GO": [
+            "extracellular space",
+            "hormone activity",
+            "insulin-like growth factor receptor binding",
+            "signaling receptor binding",
+            "cell-cell signaling",
+            "positive regulation of chorionic trophoblast cell proliferation"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "LAG3": {
+        "UniProtKB_ID": "LAG3_HUMAN",
+        "Description": "Lymphocyte activation gene 3 protein",
+        "GO": [
+            "external side of plasma membrane",
+            "extracellular region",
+            "plasma membrane",
+            "antigen binding",
+            "MHC class II protein binding",
+            "transmembrane signaling receptor activity",
+            "adaptive immune response",
+            "cell surface receptor signaling pathway",
+            "natural killer cell mediated cytotoxicity",
+            "negative regulation of interleukin-2 production",
+            "negative regulation of regulatory T cell differentiation",
+            "plasmacytoid dendritic cell activation",
+            "positive regulation of natural killer cell mediated cytotoxicity",
+            "regulation of immune response",
+            "T cell activation"
+        ],
+        "Location": [
+            "secreted",
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with MHC class II (MHC-II); selectively recognizes stable complexes of peptide and MHC-II (PubMed:1692078, PubMed:7589152, PubMed:8647185, PubMed:9159144). Interacts with FGL1 (via the Fibrinogen C-terminal domain) (PubMed:30580966)"
+        ]
+    },
+    "LINC02694": {
+        "UniProtKB_ID": "CO053_HUMAN",
+        "Description": "Putative uncharacterized protein encoded by LINC02694",
+        "GO": [],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "LIX1L": {
+        "UniProtKB_ID": "LIX1L_HUMAN",
+        "Description": "LIX1-like protein",
+        "GO": [
+            "cytoplasm",
+            "autophagosome maturation"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "NXPH2": {
+        "UniProtKB_ID": "NXPH2_HUMAN",
+        "Description": "Neurexophilin-2",
+        "GO": [
+            "extracellular region",
+            "signaling receptor binding",
+            "neuropeptide signaling pathway"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PASK": {
+        "UniProtKB_ID": "PASK_HUMAN",
+        "Description": "PAS domain-containing serine/threonine-protein kinase",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "nucleus",
+            "ATP binding",
+            "phosphatidylinositol binding",
+            "protein serine kinase activity",
+            "protein serine/threonine kinase activity",
+            "energy homeostasis",
+            "intracellular signal transduction",
+            "negative regulation of glycogen biosynthetic process",
+            "positive regulation of translation",
+            "protein autophosphorylation",
+            "protein phosphorylation",
+            "regulation of glucagon secretion",
+            "regulation of respiratory gaseous exchange"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PCDH20": {
+        "UniProtKB_ID": "PCD20_HUMAN",
+        "Description": "Protocadherin-20",
+        "GO": [
+            "plasma membrane",
+            "calcium ion binding",
+            "RNA binding",
+            "cell adhesion",
+            "homophilic cell adhesion via plasma membrane adhesion molecules"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PCDH7": {
+        "UniProtKB_ID": "PCDH7_HUMAN",
+        "Description": "Protocadherin-7",
+        "GO": [
+            "plasma membrane",
+            "platelet alpha granule membrane",
+            "calcium ion binding",
+            "cell adhesion",
+            "homophilic cell adhesion via plasma membrane adhesion molecules"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PPIAL4E": {
+        "UniProtKB_ID": "PAL4E_HUMAN",
+        "Description": "Peptidyl-prolyl cis-trans isomerase A-like 4E",
+        "GO": [
+            "cytoplasm",
+            "intracellular membrane-bounded organelle",
+            "cyclosporin A binding",
+            "peptidyl-prolyl cis-trans isomerase activity",
+            "protein folding",
+            "protein peptidyl-prolyl isomerization"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PPIAL4G": {
+        "UniProtKB_ID": "PAL4G_HUMAN",
+        "Description": "Peptidyl-prolyl cis-trans isomerase A-like 4G",
+        "GO": [
+            "cytoplasm",
+            "intracellular membrane-bounded organelle",
+            "cyclosporin A binding",
+            "peptidyl-prolyl cis-trans isomerase activity",
+            "protein folding",
+            "protein peptidyl-prolyl isomerization"
+        ],
+        "Location": [
+            "cytoplasm"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "PRSS37": {
+        "UniProtKB_ID": "PRS37_HUMAN",
+        "Description": "Probable inactive serine protease 37",
+        "GO": [
+            "acrosomal vesicle",
+            "cytoplasm",
+            "extracellular region",
+            "intracellular membrane-bounded organelle",
+            "nucleus",
+            "serine-type endopeptidase activity",
+            "binding of sperm to zona pellucida",
+            "cell migration",
+            "germ cell migration",
+            "positive regulation of acrosome reaction",
+            "positive regulation of fertilization",
+            "protein maturation",
+            "proteolysis",
+            "regulation of protein processing"
+        ],
+        "Location": [
+            "cytoplasmic vesicle",
+            "secretory vesicle",
+            "acrosome",
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "RBPJL": {
+        "UniProtKB_ID": "RBPJL_HUMAN",
+        "Description": "Recombining binding protein suppressor of hairless-like protein",
+        "GO": [
+            "chromatin",
+            "nucleus",
+            "transcription regulator complex",
+            "chromatin binding",
+            "DNA-binding transcription activator activity, RNA polymerase II-specific",
+            "DNA-binding transcription factor activity",
+            "DNA-binding transcription factor activity, RNA polymerase II-specific",
+            "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "signal transduction"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts weakly with EBNA2. Does not interact with any Notch proteins (By similarity)"
+        ]
+    },
+    "SMTNL1": {
+        "UniProtKB_ID": "SMTL1_HUMAN",
+        "Description": "Smoothelin-like protein 1",
+        "GO": [
+            "contractile fiber",
+            "cytoplasm",
+            "filamentous actin",
+            "I band",
+            "M band",
+            "microtubule organizing center",
+            "nucleus",
+            "calmodulin binding",
+            "CH domain binding",
+            "disordered domain specific binding",
+            "protein phosphatase 1 binding",
+            "protein self-association",
+            "tropomyosin binding",
+            "actin cytoskeleton organization",
+            "muscle organ morphogenesis",
+            "negative regulation of DNA-templated transcription",
+            "peptidyl-serine phosphorylation",
+            "positive regulation of vasoconstriction",
+            "response to activity",
+            "response to xenobiotic stimulus",
+            "vasoconstriction"
+        ],
+        "Location": [
+            "cytoplasm",
+            "myofibril",
+            "sarcomere",
+            "m line",
+            "nucleus",
+            "i band"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with PPP1R12A"
+        ]
+    },
+    "SOCS1": {
+        "UniProtKB_ID": "SOCS1_HUMAN",
+        "Description": "Suppressor of cytokine signaling 1",
+        "GO": [
+            "cytoplasm",
+            "cytoplasmic ribonucleoprotein granule",
+            "cytoplasmic vesicle",
+            "cytosol",
+            "nucleoplasm",
+            "phosphatidylinositol 3-kinase complex",
+            "1-phosphatidylinositol-3-kinase regulator activity",
+            "insulin-like growth factor receptor binding",
+            "kinase inhibitor activity",
+            "protein kinase binding",
+            "protein kinase inhibitor activity",
+            "cellular response to amino acid stimulus",
+            "cytokine-mediated signaling pathway",
+            "fat cell differentiation",
+            "intracellular signal transduction",
+            "macrophage differentiation",
+            "negative regulation of CD8-positive, alpha-beta T cell differentiation",
+            "negative regulation of insulin receptor signaling pathway",
+            "negative regulation of receptor signaling pathway via JAK-STAT",
+            "negative regulation of tyrosine phosphorylation of STAT protein",
+            "phosphatidylinositol phosphate biosynthetic process",
+            "positive regulation of CD4-positive, alpha-beta T cell differentiation",
+            "positive regulation of regulatory T cell differentiation",
+            "protein ubiquitination",
+            "receptor signaling pathway via JAK-STAT",
+            "regulation of activation of Janus kinase activity",
+            "regulation of cytokine production",
+            "regulation of protein phosphorylation"
+        ],
+        "Location": [
+            "cytoplasmic vesicle",
+            "nucleus"
+        ],
+        "Disease": [
+            "Autoinflammatory syndrome",
+            "Disease variant"
+        ],
+        "Disease_description": [
+            "Autoinflammatory syndrome: An autosomal dominant, autoinflammatory disorder with incomplete penetrance characterized by autoimmune cytopenia, hemolytic anemia, thrombocytopenia, and lymphadenopathy. Additional variable features may include autoimmune thyroiditis, psoriasis or eczema, nephritis, hepatitis, and symptoms of systemic lupus erythematosus. Immunodeficiency is present in some patients. Disease onset is usually in the first decades of life, although later onset has been reported."
+        ],
+        "Complexes": [
+            "Interacts with multiple activated signaling proteins of the tyrosine kinase signaling pathway including JAK family kinases, TEC, KIT, GRB2 and VAV. Binding to JAKs is mediated through the KIR and SH2 domains to a phosphorylated tyrosine residue within the JAK JH1 domain. Binds the SH3 domain of GRB2 via diproline determinants in the N-terminus, and the N-terminal regulatory domain of VAV (By similarity). Interacts with the Elongin BC complex (ELOB and ELOC). Component of an ECS CBC(SOCS1) E3 ubiquitin-protein ligase complex which contains Elongin BC, CUL5, RBX1 and SOCS1 (By similarity). Interacts (via SH2 domain and SOCS box) with TRIM8 (By similarity). Interacts with AXL, CUL2 and FGFR3. Interacts with INSR (By similarity). Interacts with TRIM8 (PubMed:12163497). Interacts with DCUN1D1 (PubMed:23401859). Interacts with IFNGR1 (By similarity)"
+        ]
+    },
+    "SPATA4": {
+        "UniProtKB_ID": "SPAT4_HUMAN",
+        "Description": "Spermatogenesis-associated protein 4",
+        "GO": [
+            "axoneme",
+            "nucleus",
+            "microtubule binding",
+            "regulation of cytoskeleton organization"
+        ],
+        "Location": [
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "SSX6P": {
+        "UniProtKB_ID": "SSX6_HUMAN",
+        "Description": "Putative protein SSX6",
+        "GO": [
+            "nucleus",
+            "regulation of DNA-templated transcription"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "TAFA5": {
+        "UniProtKB_ID": "TAFA5_HUMAN",
+        "Description": "Chemokine-like protein TAFA-5",
+        "GO": [
+            "cytoplasm",
+            "extracellular space",
+            "cytokine activity",
+            "G protein-coupled receptor binding",
+            "receptor ligand activity",
+            "G protein-coupled receptor signaling pathway",
+            "negative regulation of vascular associated smooth muscle cell migration",
+            "negative regulation of vascular associated smooth muscle cell proliferation",
+            "negative regulation of vascular wound healing"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "UCN3": {
+        "UniProtKB_ID": "UCN3_HUMAN",
+        "Description": "Urocortin-3",
+        "GO": [
+            "axon terminus",
+            "extracellular region",
+            "extracellular space",
+            "varicosity",
+            "corticotropin-releasing hormone receptor 2 binding",
+            "corticotropin-releasing hormone receptor binding",
+            "hormone activity",
+            "adenylate cyclase-activating G protein-coupled receptor signaling pathway",
+            "cellular response to hypoxia",
+            "cellular response to nutrient levels",
+            "digestion",
+            "hormone-mediated signaling pathway",
+            "positive regulation of insulin secretion",
+            "positive regulation of membrane potential",
+            "response to corticosterone",
+            "response to glucose",
+            "response to immobilization stress",
+            "response to starvation"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds with high affinity to CRF receptors 2-alpha and 2-beta"
+        ]
+    },
+    "XAGE1A": {
+        "UniProtKB_ID": "XAGE1_HUMAN",
+        "Description": "X antigen family member 1",
+        "GO": [],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "XAGE1B": {
+        "UniProtKB_ID": "XAGE1_HUMAN",
+        "Description": "X antigen family member 1",
+        "GO": [],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "XCL1": {
+        "UniProtKB_ID": "XCL1_HUMAN",
+        "Description": "Lymphotactin",
+        "GO": [
+            "extracellular region",
+            "extracellular space",
+            "CCR chemokine receptor binding",
+            "chemokine activity",
+            "chemokine receptor binding",
+            "protein homodimerization activity",
+            "antimicrobial humoral immune response mediated by antimicrobial peptide",
+            "cell-cell signaling",
+            "cellular response to interleukin-1",
+            "cellular response to interleukin-4",
+            "cellular response to transforming growth factor beta stimulus",
+            "cellular response to tumor necrosis factor",
+            "cellular response to type II interferon",
+            "chemokine-mediated signaling pathway",
+            "G protein-coupled receptor signaling pathway",
+            "inflammatory response",
+            "killing of cells of another organism",
+            "lymphocyte chemotaxis",
+            "mature natural killer cell chemotaxis",
+            "monocyte chemotaxis",
+            "negative regulation of CD4-positive, alpha-beta T cell proliferation",
+            "negative regulation of DNA-binding transcription factor activity",
+            "negative regulation of DNA-templated transcription",
+            "negative regulation of interleukin-2 production",
+            "negative regulation of T cell cytokine production",
+            "negative regulation of T-helper 1 cell activation",
+            "negative regulation of T-helper 1 type immune response",
+            "negative regulation of type II interferon production",
+            "neutrophil chemotaxis",
+            "positive regulation of B cell chemotaxis",
+            "positive regulation of CD4-positive, alpha-beta T cell proliferation",
+            "positive regulation of CD8-positive, alpha-beta T cell proliferation",
+            "positive regulation of ERK1 and ERK2 cascade",
+            "positive regulation of granzyme A production",
+            "positive regulation of granzyme B production",
+            "positive regulation of GTPase activity",
+            "positive regulation of immunoglobulin production in mucosal tissue",
+            "positive regulation of interleukin-10 production",
+            "positive regulation of leukocyte chemotaxis",
+            "positive regulation of natural killer cell chemotaxis",
+            "positive regulation of neutrophil chemotaxis",
+            "positive regulation of release of sequestered calcium ion into cytosol",
+            "positive regulation of T cell chemotaxis",
+            "positive regulation of T cell cytokine production",
+            "positive regulation of T cell mediated cytotoxicity",
+            "positive regulation of T-helper 1 cell cytokine production",
+            "positive regulation of T-helper 2 cell cytokine production",
+            "positive regulation of thymocyte migration",
+            "positive regulation of transforming growth factor beta production",
+            "regulation of inflammatory response",
+            "release of sequestered calcium ion into cytosol",
+            "response to virus",
+            "signal transduction"
+        ],
+        "Location": [
+            "secreted"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "XYLB": {
+        "UniProtKB_ID": "XYLB_HUMAN",
+        "Description": "Xylulose kinase",
+        "GO": [
+            "cytosol",
+            "ATP binding",
+            "phosphotransferase activity, alcohol group as acceptor",
+            "xylulokinase activity",
+            "carbohydrate metabolic process",
+            "D-xylose metabolic process",
+            "generation of precursor metabolites and energy",
+            "glucuronate catabolic process to xylulose 5-phosphate",
+            "phosphorylation",
+            "xylulose catabolic process",
+            "xylulose metabolic process"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Monomer"
+        ]
+    },
+    "ZBBX": {
+        "UniProtKB_ID": "ZBBX_HUMAN",
+        "Description": "Zinc finger B-box domain-containing protein 1",
+        "GO": [
+            "motile cilium",
+            "metal ion binding",
+            "cilium movement"
+        ],
+        "Location": [],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    }
+}

@@ -1,0 +1,565 @@
+Feature	Number of Genes	Genes
+cytoplasm	17	ADGRV1, CASP1, CELSR2, DCANP1, DCDC1, DICER1, DTWD2, DTX4, FZD3, LIX1L, PASK, PPIAL4E, PPIAL4G, PRSS37, SMTNL1, SOCS1, TAFA5
+membrane	16	ADGRV1, CACNG2, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, DCHS1, FAT1, FAT3, FAT4, FREM2, FZD3, LAG3, PCDH20, PCDH7
+plasma membrane	16	ADGRV1, CACNG2, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, FAT1, FAT3, FAT4, FREM2, FZD3, HPSE2, LAG3, PCDH20, PCDH7
+nucleus	14	C2CD4A, C2CD4B, CC2D1B, DCANP1, DICER1, DTWD2, FAT1, PASK, PRSS37, RBPJL, SMTNL1, SOCS1, SPATA4, SSX6P
+cell membrane	13	ADGRV1, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, DCHS1, FAT1, FREM2, FZD3, LAG3, PCDH20, PCDH7
+secreted	12	ADAMTS13, CMA1, COL20A1, HPSE2, IFNE, INSL4, LAG3, NXPH2, PRSS37, TAFA5, UCN3, XCL1
+calcium ion binding	11	ADAMTS13, ADGRV1, CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, PCDH7
+extracellular space	10	ADAMTS13, CASP1, CMA1, COL20A1, HPSE2, IFNE, INSL4, TAFA5, UCN3, XCL1
+cytosol	9	C16orf46, CACNG2, CASP1, CMA1, DICER1, DTX4, PASK, SOCS1, XYLB
+homophilic cell adhesion via plasma membrane adhesion molecules	9	CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, PCDH7
+Disease variant	8	ADAMTS13, CACNG2, CELSR1, DCHS1, DICER1, FAT4, FREM2, SOCS1
+cell-cell adhesion	7	ADGRV1, CELSR1, CELSR2, CELSR3, FAT1, FAT3, FAT4
+nucleoplasm	7	C16orf46, C2CD4A, CC2D1B, CELSR1, DCANP1, DTX4, SOCS1
+extracellular region	7	CMA1, COL20A1, LAG3, NXPH2, PRSS37, UCN3, XCL1
+extracellular exosome	5	ADGRV1, DICER1, FAT1, FAT4, FREM2
+G protein-coupled receptor activity	5	ADGRV1, CELSR1, CELSR2, CELSR3, FZD3
+G protein-coupled receptor signaling pathway	5	ADGRV1, CELSR2, CELSR3, TAFA5, XCL1
+cell surface	4	ADAMTS13, ADGRV1, CACNG2, FZD3
+proteolysis	4	ADAMTS13, CARD16, CASP1, PRSS37
+intracellular membrane-bounded organelle	4	CC2D1B, PPIAL4E, PPIAL4G, PRSS37
+Wnt signaling pathway, planar cell polarity pathway	4	CELSR1, CELSR2, CELSR3, FZD3
+intracellular signal transduction	4	DCDC1, DCDC2B, PASK, SOCS1
+cell adhesion	4	FAT1, FREM2, PCDH20, PCDH7
+cellular response to lipopolysaccharide	3	ADAMTS13, CARD16, CASP1
+cellular response to type II interferon	3	ADAMTS13, CASP1, XCL1
+synapse	3	ADGRV1, CACNG2, CHRM5
+inner ear development	3	ADGRV1, DCANP1, FREM2
+Deafness	3	ADGRV1, DCHS1, FAT4
+Intellectual disability	3	CACNG2, DCHS1, FAT4
+microtubule	3	CASP1, DCDC1, DCDC2B
+regulation of inflammatory response	3	CASP1, CMA1, XCL1
+signal transduction	3	CASP1, RBPJL, XCL1
+dendrite	3	CHRM5, FAT3, FZD3
+collagen-containing extracellular matrix	3	CMA1, COL20A1, FREM2
+ATP binding	3	DICER1, PASK, XYLB
+metal ion binding	3	DICER1, FREM2, ZBBX
+cell-cell signaling	3	FAT1, INSL4, XCL1
+endoplasmic reticulum lumen	2	ADAMTS13, COL20A1
+extracellular matrix	2	ADAMTS13, HPSE2
+zinc ion binding	2	ADAMTS13, DTX4
+cellular response to interleukin-4	2	ADAMTS13, XCL1
+cellular response to tumor necrosis factor	2	ADAMTS13, XCL1
+extracellular matrix organization	2	ADAMTS13, HPSE2
+protein catabolic process	2	ADAMTS13, CMA1
+cell surface receptor signaling pathway	2	ADGRV1, LAG3
+nucleolus	2	C2CD4A, CASP1
+positive regulation of acute inflammatory response	2	C2CD4A, C2CD4B
+regulation of cell adhesion	2	C2CD4A, C2CD4B
+regulation of vascular permeability involved in acute inflammatory response	2	C2CD4A, C2CD4B
+transmission of nerve impulse	2	CACNG2, CHRM5
+protease inhibitor complex	2	CARD16, CASP1
+protein-containing complex	2	CARD16, CASP1
+CARD domain binding	2	CARD16, CASP1
+cysteine-type endopeptidase activity	2	CARD16, CASP1
+identical protein binding	2	CARD16, CASP1
+kinase binding	2	CARD16, CASP1
+cellular response to hypoxia	2	CARD16, UCN3
+positive regulation of I-kappaB kinase/NF-kappaB signaling	2	CARD16, CASP1
+endopeptidase activity	2	CASP1, CMA1
+cytokine precursor processing	2	CASP1, CMA1
+defense response to virus	2	CASP1, IFNE
+DNA-binding transcription factor activity, RNA polymerase II-specific	2	CC2D1B, RBPJL
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	2	CC2D1B, RBPJL
+establishment of planar polarity	2	CELSR1, FZD3
+neural tube closure	2	CELSR1, FZD3
+cilium movement	2	CELSR2, ZBBX
+motor neuron migration	2	CELSR2, FZD3
+regulation of DNA-templated transcription	2	CELSR2, SSX6P
+cytoplasmic ribonucleoprotein granule	2	CMA1, SOCS1
+serine-type endopeptidase activity	2	CMA1, PRSS37
+DNA binding	2	DCANP1, DICER1
+cochlea development	2	DCANP1, DCHS1
+inner ear morphogenesis	2	DCANP1, FZD3
+microtubule binding	2	DCDC1, SPATA4
+microtubule organizing center	2	DCDC2B, SMTNL1
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	2	DCHS1, FAT4
+hippo signaling	2	DCHS1, FAT4
+neurogenesis	2	DCHS1, FAT4
+post-anal tail morphogenesis	2	DCHS1, FZD3
+perinuclear region of cytoplasm	2	DICER1, FAT1
+RNA binding	2	DICER1, PCDH20
+protein ubiquitination	2	DTX4, SOCS1
+apical plasma membrane	2	FAT1, FZD3
+anatomical structure morphogenesis	2	FAT1, FREM2
+cell migration	2	FAT1, PRSS37
+response to xenobiotic stimulus	2	FZD3, SMTNL1
+cytokine activity	2	IFNE, TAFA5
+adaptive immune response	2	IFNE, LAG3
+cytokine-mediated signaling pathway	2	IFNE, SOCS1
+hormone activity	2	INSL4, UCN3
+insulin-like growth factor receptor binding	2	INSL4, SOCS1
+signaling receptor binding	2	INSL4, NXPH2
+negative regulation of interleukin-2 production	2	LAG3, XCL1
+cyclosporin A binding	2	PPIAL4E, PPIAL4G
+peptidyl-prolyl cis-trans isomerase activity	2	PPIAL4E, PPIAL4G
+protein folding	2	PPIAL4E, PPIAL4G
+protein peptidyl-prolyl isomerization	2	PPIAL4E, PPIAL4G
+cytoplasmic vesicle	2	PRSS37, SOCS1
+negative regulation of DNA-templated transcription	2	SMTNL1, XCL1
+integrin binding	1	ADAMTS13
+metalloendopeptidase activity	1	ADAMTS13
+metallopeptidase activity	1	ADAMTS13
+cell-matrix adhesion	1	ADAMTS13
+glycoprotein metabolic process	1	ADAMTS13
+integrin-mediated signaling pathway	1	ADAMTS13
+peptide catabolic process	1	ADAMTS13
+platelet activation	1	ADAMTS13
+protein processing	1	ADAMTS13
+response to amine	1	ADAMTS13
+response to potassium ion	1	ADAMTS13
+response to toxic substance	1	ADAMTS13
+Thrombotic thrombocytopenic purpura	1	ADAMTS13
+periciliary membrane compartment	1	ADGRV1
+photoreceptor inner segment	1	ADGRV1
+receptor complex	1	ADGRV1
+stereocilia ankle link	1	ADGRV1
+stereocilia ankle link complex	1	ADGRV1
+stereocilium	1	ADGRV1
+stereocilium membrane	1	ADGRV1
+USH2 complex	1	ADGRV1
+adenylate cyclase inhibitor activity	1	ADGRV1
+G-protein alpha-subunit binding	1	ADGRV1
+hydrolase activity	1	ADGRV1
+cellular response to calcium ion	1	ADGRV1
+detection of mechanical stimulus involved in sensory perception of sound	1	ADGRV1
+establishment of protein localization	1	ADGRV1
+inner ear receptor cell differentiation	1	ADGRV1
+inner ear receptor cell stereocilium organization	1	ADGRV1
+maintenance of animal organ identity	1	ADGRV1
+negative regulation of adenylate cyclase activity	1	ADGRV1
+nervous system development	1	ADGRV1
+nervous system process	1	ADGRV1
+photoreceptor cell maintenance	1	ADGRV1
+positive regulation of bone mineralization	1	ADGRV1
+positive regulation of protein kinase A signaling	1	ADGRV1
+positive regulation of protein kinase C signaling	1	ADGRV1
+regulation of protein stability	1	ADGRV1
+self proteolysis	1	ADGRV1
+sensory perception of light stimulus	1	ADGRV1
+sensory perception of sound	1	ADGRV1
+visual perception	1	ADGRV1
+cell projection	1	ADGRV1
+Usher syndrome 2C	1	ADGRV1
+Febrile seizures	1	ADGRV1
+Retinitis pigmentosa	1	ADGRV1
+Usher syndrome	1	ADGRV1
+AMPA glutamate receptor complex	1	CACNG2
+cerebellar mossy fiber	1	CACNG2
+endocytic vesicle membrane	1	CACNG2
+glutamatergic synapse	1	CACNG2
+hippocampal mossy fiber to CA3 synapse	1	CACNG2
+postsynaptic density membrane	1	CACNG2
+Schaffer collateral - CA1 synapse	1	CACNG2
+somatodendritic compartment	1	CACNG2
+voltage-gated calcium channel complex	1	CACNG2
+channel regulator activity	1	CACNG2
+ionotropic glutamate receptor binding	1	CACNG2
+voltage-gated calcium channel activity	1	CACNG2
+eye blink reflex	1	CACNG2
+membrane depolarization	1	CACNG2
+membrane hyperpolarization	1	CACNG2
+neuromuscular junction development	1	CACNG2
+neurotransmitter receptor internalization	1	CACNG2
+neurotransmitter receptor localization to postsynaptic specialization membrane	1	CACNG2
+neurotransmitter receptor transport, postsynaptic endosome to lysosome	1	CACNG2
+positive regulation of AMPA receptor activity	1	CACNG2
+positive regulation of protein localization to basolateral plasma membrane	1	CACNG2
+positive regulation of synaptic transmission, glutamatergic	1	CACNG2
+postsynaptic neurotransmitter receptor diffusion trapping	1	CACNG2
+protein targeting to membrane	1	CACNG2
+regulation of AMPA receptor activity	1	CACNG2
+response to calcium ion	1	CACNG2
+synaptosome	1	CACNG2
+Intellectual developmental disorder	1	CACNG2
+caspase binding	1	CARD16
+cysteine-type endopeptidase inhibitor activity	1	CARD16
+cellular response to UV-C	1	CARD16
+inhibition of cysteine-type endopeptidase activity	1	CARD16
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	CARD16
+negative regulation of interleukin-1 beta production	1	CARD16
+negative regulation of lipopolysaccharide-mediated signaling pathway	1	CARD16
+negative regulation of protein binding	1	CARD16
+negative regulation of tumor necrosis factor-mediated signaling pathway	1	CARD16
+positive regulation of NF-kappaB transcription factor activity	1	CARD16
+AIM2 inflammasome complex	1	CASP1
+caspase complex	1	CASP1
+inflammasome complex	1	CASP1
+IPAF inflammasome complex	1	CASP1
+NLRP1 inflammasome complex	1	CASP1
+NLRP3 inflammasome complex	1	CASP1
+cysteine-type endopeptidase activator activity involved in apoptotic process	1	CASP1
+cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1	CASP1
+apoptotic process	1	CASP1
+cellular response to mechanical stimulus	1	CASP1
+cellular response to organic substance	1	CASP1
+icosanoid biosynthetic process	1	CASP1
+osmosensory signaling pathway	1	CASP1
+pattern recognition receptor signaling pathway	1	CASP1
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	CASP1
+positive regulation of inflammatory response	1	CASP1
+positive regulation of interleukin-1 beta production	1	CASP1
+positive regulation of neuron apoptotic process	1	CASP1
+positive regulation of release of cytochrome c from mitochondria	1	CASP1
+positive regulation of tumor necrosis factor-mediated signaling pathway	1	CASP1
+protein autoprocessing	1	CASP1
+pyroptosis	1	CASP1
+regulation of apoptotic process	1	CASP1
+signaling receptor ligand precursor processing	1	CASP1
+nuclear envelope	1	CC2D1B
+DNA-binding transcription repressor activity, RNA polymerase II-specific	1	CC2D1B
+regulation of transcription by RNA polymerase II	1	CC2D1B
+apical protein localization	1	CELSR1
+central nervous system development	1	CELSR1
+establishment of body hair planar orientation	1	CELSR1
+establishment of planar polarity of embryonic epithelium	1	CELSR1
+lateral sprouting involved in lung morphogenesis	1	CELSR1
+neuron migration	1	CELSR1
+orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis	1	CELSR1
+planar dichotomous subdivision of terminal units involved in lung branching morphogenesis	1	CELSR1
+protein localization involved in establishment of planar polarity	1	CELSR1
+regulation of actin cytoskeleton organization	1	CELSR1
+Rho protein signal transduction	1	CELSR1
+Neural tube defects	1	CELSR1
+Lymphatic malformation 9	1	CELSR1
+cerebrospinal fluid secretion	1	CELSR2
+cilium assembly	1	CELSR2
+dendrite morphogenesis	1	CELSR2
+neural plate anterior/posterior regionalization	1	CELSR2
+regulation of cell-cell adhesion	1	CELSR2
+regulation of protein localization	1	CELSR2
+ventricular system development	1	CELSR2
+Wnt signaling pathway	1	CELSR2
+postsynaptic membrane	1	CHRM5
+G protein-coupled acetylcholine receptor activity	1	CHRM5
+G protein-coupled serotonin receptor activity	1	CHRM5
+neurotransmitter receptor activity	1	CHRM5
+phosphatidylinositol phospholipase C activity	1	CHRM5
+adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway	1	CHRM5
+chemical synaptic transmission	1	CHRM5
+dopamine transport	1	CHRM5
+G protein-coupled acetylcholine receptor signaling pathway	1	CHRM5
+G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	1	CHRM5
+gastric acid secretion	1	CHRM5
+regulation of phosphatidylinositol dephosphorylation	1	CHRM5
+postsynaptic cell membrane	1	CHRM5
+AP-1 adaptor complex	1	CLBA1
+trans-Golgi network membrane	1	CLBA1
+clathrin binding	1	CLBA1
+intracellular transport	1	CLBA1
+secretory granule	1	CMA1
+peptide binding	1	CMA1
+serine-type peptidase activity	1	CMA1
+angiotensin maturation	1	CMA1
+basement membrane disassembly	1	CMA1
+cellular response to glucose stimulus	1	CMA1
+extracellular matrix disassembly	1	CMA1
+midbrain development	1	CMA1
+positive regulation of angiogenesis	1	CMA1
+cytoplasmic granule	1	CMA1
+collagen trimer	1	COL20A1
+nuclear body	1	DCANP1
+auditory behavior	1	DCANP1
+cochlea morphogenesis	1	DCANP1
+craniofacial suture morphogenesis	1	DCANP1
+genitalia development	1	DCANP1
+genitalia morphogenesis	1	DCANP1
+hard palate morphogenesis	1	DCANP1
+learned vocalization behavior	1	DCANP1
+mastication	1	DCANP1
+negative regulation of relaxation of muscle	1	DCANP1
+negative regulation of saliva secretion	1	DCANP1
+neuromuscular process controlling balance	1	DCANP1
+peristalsis	1	DCANP1
+regulation of muscle organ development	1	DCANP1
+thorax and anterior abdomen determination	1	DCANP1
+trigeminal nerve development	1	DCANP1
+vestibulocochlear nerve formation	1	DCANP1
+Flemming body	1	DCDC1
+midbody	1	DCDC1
+mitotic spindle	1	DCDC1
+carbohydrate binding	1	DCDC1
+cell cycle	1	DCDC1
+cell division	1	DCDC1
+regulation of mitotic cytokinesis	1	DCDC1
+spindle	1	DCDC1
+midbody ring	1	DCDC1
+cytoskeleton	1	DCDC1
+adherens junction	1	DCHS1
+apical part of cell	1	DCHS1
+catenin complex	1	DCHS1
+cadherin binding	1	DCHS1
+adherens junction organization	1	DCHS1
+branching involved in ureteric bud morphogenesis	1	DCHS1
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	1	DCHS1
+cell migration involved in endocardial cushion formation	1	DCHS1
+cell morphogenesis	1	DCHS1
+cell-cell adhesion via plasma-membrane adhesion molecules	1	DCHS1
+cell-cell junction assembly	1	DCHS1
+condensed mesenchymal cell proliferation	1	DCHS1
+digestive tract development	1	DCHS1
+mitral valve formation	1	DCHS1
+neural tube development	1	DCHS1
+ossification involved in bone maturation	1	DCHS1
+pattern specification process	1	DCHS1
+protein localization to plasma membrane	1	DCHS1
+Van Maldergem syndrome 1	1	DCHS1
+Mitral valve prolapse 2	1	DCHS1
+RISC complex	1	DICER1
+RISC-loading complex	1	DICER1
+deoxyribonuclease I activity	1	DICER1
+double-stranded RNA binding	1	DICER1
+endoribonuclease activity	1	DICER1
+helicase activity	1	DICER1
+pre-miRNA binding	1	DICER1
+protein domain specific binding	1	DICER1
+ribonuclease III activity	1	DICER1
+siRNA binding	1	DICER1
+apoptotic DNA fragmentation	1	DICER1
+global gene silencing by mRNA cleavage	1	DICER1
+miRNA metabolic process	1	DICER1
+miRNA processing	1	DICER1
+negative regulation of gene expression	1	DICER1
+negative regulation of Schwann cell proliferation	1	DICER1
+negative regulation of transcription by RNA polymerase II	1	DICER1
+negative regulation of tumor necrosis factor production	1	DICER1
+nerve development	1	DICER1
+neuron projection morphogenesis	1	DICER1
+NIK/NF-kappaB signaling	1	DICER1
+peripheral nervous system myelin formation	1	DICER1
+positive regulation of myelination	1	DICER1
+positive regulation of Schwann cell differentiation	1	DICER1
+pre-miRNA processing	1	DICER1
+RISC complex assembly	1	DICER1
+RNA phosphodiester bond hydrolysis	1	DICER1
+RNA phosphodiester bond hydrolysis, endonucleolytic	1	DICER1
+siRNA processing	1	DICER1
+tRNA catabolic process	1	DICER1
+perinuclear region	1	DICER1
+Pleuropulmonary blastoma	1	DICER1
+Goiter multinodular 1	1	DICER1
+Rhabdomyosarcoma	1	DICER1
+Global developmental delay	1	DICER1
+tRNA-uridine aminocarboxypropyltransferase activity	1	DTWD2
+tRNA modification	1	DTWD2
+ubiquitin protein ligase activity	1	DTX4
+ubiquitin-protein transferase activity	1	DTX4
+Notch signaling pathway	1	DTX4
+regulation of type I interferon production	1	DTX4
+cell-cell junction	1	FAT1
+filopodium	1	FAT1
+focal adhesion	1	FAT1
+lamellipodium	1	FAT1
+actin filament organization	1	FAT1
+epithelial cell morphogenesis	1	FAT1
+establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis	1	FAT1
+establishment or maintenance of cell polarity	1	FAT1
+lens development in camera-type eye	1	FAT1
+cell morphogenesis involved in differentiation	1	FAT3
+dendrite development	1	FAT3
+interneuron migration	1	FAT3
+negative regulation of dendrite development	1	FAT3
+retina layer formation	1	FAT3
+cerebral cortex development	1	FAT4
+Van Maldergem syndrome 2	1	FAT4
+Hennekam lymphangiectasia-lymphedema syndrome 2	1	FAT4
+basement membrane	1	FREM2
+cell communication	1	FREM2
+embryonic digit morphogenesis	1	FREM2
+eye development	1	FREM2
+heart development	1	FREM2
+kidney development	1	FREM2
+morphogenesis of an epithelium	1	FREM2
+Fraser syndrome 2	1	FREM2
+Cryptophthalmos	1	FREM2
+axon	1	FZD3
+filopodium tip	1	FZD3
+lateral plasma membrane	1	FZD3
+neuronal cell body	1	FZD3
+presynaptic active zone	1	FZD3
+PDZ domain binding	1	FZD3
+Wnt receptor activity	1	FZD3
+Wnt-protein binding	1	FZD3
+canonical Wnt signaling pathway	1	FZD3
+cell proliferation in midbrain	1	FZD3
+commissural neuron axon guidance	1	FZD3
+dopaminergic neuron axon guidance	1	FZD3
+hair follicle development	1	FZD3
+midbrain morphogenesis	1	FZD3
+negative regulation of execution phase of apoptosis	1	FZD3
+negative regulation of mitotic cell cycle, embryonic	1	FZD3
+neuron differentiation	1	FZD3
+planar cell polarity pathway involved in axon guidance	1	FZD3
+positive regulation of neuroblast proliferation	1	FZD3
+response to electrical stimulus	1	FZD3
+serotonergic neuron axon guidance	1	FZD3
+sympathetic ganglion development	1	FZD3
+apical cell membrane	1	FZD3
+heparan sulfate proteoglycan binding	1	HPSE2
+heparanase activity	1	HPSE2
+cell population proliferation	1	HPSE2
+positive regulation of cell population proliferation	1	HPSE2
+Urofacial syndrome 1	1	HPSE2
+type I interferon receptor binding	1	IFNE
+B cell differentiation	1	IFNE
+B cell proliferation	1	IFNE
+cellular response to virus	1	IFNE
+defense response to bacterium	1	IFNE
+humoral immune response	1	IFNE
+natural killer cell activation involved in immune response	1	IFNE
+positive regulation of peptidyl-serine phosphorylation of STAT protein	1	IFNE
+response to exogenous dsRNA	1	IFNE
+T cell activation involved in immune response	1	IFNE
+type I interferon-mediated signaling pathway	1	IFNE
+positive regulation of chorionic trophoblast cell proliferation	1	INSL4
+external side of plasma membrane	1	LAG3
+antigen binding	1	LAG3
+MHC class II protein binding	1	LAG3
+transmembrane signaling receptor activity	1	LAG3
+natural killer cell mediated cytotoxicity	1	LAG3
+negative regulation of regulatory T cell differentiation	1	LAG3
+plasmacytoid dendritic cell activation	1	LAG3
+positive regulation of natural killer cell mediated cytotoxicity	1	LAG3
+regulation of immune response	1	LAG3
+T cell activation	1	LAG3
+autophagosome maturation	1	LIX1L
+neuropeptide signaling pathway	1	NXPH2
+phosphatidylinositol binding	1	PASK
+protein serine kinase activity	1	PASK
+protein serine/threonine kinase activity	1	PASK
+energy homeostasis	1	PASK
+negative regulation of glycogen biosynthetic process	1	PASK
+positive regulation of translation	1	PASK
+protein autophosphorylation	1	PASK
+protein phosphorylation	1	PASK
+regulation of glucagon secretion	1	PASK
+regulation of respiratory gaseous exchange	1	PASK
+platelet alpha granule membrane	1	PCDH7
+acrosomal vesicle	1	PRSS37
+binding of sperm to zona pellucida	1	PRSS37
+germ cell migration	1	PRSS37
+positive regulation of acrosome reaction	1	PRSS37
+positive regulation of fertilization	1	PRSS37
+protein maturation	1	PRSS37
+regulation of protein processing	1	PRSS37
+secretory vesicle	1	PRSS37
+acrosome	1	PRSS37
+chromatin	1	RBPJL
+transcription regulator complex	1	RBPJL
+chromatin binding	1	RBPJL
+DNA-binding transcription activator activity, RNA polymerase II-specific	1	RBPJL
+DNA-binding transcription factor activity	1	RBPJL
+contractile fiber	1	SMTNL1
+filamentous actin	1	SMTNL1
+I band	1	SMTNL1
+M band	1	SMTNL1
+calmodulin binding	1	SMTNL1
+CH domain binding	1	SMTNL1
+disordered domain specific binding	1	SMTNL1
+protein phosphatase 1 binding	1	SMTNL1
+protein self-association	1	SMTNL1
+tropomyosin binding	1	SMTNL1
+actin cytoskeleton organization	1	SMTNL1
+muscle organ morphogenesis	1	SMTNL1
+peptidyl-serine phosphorylation	1	SMTNL1
+positive regulation of vasoconstriction	1	SMTNL1
+response to activity	1	SMTNL1
+vasoconstriction	1	SMTNL1
+myofibril	1	SMTNL1
+sarcomere	1	SMTNL1
+m line	1	SMTNL1
+i band	1	SMTNL1
+phosphatidylinositol 3-kinase complex	1	SOCS1
+1-phosphatidylinositol-3-kinase regulator activity	1	SOCS1
+kinase inhibitor activity	1	SOCS1
+protein kinase binding	1	SOCS1
+protein kinase inhibitor activity	1	SOCS1
+cellular response to amino acid stimulus	1	SOCS1
+fat cell differentiation	1	SOCS1
+macrophage differentiation	1	SOCS1
+negative regulation of CD8-positive, alpha-beta T cell differentiation	1	SOCS1
+negative regulation of insulin receptor signaling pathway	1	SOCS1
+negative regulation of receptor signaling pathway via JAK-STAT	1	SOCS1
+negative regulation of tyrosine phosphorylation of STAT protein	1	SOCS1
+phosphatidylinositol phosphate biosynthetic process	1	SOCS1
+positive regulation of CD4-positive, alpha-beta T cell differentiation	1	SOCS1
+positive regulation of regulatory T cell differentiation	1	SOCS1
+receptor signaling pathway via JAK-STAT	1	SOCS1
+regulation of activation of Janus kinase activity	1	SOCS1
+regulation of cytokine production	1	SOCS1
+regulation of protein phosphorylation	1	SOCS1
+Autoinflammatory syndrome	1	SOCS1
+axoneme	1	SPATA4
+regulation of cytoskeleton organization	1	SPATA4
+G protein-coupled receptor binding	1	TAFA5
+receptor ligand activity	1	TAFA5
+negative regulation of vascular associated smooth muscle cell migration	1	TAFA5
+negative regulation of vascular associated smooth muscle cell proliferation	1	TAFA5
+negative regulation of vascular wound healing	1	TAFA5
+axon terminus	1	UCN3
+varicosity	1	UCN3
+corticotropin-releasing hormone receptor 2 binding	1	UCN3
+corticotropin-releasing hormone receptor binding	1	UCN3
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	1	UCN3
+cellular response to nutrient levels	1	UCN3
+digestion	1	UCN3
+hormone-mediated signaling pathway	1	UCN3
+positive regulation of insulin secretion	1	UCN3
+positive regulation of membrane potential	1	UCN3
+response to corticosterone	1	UCN3
+response to glucose	1	UCN3
+response to immobilization stress	1	UCN3
+response to starvation	1	UCN3
+CCR chemokine receptor binding	1	XCL1
+chemokine activity	1	XCL1
+chemokine receptor binding	1	XCL1
+protein homodimerization activity	1	XCL1
+antimicrobial humoral immune response mediated by antimicrobial peptide	1	XCL1
+cellular response to interleukin-1	1	XCL1
+cellular response to transforming growth factor beta stimulus	1	XCL1
+chemokine-mediated signaling pathway	1	XCL1
+inflammatory response	1	XCL1
+killing of cells of another organism	1	XCL1
+lymphocyte chemotaxis	1	XCL1
+mature natural killer cell chemotaxis	1	XCL1
+monocyte chemotaxis	1	XCL1
+negative regulation of CD4-positive, alpha-beta T cell proliferation	1	XCL1
+negative regulation of DNA-binding transcription factor activity	1	XCL1
+negative regulation of T cell cytokine production	1	XCL1
+negative regulation of T-helper 1 cell activation	1	XCL1
+negative regulation of T-helper 1 type immune response	1	XCL1
+negative regulation of type II interferon production	1	XCL1
+neutrophil chemotaxis	1	XCL1
+positive regulation of B cell chemotaxis	1	XCL1
+positive regulation of CD4-positive, alpha-beta T cell proliferation	1	XCL1
+positive regulation of CD8-positive, alpha-beta T cell proliferation	1	XCL1
+positive regulation of ERK1 and ERK2 cascade	1	XCL1
+positive regulation of granzyme A production	1	XCL1
+positive regulation of granzyme B production	1	XCL1
+positive regulation of GTPase activity	1	XCL1
+positive regulation of immunoglobulin production in mucosal tissue	1	XCL1
+positive regulation of interleukin-10 production	1	XCL1
+positive regulation of leukocyte chemotaxis	1	XCL1
+positive regulation of natural killer cell chemotaxis	1	XCL1
+positive regulation of neutrophil chemotaxis	1	XCL1
+positive regulation of release of sequestered calcium ion into cytosol	1	XCL1
+positive regulation of T cell chemotaxis	1	XCL1
+positive regulation of T cell cytokine production	1	XCL1
+positive regulation of T cell mediated cytotoxicity	1	XCL1
+positive regulation of T-helper 1 cell cytokine production	1	XCL1
+positive regulation of T-helper 2 cell cytokine production	1	XCL1
+positive regulation of thymocyte migration	1	XCL1
+positive regulation of transforming growth factor beta production	1	XCL1
+release of sequestered calcium ion into cytosol	1	XCL1
+response to virus	1	XCL1
+phosphotransferase activity, alcohol group as acceptor	1	XYLB
+xylulokinase activity	1	XYLB
+carbohydrate metabolic process	1	XYLB
+D-xylose metabolic process	1	XYLB
+generation of precursor metabolites and energy	1	XYLB
+glucuronate catabolic process to xylulose 5-phosphate	1	XYLB
+phosphorylation	1	XYLB
+xylulose catabolic process	1	XYLB
+xylulose metabolic process	1	XYLB
+motile cilium	1	ZBBX
