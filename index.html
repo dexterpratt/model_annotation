@@ -83,61 +83,8 @@
 </head>
 
 <body>
-    <script>
-        // Load the JSON file with the URLs
-
-        fetch('urls.json')
-            .then(response => response.json())
-            .then(data => {
-                // Display the URLs in a hierarchical format
-                const modelsList = document.getElementById('models-list');
-                const main = document.querySelector('main');
-
-                data.forEach(model => {
-                    const modelItem = document.createElement('li');
-                    const modelLink = document.createElement('a');
-                    const modelTitle = document.createElement('h2');
-                    const versionsList = document.createElement('ul');
-
-                    modelLink.textContent = model.name;
-                    modelLink.href = `#${model.name}`;
-                    modelTitle.textContent = model.name;
-
-                    model.versions.forEach(version => {
-                        const versionItem = document.createElement('li');
-                        const versionLink = document.createElement('a');
-                        const versionTitle = document.createElement('h3');
-                        const filesList = document.createElement('ul');
-
-                        versionLink.textContent = version.name;
-                        versionLink.href = `#${version.name}`;
-                        versionTitle.textContent = version.name;
-
-                        version.files.forEach(file => {
-                            const fileItem = document.createElement('li');
-                            const fileLink = document.createElement('a');
-
-                            fileLink.textContent = file.name;
-                            fileLink.href = file.url;
-
-                            fileItem.appendChild(fileLink);
-                            filesList.appendChild(fileItem);
-                        });
-
-                        versionItem.appendChild(versionLink);
-                        versionItem.appendChild(versionTitle);
-                        versionItem.appendChild(filesList);
-                        versionsList.appendChild(versionItem);
-                    });
-
-                    modelItem.appendChild(modelLink);
-                    modelTitle.appendChild(versionsList);
-                    main.appendChild(modelTitle);
-                    modelsList.appendChild(modelItem);
-                });
-            });
-
-    </script>
+    <h2>Models</h2>
+    <a href="nesa/1/nesa_v_1.html>NeSA v1</a>
 </body>
 
 </html>
