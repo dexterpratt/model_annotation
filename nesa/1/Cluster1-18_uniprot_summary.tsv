@@ -1,1 +1,334 @@
-"Feature\tNumber of Genes\tGenes\nmembrane\t18\tDHCR24, ERGIC2, FAM162A, FUNDC2, HERC2, KCNMA1, LAMP1, MARVELD1, MBOAT7, RER1, RRBP1, SCN1A, SCN2A, SUN5, TAOK2, TIMM21, TOMM40, UBAC2\ncytoplasm\t12\tCCDC65, CDC42BPA, DHCR24, EIF1AY, ERGIC2, HERC2, LAMP1, MARVELD1, NEURL4, PACRG, SRP19, TAOK2\ncytosol\t11\tCDC42BPA, DHCR24, FAM162A, HERC2, LAMP1, MEIG1, PACRG, PDAP1, SRP19, TAOK2, TOMM40\nnucleus\t10\tDHCR24, ERGIC2, FUNDC2, HERC2, MARVELD1, MEIG1, PACRG, SRP19, SUN5, TAOK2\ncytoskeleton\t8\tCCDC65, CDC42BPA, DHCR24, HERC2, MARVELD1, NEURL4, PACRG, TAOK2\nDisease variant\t8\tDHCR24, HERC2, KCNMA1, MBOAT7, RABL3, SCN1A, SCN2A, SUN5\nplasma membrane\t8\tHERC2, KCNMA1, LAMP1, MARVELD1, PDAP1, RER1, SCN1A, SCN2A\nendoplasmic reticulum\t6\tDHCR24, ERGIC2, MBOAT7, RER1, RRBP1, UBAC2\nendoplasmic reticulum membrane\t5\tDHCR24, ERGIC2, MBOAT7, RRBP1, UBAC2\ncell membrane\t5\tKCNMA1, LAMP1, MARVELD1, SCN1A, SCN2A\ncell projection\t4\tCCDC65, CDC42BPA, PACRG, TAOK2\ngolgi apparatus\t4\tDHCR24, ERGIC2, RER1, SUN5\nRNA binding\t4\tEIF1AY, PDAP1, RRBP1, SRP19\nmitochondrion\t4\tFAM162A, FUNDC2, TIMM21, TOMM40\nnucleoplasm\t4\tHERC2, SCN1A, SRP19, TAOK2\nprotein localization\t3\tDHCR24, MEIG1, PACRG\nGolgi apparatus\t3\tERGIC2, RER1, SUN5\nnucleolus\t3\tERGIC2, SRP19, TAOK2\nintracellular protein transport\t3\tHERC2, RABL3, TIMM21\nregulation of ion transmembrane transport\t3\tKCNMA1, SCN1A, SCN2A\nEpilepsy\t3\tKCNMA1, SCN1A, SCN2A\naxon\t3\tSCN1A, SCN2A, TAOK2\nextracellular exosome\t2\tCDC42BPA, LAMP1\nATP binding\t2\tCDC42BPA, TAOK2\nidentical protein binding\t2\tCDC42BPA, KCNMA1\nprotein serine kinase activity\t2\tCDC42BPA, TAOK2\nprotein serine/threonine kinase activity\t2\tCDC42BPA, TAOK2\ncell migration\t2\tCDC42BPA, TAOK2\nprotein phosphorylation\t2\tCDC42BPA, TAOK2\nGolgi membrane\t2\tDHCR24, RER1\nenzyme binding\t2\tDHCR24, LAMP1\napoptotic process\t2\tDHCR24, TAOK2\ngolgi apparatus membrane\t2\tDHCR24, RER1\nretrograde vesicle-mediated transport, Golgi to endoplasmic reticulum\t2\tERGIC2, RER1\ncellular response to hypoxia\t2\tFAM162A, SCN2A\nneuron apoptotic process\t2\tFAM162A, SCN2A\npositive regulation of apoptotic process\t2\tFAM162A, KCNMA1\nmitochondrion membrane\t2\tFAM162A, TIMM21\nmitochondrial outer membrane\t2\tFUNDC2, TOMM40\nmitochondrion outer membrane\t2\tFUNDC2, TOMM40\ncentriole\t2\tHERC2, NEURL4\nubiquitin protein ligase activity\t2\tHERC2, NEURL4\nubiquitin protein ligase binding\t2\tHERC2, PACRG\ncellular response to DNA damage stimulus\t2\tHERC2, TAOK2\nprotein ubiquitination\t2\tHERC2, KLHL36\nspermatogenesis\t2\tHERC2, SUN5\ncentrosome\t2\tHERC2, NEURL4\nmicrotubule organizing center\t2\tHERC2, NEURL4\nIntellectual developmental disorder\t2\tHERC2, MBOAT7\nIntellectual disability\t2\tHERC2, MBOAT7\nactin binding\t2\tKCNMA1, PACRG\nprotein stabilization\t2\tLAMP1, RABL3\nmyelination\t2\tMARVELD1, SCN2A\nmitochondria-associated endoplasmic reticulum membrane\t2\tMBOAT7, TOMM40\nmanchette\t2\tMEIG1, PACRG\nneuron projection\t2\tPACRG, TAOK2\nspermatid development\t2\tPACRG, SUN5\nintercalated disc\t2\tSCN1A, SCN2A\nnode of Ranvier\t2\tSCN1A, SCN2A\nnuclear body\t2\tSCN1A, SRP19\nT-tubule\t2\tSCN1A, SCN2A\nvoltage-gated sodium channel complex\t2\tSCN1A, SCN2A\nvoltage-gated sodium channel activity\t2\tSCN1A, SCN2A\nmembrane depolarization during action potential\t2\tSCN1A, SCN2A\nneuronal action potential\t2\tSCN1A, SCN2A\nsodium ion transmembrane transport\t2\tSCN1A, SCN2A\nsodium ion transport\t2\tSCN1A, SCN2A\nprotein import into mitochondrial matrix\t2\tTIMM21, TOMM40\naxonemal dynein complex\t1\tCCDC65\naxoneme\t1\tCCDC65\nciliary basal body\t1\tCCDC65\nmotile cilium\t1\tCCDC65\naxonemal dynein complex assembly\t1\tCCDC65\ncilium assembly\t1\tCCDC65\ncilium-dependent cell motility\t1\tCCDC65\nregulation of cilium movement\t1\tCCDC65\nflagellum axoneme\t1\tCCDC65\nflagellum basal body\t1\tCCDC65\ncilium\t1\tCCDC65\nflagellum\t1\tCCDC65\nCiliary dyskinesia\t1\tCCDC65\nCiliopathy\t1\tCCDC65\nKartagener syndrome\t1\tCCDC65\nPrimary ciliary dyskinesia\t1\tCCDC65\nactomyosin\t1\tCDC42BPA\ncell leading edge\t1\tCDC42BPA\ncell-cell junction\t1\tCDC42BPA\nlamellipodium\t1\tCDC42BPA\nmagnesium ion binding\t1\tCDC42BPA\nactin cytoskeleton reorganization\t1\tCDC42BPA\nactomyosin structure organization\t1\tCDC42BPA\npeptidyl-threonine phosphorylation\t1\tCDC42BPA\ndelta24(24-1) sterol reductase activity\t1\tDHCR24\ndelta24-sterol reductase activity\t1\tDHCR24\nFAD binding\t1\tDHCR24\noxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor\t1\tDHCR24\npeptide antigen binding\t1\tDHCR24\namyloid precursor protein catabolic process\t1\tDHCR24\ncholesterol biosynthetic process\t1\tDHCR24\ncholesterol biosynthetic process via desmosterol\t1\tDHCR24\ncholesterol biosynthetic process via lathosterol\t1\tDHCR24\nmale genitalia development\t1\tDHCR24\nmembrane organization\t1\tDHCR24\nnegative regulation of apoptotic process\t1\tDHCR24\nnegative regulation of cell population proliferation\t1\tDHCR24\nnegative regulation of cysteine-type endopeptidase activity involved in apoptotic process\t1\tDHCR24\nplasminogen activation\t1\tDHCR24\nRas protein signal transduction\t1\tDHCR24\nregulation of cell cycle\t1\tDHCR24\nregulation of neuron death\t1\tDHCR24\nresponse to hormone\t1\tDHCR24\nresponse to oxidative stress\t1\tDHCR24\nskin development\t1\tDHCR24\nsteroid metabolic process\t1\tDHCR24\ntissue development\t1\tDHCR24\nDesmosterolosis\t1\tDHCR24\ntranslation initiation factor activity\t1\tEIF1AY\ntranslational initiation\t1\tEIF1AY\nCOPII-coated ER to Golgi transport vesicle\t1\tERGIC2\nendoplasmic reticulum-Golgi intermediate compartment membrane\t1\tERGIC2\nintracellular membrane-bounded organelle\t1\tERGIC2\nretrograte transporter complex, Golgi to ER\t1\tERGIC2\ntransporter complex\t1\tERGIC2\nendoplasmic reticulum to Golgi vesicle-mediated transport\t1\tERGIC2\ncis-golgi network membrane\t1\tERGIC2\nendoplasmic reticulum-golgi intermediate compartment membrane\t1\tERGIC2\nmitochondrial membrane\t1\tFAM162A\nactivation of cysteine-type endopeptidase activity involved in apoptotic process\t1\tFAM162A\npositive regulation of release of cytochrome c from mitochondria\t1\tFAM162A\nphosphatidylinositol-3,4,5-trisphosphate binding\t1\tFUNDC2\nautophagy of mitochondrion\t1\tFUNDC2\ncellular triglyceride homeostasis\t1\tFUNDC2\nregulation of platelet activation\t1\tFUNDC2\nguanyl-nucleotide exchange factor activity\t1\tHERC2\nSUMO binding\t1\tHERC2\nzinc ion binding\t1\tHERC2\nDNA repair\t1\tHERC2\nproteasome-mediated ubiquitin-dependent protein catabolic process\t1\tHERC2\napical plasma membrane\t1\tKCNMA1\ncaveola\t1\tKCNMA1\npostsynaptic membrane\t1\tKCNMA1\nvoltage-gated potassium channel complex\t1\tKCNMA1\ncalcium-activated potassium channel activity\t1\tKCNMA1\nlarge conductance calcium-activated potassium channel activity\t1\tKCNMA1\nmetal ion binding\t1\tKCNMA1\nvoltage-gated potassium channel activity\t1\tKCNMA1\ncellular potassium ion homeostasis\t1\tKCNMA1\nmicturition\t1\tKCNMA1\nnegative regulation of cell volume\t1\tKCNMA1\npotassium ion transport\t1\tKCNMA1\nregulation of membrane potential\t1\tKCNMA1\nrelaxation of vascular associated smooth muscle\t1\tKCNMA1\nresponse to calcium ion\t1\tKCNMA1\nresponse to carbon monoxide\t1\tKCNMA1\nresponse to hypoxia\t1\tKCNMA1\nresponse to osmotic stress\t1\tKCNMA1\nsmooth muscle contraction involved in micturition\t1\tKCNMA1\nParoxysmal nonkinesigenic dyskinesia\t1\tKCNMA1\nCerebellar atrophy\t1\tKCNMA1\nLiang-Wang syndrome\t1\tKCNMA1\ncullin family protein binding\t1\tKLHL36\nautolysosome\t1\tLAMP1\nautophagosome membrane\t1\tLAMP1\nazurophil granule membrane\t1\tLAMP1\ncytolytic granule membrane\t1\tLAMP1\nendosome membrane\t1\tLAMP1\nexternal side of plasma membrane\t1\tLAMP1\nficolin-1-rich granule membrane\t1\tLAMP1\nlate endosome\t1\tLAMP1\nlate endosome membrane\t1\tLAMP1\nlysosomal membrane\t1\tLAMP1\nlysosome\t1\tLAMP1\nmelanosome\t1\tLAMP1\nmultivesicular body\t1\tLAMP1\nperinuclear region of cytoplasm\t1\tLAMP1\nphagolysosome membrane\t1\tLAMP1\nsarcolemma\t1\tLAMP1\nsynaptic vesicle\t1\tLAMP1\nprotein domain specific binding\t1\tLAMP1\nvirus receptor activity\t1\tLAMP1\nestablishment of protein localization to organelle\t1\tLAMP1\nGolgi to lysosome transport\t1\tLAMP1\ngranzyme-mediated programmed cell death signaling pathway\t1\tLAMP1\npositive regulation of natural killer cell degranulation\t1\tLAMP1\npositive regulation of natural killer cell mediated cytotoxicity\t1\tLAMP1\nregulation of organelle transport along microtubule\t1\tLAMP1\nlysosome membrane\t1\tLAMP1\nendosome\t1\tLAMP1\nstructural constituent of myelin sheath\t1\tMARVELD1\ncell cycle\t1\tMARVELD1\n1-acylglycerol-3-phosphate O-acyltransferase activity\t1\tMBOAT7\n2-acylglycerol-3-phosphate O-acyltransferase activity\t1\tMBOAT7\nacyltransferase activity\t1\tMBOAT7\nlysophospholipid acyltransferase activity\t1\tMBOAT7\nO-acyltransferase activity\t1\tMBOAT7\nlayer formation in cerebral cortex\t1\tMBOAT7\nlipid modification\t1\tMBOAT7\nphosphatidylcholine acyl-chain remodeling\t1\tMBOAT7\nphosphatidylinositol acyl-chain remodeling\t1\tMBOAT7\nphosphatidylinositol biosynthetic process\t1\tMBOAT7\nregulation of triglyceride metabolic process\t1\tMBOAT7\nventricular system development\t1\tMBOAT7\nmanchette assembly\t1\tMEIG1\nsperm axoneme assembly\t1\tMEIG1\naxonemal microtubule\t1\tPACRG\ncell body\t1\tPACRG\nsperm midpiece\t1\tPACRG\nvesicle\t1\tPACRG\nalpha-tubulin binding\t1\tPACRG\nbeta-tubulin binding\t1\tPACRG\nchaperone binding\t1\tPACRG\nG protein-coupled receptor binding\t1\tPACRG\nheat shock protein binding\t1\tPACRG\nHsp70 protein binding\t1\tPACRG\nHsp90 protein binding\t1\tPACRG\ncellular response to unfolded protein\t1\tPACRG\nnegative regulation of cell death\t1\tPACRG\ncilium axoneme\t1\tPACRG\nextracellular region\t1\tPDAP1\nficolin-1-rich granule lumen\t1\tPDAP1\nsignal transduction\t1\tPDAP1\nendomembrane system\t1\tRABL3\nGTP binding\t1\tRABL3\nGTPase activity\t1\tRABL3\nprotein homodimerization activity\t1\tRABL3\nB cell differentiation\t1\tRABL3\nnatural killer cell differentiation\t1\tRABL3\nregulation of protein lipidation\t1\tRABL3\nregulation of Ras protein signal transduction\t1\tRABL3\nT cell differentiation in thymus\t1\tRABL3\nPancreatic cancer 5\t1\tRABL3\ncell surface\t1\tRER1\nendoplasmic reticulum-Golgi intermediate compartment\t1\tRER1\nacetylcholine receptor binding\t1\tRER1\npositive regulation of protein localization to plasma membrane\t1\tRER1\nprotein retention in ER lumen\t1\tRER1\nskeletal muscle acetylcholine-gated channel clustering\t1\tRER1\nribosome\t1\tRRBP1\nsignaling receptor activity\t1\tRRBP1\nosteoblast differentiation\t1\tRRBP1\nprotein transport\t1\tRRBP1\ntranslation\t1\tRRBP1\naxon initial segment\t1\tSCN1A\nneuronal cell body\t1\tSCN1A\nZ disc\t1\tSCN1A\nvoltage-gated ion channel activity involved in regulation of presynaptic membrane potential\t1\tSCN1A\nadult walking behavior\t1\tSCN1A\ncardiac muscle cell action potential involved in contraction\t1\tSCN1A\ndetection of mechanical stimulus involved in sensory perception of pain\t1\tSCN1A\nestablishment of localization in cell\t1\tSCN1A\nneuromuscular process controlling posture\t1\tSCN1A\nneuronal action potential propagation\t1\tSCN1A\nGeneralized epilepsy with febrile seizures plus 2\t1\tSCN1A\nDravet syndrome\t1\tSCN1A\nIntractable childhood epilepsy with generalized tonic-clonic seizures\t1\tSCN1A\nMigraine\t1\tSCN1A\nFebrile seizures\t1\tSCN1A\nDevelopmental and epileptic encephalopathy 6B\t1\tSCN1A\nAutism\t1\tSCN1A\nAutism spectrum disorder\t1\tSCN1A\nglutamatergic synapse\t1\tSCN2A\nparanode region of axon\t1\tSCN2A\npresynaptic membrane\t1\tSCN2A\nsodium channel complex\t1\tSCN2A\nvoltage-gated ion channel activity\t1\tSCN2A\nintrinsic apoptotic signaling pathway in response to osmotic stress\t1\tSCN2A\nmemory\t1\tSCN2A\nnervous system development\t1\tSCN2A\nSeizures\t1\tSCN2A\nDevelopmental and epileptic encephalopathy 11\t1\tSCN2A\nEpisodic ataxia 9\t1\tSCN2A\nsignal recognition particle\t1\tSRP19\nsignal recognition particle, endoplasmic reticulum targeting\t1\tSRP19\n7S RNA binding\t1\tSRP19\ncotranslational protein targeting to membrane\t1\tSRP19\nSRP-dependent cotranslational protein targeting to membrane, signal sequence recognition\t1\tSRP19\nmeiotic nuclear membrane microtubule tethering complex\t1\tSUN5\nnuclear envelope\t1\tSUN5\nnuclear inner membrane\t1\tSUN5\nsperm connecting piece\t1\tSUN5\nprotein-membrane adaptor activity\t1\tSUN5\nnuclear envelope organization\t1\tSUN5\nnucleus inner membrane\t1\tSUN5\nSpermatogenic failure 16\t1\tSUN5\nactin cytoskeleton\t1\tTAOK2\naxonal growth cone\t1\tTAOK2\ncytoplasmic vesicle\t1\tTAOK2\ncytoplasmic vesicle membrane\t1\tTAOK2\ndendritic growth cone\t1\tTAOK2\nreceptor complex\t1\tTAOK2\nMAP kinase kinase kinase activity\t1\tTAOK2\nmitogen-activated protein kinase kinase binding\t1\tTAOK2\nneuropilin binding\t1\tTAOK2\nprotein serine/threonine kinase activator activity\t1\tTAOK2\ntau protein binding\t1\tTAOK2\ntau-protein kinase activity\t1\tTAOK2\nactin cytoskeleton organization\t1\tTAOK2\nactivation of protein kinase activity\t1\tTAOK2\naxonogenesis\t1\tTAOK2\nbasal dendrite arborization\t1\tTAOK2\nbasal dendrite morphogenesis\t1\tTAOK2\nfocal adhesion assembly\t1\tTAOK2\nintracellular signal transduction\t1\tTAOK2\nMAPK cascade\t1\tTAOK2\nmitotic G2 DNA damage checkpoint signaling\t1\tTAOK2\nneuron projection morphogenesis\t1\tTAOK2\npositive regulation of JNK cascade\t1\tTAOK2\npositive regulation of MAPK cascade\t1\tTAOK2\npositive regulation of protein autophosphorylation\t1\tTAOK2\npositive regulation of stress-activated MAPK cascade\t1\tTAOK2\nprotein autophosphorylation\t1\tTAOK2\nprotein targeting to membrane\t1\tTAOK2\nregulation of actin cytoskeleton organization\t1\tTAOK2\nregulation of cell growth\t1\tTAOK2\nregulation of cell shape\t1\tTAOK2\nregulation of MAPK cascade\t1\tTAOK2\nstress-activated MAPK cascade\t1\tTAOK2\ndendrite\t1\tTAOK2\nTIM23 mitochondrial import inner membrane translocase complex\t1\tTIMM21\nmitochondrial cytochrome c oxidase assembly\t1\tTIMM21\nmitochondrial respiratory chain complex I assembly\t1\tTIMM21\nmitochondrial inner membrane\t1\tTOMM40\nmitochondrial outer membrane translocase complex\t1\tTOMM40\npore complex\t1\tTOMM40\nporin activity\t1\tTOMM40\nprotein transmembrane transporter activity\t1\tTOMM40\nion transport\t1\tTOMM40\nprotein insertion into mitochondrial outer membrane\t1\tTOMM40\nprotein targeting to mitochondrion\t1\tTOMM40\nnegative regulation of canonical Wnt signaling pathway\t1\tUBAC2\nnegative regulation of retrograde protein transport, ER to cytosol\t1\tUBAC2\nprotein localization to endoplasmic reticulum\t1\tUBAC2\nWnt signaling pathway\t1\tUBAC2\n"
+Feature	Number of Genes	Genes
+membrane	18	DHCR24, ERGIC2, FAM162A, FUNDC2, HERC2, KCNMA1, LAMP1, MARVELD1, MBOAT7, RER1, RRBP1, SCN1A, SCN2A, SUN5, TAOK2, TIMM21, TOMM40, UBAC2
+cytoplasm	12	CCDC65, CDC42BPA, DHCR24, EIF1AY, ERGIC2, HERC2, LAMP1, MARVELD1, NEURL4, PACRG, SRP19, TAOK2
+cytosol	11	CDC42BPA, DHCR24, FAM162A, HERC2, LAMP1, MEIG1, PACRG, PDAP1, SRP19, TAOK2, TOMM40
+nucleus	10	DHCR24, ERGIC2, FUNDC2, HERC2, MARVELD1, MEIG1, PACRG, SRP19, SUN5, TAOK2
+cytoskeleton	8	CCDC65, CDC42BPA, DHCR24, HERC2, MARVELD1, NEURL4, PACRG, TAOK2
+Disease variant	8	DHCR24, HERC2, KCNMA1, MBOAT7, RABL3, SCN1A, SCN2A, SUN5
+plasma membrane	8	HERC2, KCNMA1, LAMP1, MARVELD1, PDAP1, RER1, SCN1A, SCN2A
+endoplasmic reticulum	6	DHCR24, ERGIC2, MBOAT7, RER1, RRBP1, UBAC2
+endoplasmic reticulum membrane	5	DHCR24, ERGIC2, MBOAT7, RRBP1, UBAC2
+cell membrane	5	KCNMA1, LAMP1, MARVELD1, SCN1A, SCN2A
+cell projection	4	CCDC65, CDC42BPA, PACRG, TAOK2
+golgi apparatus	4	DHCR24, ERGIC2, RER1, SUN5
+RNA binding	4	EIF1AY, PDAP1, RRBP1, SRP19
+mitochondrion	4	FAM162A, FUNDC2, TIMM21, TOMM40
+nucleoplasm	4	HERC2, SCN1A, SRP19, TAOK2
+protein localization	3	DHCR24, MEIG1, PACRG
+Golgi apparatus	3	ERGIC2, RER1, SUN5
+nucleolus	3	ERGIC2, SRP19, TAOK2
+intracellular protein transport	3	HERC2, RABL3, TIMM21
+regulation of ion transmembrane transport	3	KCNMA1, SCN1A, SCN2A
+Epilepsy	3	KCNMA1, SCN1A, SCN2A
+axon	3	SCN1A, SCN2A, TAOK2
+extracellular exosome	2	CDC42BPA, LAMP1
+ATP binding	2	CDC42BPA, TAOK2
+identical protein binding	2	CDC42BPA, KCNMA1
+protein serine kinase activity	2	CDC42BPA, TAOK2
+protein serine/threonine kinase activity	2	CDC42BPA, TAOK2
+cell migration	2	CDC42BPA, TAOK2
+protein phosphorylation	2	CDC42BPA, TAOK2
+Golgi membrane	2	DHCR24, RER1
+enzyme binding	2	DHCR24, LAMP1
+apoptotic process	2	DHCR24, TAOK2
+golgi apparatus membrane	2	DHCR24, RER1
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	2	ERGIC2, RER1
+cellular response to hypoxia	2	FAM162A, SCN2A
+neuron apoptotic process	2	FAM162A, SCN2A
+positive regulation of apoptotic process	2	FAM162A, KCNMA1
+mitochondrion membrane	2	FAM162A, TIMM21
+mitochondrial outer membrane	2	FUNDC2, TOMM40
+mitochondrion outer membrane	2	FUNDC2, TOMM40
+centriole	2	HERC2, NEURL4
+ubiquitin protein ligase activity	2	HERC2, NEURL4
+ubiquitin protein ligase binding	2	HERC2, PACRG
+cellular response to DNA damage stimulus	2	HERC2, TAOK2
+protein ubiquitination	2	HERC2, KLHL36
+spermatogenesis	2	HERC2, SUN5
+microtubule organizing center	2	HERC2, NEURL4
+centrosome	2	HERC2, NEURL4
+Intellectual developmental disorder	2	HERC2, MBOAT7
+Intellectual disability	2	HERC2, MBOAT7
+actin binding	2	KCNMA1, PACRG
+protein stabilization	2	LAMP1, RABL3
+myelination	2	MARVELD1, SCN2A
+mitochondria-associated endoplasmic reticulum membrane	2	MBOAT7, TOMM40
+manchette	2	MEIG1, PACRG
+neuron projection	2	PACRG, TAOK2
+spermatid development	2	PACRG, SUN5
+intercalated disc	2	SCN1A, SCN2A
+node of Ranvier	2	SCN1A, SCN2A
+nuclear body	2	SCN1A, SRP19
+T-tubule	2	SCN1A, SCN2A
+voltage-gated sodium channel complex	2	SCN1A, SCN2A
+voltage-gated sodium channel activity	2	SCN1A, SCN2A
+membrane depolarization during action potential	2	SCN1A, SCN2A
+neuronal action potential	2	SCN1A, SCN2A
+sodium ion transmembrane transport	2	SCN1A, SCN2A
+sodium ion transport	2	SCN1A, SCN2A
+protein import into mitochondrial matrix	2	TIMM21, TOMM40
+axonemal dynein complex	1	CCDC65
+axoneme	1	CCDC65
+ciliary basal body	1	CCDC65
+motile cilium	1	CCDC65
+axonemal dynein complex assembly	1	CCDC65
+cilium assembly	1	CCDC65
+cilium-dependent cell motility	1	CCDC65
+regulation of cilium movement	1	CCDC65
+cilium	1	CCDC65
+flagellum axoneme	1	CCDC65
+flagellum basal body	1	CCDC65
+flagellum	1	CCDC65
+Ciliary dyskinesia	1	CCDC65
+Ciliopathy	1	CCDC65
+Kartagener syndrome	1	CCDC65
+Primary ciliary dyskinesia	1	CCDC65
+actomyosin	1	CDC42BPA
+cell leading edge	1	CDC42BPA
+cell-cell junction	1	CDC42BPA
+lamellipodium	1	CDC42BPA
+magnesium ion binding	1	CDC42BPA
+actin cytoskeleton reorganization	1	CDC42BPA
+actomyosin structure organization	1	CDC42BPA
+peptidyl-threonine phosphorylation	1	CDC42BPA
+delta24(24-1) sterol reductase activity	1	DHCR24
+delta24-sterol reductase activity	1	DHCR24
+FAD binding	1	DHCR24
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	1	DHCR24
+peptide antigen binding	1	DHCR24
+amyloid precursor protein catabolic process	1	DHCR24
+cholesterol biosynthetic process	1	DHCR24
+cholesterol biosynthetic process via desmosterol	1	DHCR24
+cholesterol biosynthetic process via lathosterol	1	DHCR24
+male genitalia development	1	DHCR24
+membrane organization	1	DHCR24
+negative regulation of apoptotic process	1	DHCR24
+negative regulation of cell population proliferation	1	DHCR24
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	DHCR24
+plasminogen activation	1	DHCR24
+Ras protein signal transduction	1	DHCR24
+regulation of cell cycle	1	DHCR24
+regulation of neuron death	1	DHCR24
+response to hormone	1	DHCR24
+response to oxidative stress	1	DHCR24
+skin development	1	DHCR24
+steroid metabolic process	1	DHCR24
+tissue development	1	DHCR24
+Desmosterolosis	1	DHCR24
+translation initiation factor activity	1	EIF1AY
+translational initiation	1	EIF1AY
+COPII-coated ER to Golgi transport vesicle	1	ERGIC2
+endoplasmic reticulum-Golgi intermediate compartment membrane	1	ERGIC2
+intracellular membrane-bounded organelle	1	ERGIC2
+retrograte transporter complex, Golgi to ER	1	ERGIC2
+transporter complex	1	ERGIC2
+endoplasmic reticulum to Golgi vesicle-mediated transport	1	ERGIC2
+endoplasmic reticulum-golgi intermediate compartment membrane	1	ERGIC2
+cis-golgi network membrane	1	ERGIC2
+mitochondrial membrane	1	FAM162A
+activation of cysteine-type endopeptidase activity involved in apoptotic process	1	FAM162A
+positive regulation of release of cytochrome c from mitochondria	1	FAM162A
+phosphatidylinositol-3,4,5-trisphosphate binding	1	FUNDC2
+autophagy of mitochondrion	1	FUNDC2
+cellular triglyceride homeostasis	1	FUNDC2
+regulation of platelet activation	1	FUNDC2
+guanyl-nucleotide exchange factor activity	1	HERC2
+SUMO binding	1	HERC2
+zinc ion binding	1	HERC2
+DNA repair	1	HERC2
+proteasome-mediated ubiquitin-dependent protein catabolic process	1	HERC2
+apical plasma membrane	1	KCNMA1
+caveola	1	KCNMA1
+postsynaptic membrane	1	KCNMA1
+voltage-gated potassium channel complex	1	KCNMA1
+calcium-activated potassium channel activity	1	KCNMA1
+large conductance calcium-activated potassium channel activity	1	KCNMA1
+metal ion binding	1	KCNMA1
+voltage-gated potassium channel activity	1	KCNMA1
+cellular potassium ion homeostasis	1	KCNMA1
+micturition	1	KCNMA1
+negative regulation of cell volume	1	KCNMA1
+potassium ion transport	1	KCNMA1
+regulation of membrane potential	1	KCNMA1
+relaxation of vascular associated smooth muscle	1	KCNMA1
+response to calcium ion	1	KCNMA1
+response to carbon monoxide	1	KCNMA1
+response to hypoxia	1	KCNMA1
+response to osmotic stress	1	KCNMA1
+smooth muscle contraction involved in micturition	1	KCNMA1
+Paroxysmal nonkinesigenic dyskinesia	1	KCNMA1
+Cerebellar atrophy	1	KCNMA1
+Liang-Wang syndrome	1	KCNMA1
+cullin family protein binding	1	KLHL36
+autolysosome	1	LAMP1
+autophagosome membrane	1	LAMP1
+azurophil granule membrane	1	LAMP1
+cytolytic granule membrane	1	LAMP1
+endosome membrane	1	LAMP1
+external side of plasma membrane	1	LAMP1
+ficolin-1-rich granule membrane	1	LAMP1
+late endosome	1	LAMP1
+late endosome membrane	1	LAMP1
+lysosomal membrane	1	LAMP1
+lysosome	1	LAMP1
+melanosome	1	LAMP1
+multivesicular body	1	LAMP1
+perinuclear region of cytoplasm	1	LAMP1
+phagolysosome membrane	1	LAMP1
+sarcolemma	1	LAMP1
+synaptic vesicle	1	LAMP1
+protein domain specific binding	1	LAMP1
+virus receptor activity	1	LAMP1
+establishment of protein localization to organelle	1	LAMP1
+Golgi to lysosome transport	1	LAMP1
+granzyme-mediated programmed cell death signaling pathway	1	LAMP1
+positive regulation of natural killer cell degranulation	1	LAMP1
+positive regulation of natural killer cell mediated cytotoxicity	1	LAMP1
+regulation of organelle transport along microtubule	1	LAMP1
+lysosome membrane	1	LAMP1
+endosome	1	LAMP1
+structural constituent of myelin sheath	1	MARVELD1
+cell cycle	1	MARVELD1
+1-acylglycerol-3-phosphate O-acyltransferase activity	1	MBOAT7
+2-acylglycerol-3-phosphate O-acyltransferase activity	1	MBOAT7
+acyltransferase activity	1	MBOAT7
+lysophospholipid acyltransferase activity	1	MBOAT7
+O-acyltransferase activity	1	MBOAT7
+layer formation in cerebral cortex	1	MBOAT7
+lipid modification	1	MBOAT7
+phosphatidylcholine acyl-chain remodeling	1	MBOAT7
+phosphatidylinositol acyl-chain remodeling	1	MBOAT7
+phosphatidylinositol biosynthetic process	1	MBOAT7
+regulation of triglyceride metabolic process	1	MBOAT7
+ventricular system development	1	MBOAT7
+manchette assembly	1	MEIG1
+sperm axoneme assembly	1	MEIG1
+axonemal microtubule	1	PACRG
+cell body	1	PACRG
+sperm midpiece	1	PACRG
+vesicle	1	PACRG
+alpha-tubulin binding	1	PACRG
+beta-tubulin binding	1	PACRG
+chaperone binding	1	PACRG
+G protein-coupled receptor binding	1	PACRG
+heat shock protein binding	1	PACRG
+Hsp70 protein binding	1	PACRG
+Hsp90 protein binding	1	PACRG
+cellular response to unfolded protein	1	PACRG
+negative regulation of cell death	1	PACRG
+cilium axoneme	1	PACRG
+extracellular region	1	PDAP1
+ficolin-1-rich granule lumen	1	PDAP1
+signal transduction	1	PDAP1
+endomembrane system	1	RABL3
+GTP binding	1	RABL3
+GTPase activity	1	RABL3
+protein homodimerization activity	1	RABL3
+B cell differentiation	1	RABL3
+natural killer cell differentiation	1	RABL3
+regulation of protein lipidation	1	RABL3
+regulation of Ras protein signal transduction	1	RABL3
+T cell differentiation in thymus	1	RABL3
+Pancreatic cancer 5	1	RABL3
+cell surface	1	RER1
+endoplasmic reticulum-Golgi intermediate compartment	1	RER1
+acetylcholine receptor binding	1	RER1
+positive regulation of protein localization to plasma membrane	1	RER1
+protein retention in ER lumen	1	RER1
+skeletal muscle acetylcholine-gated channel clustering	1	RER1
+ribosome	1	RRBP1
+signaling receptor activity	1	RRBP1
+osteoblast differentiation	1	RRBP1
+protein transport	1	RRBP1
+translation	1	RRBP1
+axon initial segment	1	SCN1A
+neuronal cell body	1	SCN1A
+Z disc	1	SCN1A
+voltage-gated ion channel activity involved in regulation of presynaptic membrane potential	1	SCN1A
+adult walking behavior	1	SCN1A
+cardiac muscle cell action potential involved in contraction	1	SCN1A
+detection of mechanical stimulus involved in sensory perception of pain	1	SCN1A
+establishment of localization in cell	1	SCN1A
+neuromuscular process controlling posture	1	SCN1A
+neuronal action potential propagation	1	SCN1A
+Generalized epilepsy with febrile seizures plus 2	1	SCN1A
+Dravet syndrome	1	SCN1A
+Intractable childhood epilepsy with generalized tonic-clonic seizures	1	SCN1A
+Migraine	1	SCN1A
+Febrile seizures	1	SCN1A
+Developmental and epileptic encephalopathy 6B	1	SCN1A
+Autism	1	SCN1A
+Autism spectrum disorder	1	SCN1A
+glutamatergic synapse	1	SCN2A
+paranode region of axon	1	SCN2A
+presynaptic membrane	1	SCN2A
+sodium channel complex	1	SCN2A
+voltage-gated ion channel activity	1	SCN2A
+intrinsic apoptotic signaling pathway in response to osmotic stress	1	SCN2A
+memory	1	SCN2A
+nervous system development	1	SCN2A
+Seizures	1	SCN2A
+Developmental and epileptic encephalopathy 11	1	SCN2A
+Episodic ataxia 9	1	SCN2A
+signal recognition particle	1	SRP19
+signal recognition particle, endoplasmic reticulum targeting	1	SRP19
+7S RNA binding	1	SRP19
+cotranslational protein targeting to membrane	1	SRP19
+SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	1	SRP19
+meiotic nuclear membrane microtubule tethering complex	1	SUN5
+nuclear envelope	1	SUN5
+nuclear inner membrane	1	SUN5
+sperm connecting piece	1	SUN5
+protein-membrane adaptor activity	1	SUN5
+nuclear envelope organization	1	SUN5
+nucleus inner membrane	1	SUN5
+Spermatogenic failure 16	1	SUN5
+actin cytoskeleton	1	TAOK2
+axonal growth cone	1	TAOK2
+cytoplasmic vesicle	1	TAOK2
+cytoplasmic vesicle membrane	1	TAOK2
+dendritic growth cone	1	TAOK2
+receptor complex	1	TAOK2
+MAP kinase kinase kinase activity	1	TAOK2
+mitogen-activated protein kinase kinase binding	1	TAOK2
+neuropilin binding	1	TAOK2
+protein serine/threonine kinase activator activity	1	TAOK2
+tau protein binding	1	TAOK2
+tau-protein kinase activity	1	TAOK2
+actin cytoskeleton organization	1	TAOK2
+activation of protein kinase activity	1	TAOK2
+axonogenesis	1	TAOK2
+basal dendrite arborization	1	TAOK2
+basal dendrite morphogenesis	1	TAOK2
+focal adhesion assembly	1	TAOK2
+intracellular signal transduction	1	TAOK2
+MAPK cascade	1	TAOK2
+mitotic G2 DNA damage checkpoint signaling	1	TAOK2
+neuron projection morphogenesis	1	TAOK2
+positive regulation of JNK cascade	1	TAOK2
+positive regulation of MAPK cascade	1	TAOK2
+positive regulation of protein autophosphorylation	1	TAOK2
+positive regulation of stress-activated MAPK cascade	1	TAOK2
+protein autophosphorylation	1	TAOK2
+protein targeting to membrane	1	TAOK2
+regulation of actin cytoskeleton organization	1	TAOK2
+regulation of cell growth	1	TAOK2
+regulation of cell shape	1	TAOK2
+regulation of MAPK cascade	1	TAOK2
+stress-activated MAPK cascade	1	TAOK2
+dendrite	1	TAOK2
+TIM23 mitochondrial import inner membrane translocase complex	1	TIMM21
+mitochondrial cytochrome c oxidase assembly	1	TIMM21
+mitochondrial respiratory chain complex I assembly	1	TIMM21
+mitochondrial inner membrane	1	TOMM40
+mitochondrial outer membrane translocase complex	1	TOMM40
+pore complex	1	TOMM40
+porin activity	1	TOMM40
+protein transmembrane transporter activity	1	TOMM40
+ion transport	1	TOMM40
+protein insertion into mitochondrial outer membrane	1	TOMM40
+protein targeting to mitochondrion	1	TOMM40
+negative regulation of canonical Wnt signaling pathway	1	UBAC2
+negative regulation of retrograde protein transport, ER to cytosol	1	UBAC2
+protein localization to endoplasmic reticulum	1	UBAC2
+Wnt signaling pathway	1	UBAC2

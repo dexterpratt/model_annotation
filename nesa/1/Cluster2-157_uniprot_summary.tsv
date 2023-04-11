@@ -1,0 +1,185 @@
+Feature	Number of Genes	Genes
+membrane	4	CHST9, LRP5, LRP6, RASD2
+plasma membrane	4	DKK1, LRP5, LRP6, RASD2
+extracellular region	3	CHST9, DKK1, LRP6
+canonical Wnt signaling pathway	3	DKK1, LRP5, LRP6
+Disease variant	3	LRP5, LRP6, TK2
+secreted	2	CHST9, DKK1
+early endosome membrane	2	DKK1, LRP6
+Wnt signaling pathway involved in somitogenesis	2	DKK1, LRP6
+endoplasmic reticulum	2	LRP5, LRP6
+Wnt signalosome	2	LRP5, LRP6
+Wnt-Frizzled-LRP5/6 complex	2	LRP5, LRP6
+coreceptor activity involved in canonical Wnt signaling pathway	2	LRP5, LRP6
+coreceptor activity involved in Wnt signaling pathway	2	LRP5, LRP6
+Wnt receptor activity	2	LRP5, LRP6
+Wnt-protein binding	2	LRP5, LRP6
+negative regulation of protein serine/threonine kinase activity	2	LRP5, LRP6
+positive regulation of DNA-binding transcription factor activity	2	LRP5, LRP6
+positive regulation of DNA-templated transcription	2	LRP5, LRP6
+positive regulation of transcription by RNA polymerase II	2	LRP5, LRP6
+synapse	2	LRP6, RASD2
+cell membrane	2	LRP6, RASD2
+Golgi membrane	1	CHST9
+chondroitin 4-sulfotransferase activity	1	CHST9
+N-acetylgalactosamine 4-O-sulfotransferase activity	1	CHST9
+sulfotransferase activity	1	CHST9
+carbohydrate biosynthetic process	1	CHST9
+chondroitin sulfate biosynthetic process	1	CHST9
+glycosaminoglycan metabolic process	1	CHST9
+hormone biosynthetic process	1	CHST9
+proteoglycan biosynthetic process	1	CHST9
+sulfur compound metabolic process	1	CHST9
+golgi apparatus membrane	1	CHST9
+golgi apparatus	1	CHST9
+extracellular space	1	DKK1
+co-receptor binding	1	DKK1
+growth factor activity	1	DKK1
+low-density lipoprotein particle receptor binding	1	DKK1
+receptor antagonist activity	1	DKK1
+cell morphogenesis involved in differentiation	1	DKK1
+embryonic limb morphogenesis	1	DKK1
+endocardial cushion development	1	DKK1
+endoderm formation	1	DKK1
+face morphogenesis	1	DKK1
+forebrain development	1	DKK1
+hair follicle development	1	DKK1
+heart valve development	1	DKK1
+learning or memory	1	DKK1
+limb development	1	DKK1
+mesoderm formation	1	DKK1
+motor learning	1	DKK1
+negative regulation of apoptotic process	1	DKK1
+negative regulation of BMP signaling pathway	1	DKK1
+negative regulation of canonical Wnt signaling pathway	1	DKK1
+negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment	1	DKK1
+negative regulation of cardiac muscle cell differentiation	1	DKK1
+negative regulation of mesodermal cell fate specification	1	DKK1
+negative regulation of neuron projection development	1	DKK1
+negative regulation of ossification	1	DKK1
+negative regulation of pathway-restricted SMAD protein phosphorylation	1	DKK1
+negative regulation of peptidyl-serine phosphorylation	1	DKK1
+negative regulation of presynapse assembly	1	DKK1
+negative regulation of protein binding	1	DKK1
+negative regulation of transcription by RNA polymerase II	1	DKK1
+negative regulation of Wnt signaling pathway	1	DKK1
+negative regulation of Wnt-Frizzled-LRP5/6 complex assembly	1	DKK1
+positive regulation of cell death	1	DKK1
+positive regulation of gene expression	1	DKK1
+positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway	1	DKK1
+positive regulation of JUN kinase activity	1	DKK1
+positive regulation of midbrain dopaminergic neuron differentiation	1	DKK1
+positive regulation of neuron death	1	DKK1
+positive regulation of tau-protein kinase activity	1	DKK1
+positive regulation of Wnt signaling pathway, calcium modulating pathway	1	DKK1
+positive regulation of Wnt signaling pathway, planar cell polarity pathway	1	DKK1
+regulation of dopaminergic neuron differentiation	1	DKK1
+regulation of endodermal cell fate specification	1	DKK1
+regulation of receptor internalization	1	DKK1
+regulation of synaptic transmission, glutamatergic	1	DKK1
+response to retinoic acid	1	DKK1
+synapse pruning	1	DKK1
+receptor complex	1	LRP5
+coreceptor activity	1	LRP5
+adipose tissue development	1	LRP5
+anatomical structure regression	1	LRP5
+anterior/posterior pattern specification	1	LRP5
+apoptotic process involved in blood vessel morphogenesis	1	LRP5
+bone marrow development	1	LRP5
+bone morphogenesis	1	LRP5
+bone remodeling	1	LRP5
+branching involved in mammary gland duct morphogenesis	1	LRP5
+cell migration involved in gastrulation	1	LRP5
+cell-cell signaling involved in mammary gland development	1	LRP5
+cholesterol homeostasis	1	LRP5
+cholesterol metabolic process	1	LRP5
+embryonic digit morphogenesis	1	LRP5
+endocytosis	1	LRP5
+extracellular matrix-cell signaling	1	LRP5
+gastrulation with mouth forming second	1	LRP5
+glucose catabolic process	1	LRP5
+mesodermal cell migration	1	LRP5
+negative regulation of osteoblast differentiation	1	LRP5
+Norrin signaling pathway	1	LRP5
+osteoblast development	1	LRP5
+osteoblast proliferation	1	LRP5
+positive regulation of cell population proliferation	1	LRP5
+positive regulation of fat cell differentiation	1	LRP5
+positive regulation of mesenchymal cell proliferation	1	LRP5
+positive regulation of mitotic nuclear division	1	LRP5
+positive regulation of osteoblast differentiation	1	LRP5
+positive regulation of osteoblast proliferation	1	LRP5
+regulation of apoptotic process	1	LRP5
+regulation of blood pressure	1	LRP5
+regulation of insulin secretion involved in cellular response to glucose stimulus	1	LRP5
+retina morphogenesis in camera-type eye	1	LRP5
+retinal blood vessel morphogenesis	1	LRP5
+somatic stem cell population maintenance	1	LRP5
+Vitreoretinopathy	1	LRP5
+Osteoporosis	1	LRP5
+Osteoporosis-pseudoglioma syndrome	1	LRP5
+High bone mass trait	1	LRP5
+Endosteal hyperostosis	1	LRP5
+Osteopetrosis	1	LRP5
+Van Buchem disease 2	1	LRP5
+Polycystic liver disease 4 with or without kidney cysts	1	LRP5
+Osteogenesis imperfecta	1	LRP5
+cell surface	1	LRP6
+cytoplasmic vesicle	1	LRP6
+membrane raft	1	LRP6
+neuronal cell body	1	LRP6
+frizzled binding	1	LRP6
+identical protein binding	1	LRP6
+kinase inhibitor activity	1	LRP6
+low-density lipoprotein particle receptor activity	1	LRP6
+protein homodimerization activity	1	LRP6
+signaling receptor binding	1	LRP6
+toxin transmembrane transporter activity	1	LRP6
+canonical Wnt signaling pathway involved in neural crest cell differentiation	1	LRP6
+canonical Wnt signaling pathway involved in regulation of cell proliferation	1	LRP6
+cell-cell adhesion	1	LRP6
+cellular response to cholesterol	1	LRP6
+chemical synaptic transmission	1	LRP6
+dopaminergic neuron differentiation	1	LRP6
+midbrain dopaminergic neuron differentiation	1	LRP6
+negative regulation of protein kinase activity	1	LRP6
+negative regulation of protein phosphorylation	1	LRP6
+negative regulation of smooth muscle cell apoptotic process	1	LRP6
+neural crest cell differentiation	1	LRP6
+neural crest formation	1	LRP6
+positive regulation of cell cycle	1	LRP6
+positive regulation of cytosolic calcium ion concentration	1	LRP6
+protein localization to plasma membrane	1	LRP6
+receptor-mediated endocytosis involved in cholesterol transport	1	LRP6
+response to peptide hormone	1	LRP6
+Wnt signaling pathway	1	LRP6
+Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation	1	LRP6
+Coronary artery disease	1	LRP6
+Tooth agenesis	1	LRP6
+G-protein beta-subunit binding	1	RASD2
+GTP binding	1	RASD2
+GTPase activity	1	RASD2
+locomotory behavior	1	RASD2
+positive regulation of protein kinase B signaling	1	RASD2
+positive regulation of protein sumoylation	1	RASD2
+regulation of cAMP-mediated signaling	1	RASD2
+signal transduction	1	RASD2
+synaptic transmission, dopaminergic	1	RASD2
+cytoplasm	1	TK2
+mitochondrial matrix	1	TK2
+mitochondrion	1	TK2
+ATP binding	1	TK2
+deoxycytidine kinase activity	1	TK2
+deoxynucleoside kinase activity	1	TK2
+nucleoside kinase activity	1	TK2
+thymidine kinase activity	1	TK2
+deoxycytidine metabolic process	1	TK2
+DNA biosynthetic process	1	TK2
+nucleobase-containing compound metabolic process	1	TK2
+phosphorylation	1	TK2
+pyrimidine nucleoside salvage	1	TK2
+thymidine metabolic process	1	TK2
+Mitochondrial DNA depletion syndrome 2	1	TK2
+Progressive external ophthalmoplegia with mitochondrial DNA deletions	1	TK2
+Primary mitochondrial disease	1	TK2
+Progressive external ophthalmoplegia	1	TK2

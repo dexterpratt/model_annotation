@@ -1,0 +1,400 @@
+{
+    "ANO10": {
+        "UniProtKB_ID": "ANO10_HUMAN",
+        "Description": "Anoctamin-10",
+        "GO": [
+            "intracellular membrane-bounded organelle",
+            "membrane",
+            "plasma membrane",
+            "calcium activated cation channel activity",
+            "intracellular calcium activated chloride channel activity",
+            "cation transport",
+            "chloride transport",
+            "ion transmembrane transport",
+            "transmembrane transport"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Spinocerebellar ataxia",
+            "Disease variant",
+            "Neurodegeneration"
+        ],
+        "Disease_description": [
+            "Spinocerebellar ataxia: A form of spinocerebellar ataxia, a clinically and genetically heterogeneous group of cerebellar disorders. Patients show progressive incoordination of gait and often poor coordination of hands, speech and eye movements, due to degeneration of the cerebellum with variable involvement of the brainstem and spinal cord. SCAR10 is characterized by onset in the teenage or young adult years of gait and limb ataxia, dysarthria, and nystagmus associated with marked cerebellar atrophy on brain imaging."
+        ],
+        "Complexes": []
+    },
+    "ATP8A1": {
+        "UniProtKB_ID": "AT8A1_HUMAN",
+        "Description": "Phospholipid-transporting ATPase IA",
+        "GO": [
+            "azurophil granule membrane",
+            "chromaffin granule membrane",
+            "cytoplasmic vesicle",
+            "endoplasmic reticulum",
+            "extracellular exosome",
+            "Golgi apparatus",
+            "intracellular membrane-bounded organelle",
+            "membrane",
+            "organelle membrane",
+            "phospholipid-translocating ATPase complex",
+            "plasma membrane",
+            "specific granule membrane",
+            "synapse",
+            "trans-Golgi network",
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "ATPase-coupled cation transmembrane transporter activity",
+            "ATPase-coupled intramembrane lipid transporter activity",
+            "magnesium ion binding",
+            "phosphatidylserine flippase activity",
+            "phosphatidylserine floppase activity",
+            "aminophospholipid translocation",
+            "ion transmembrane transport",
+            "learning",
+            "phospholipid translocation",
+            "positive regulation of cell migration",
+            "positive regulation of phospholipid translocation",
+            "transport across blood-brain barrier"
+        ],
+        "Location": [
+            "cytoplasmic vesicle",
+            "membrane",
+            "secretory vesicle",
+            "cell membrane",
+            "endoplasmic reticulum",
+            "chromaffin granule membrane",
+            "cytoplasmic granule",
+            "golgi apparatus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of a P4-ATPase flippase complex which consists of a catalytic alpha subunit and an accessory beta subunit (PubMed:31416931). Interacts with TMEM30A to form a flippase complex; this complex forms an intermediate phosphoenzyme (PubMed:20947505, PubMed:20961850, PubMed:21914794, PubMed:31416931). Interacts with TMEM30B; this interaction is reported conflictingly (PubMed:20961850)"
+        ]
+    },
+    "CACNA1H": {
+        "UniProtKB_ID": "CAC1H_HUMAN",
+        "Description": "Voltage-dependent T-type calcium channel subunit alpha-1H",
+        "GO": [
+            "membrane",
+            "neuron projection",
+            "plasma membrane",
+            "voltage-gated calcium channel complex",
+            "voltage-gated sodium channel complex",
+            "low voltage-gated calcium channel activity",
+            "metal ion binding",
+            "scaffold protein binding",
+            "voltage-gated ion channel activity",
+            "voltage-gated sodium channel activity",
+            "aldosterone biosynthetic process",
+            "calcium ion import",
+            "cellular response to hormone stimulus",
+            "cellular response to potassium ion",
+            "cortisol biosynthetic process",
+            "inorganic cation transmembrane transport",
+            "membrane depolarization during action potential",
+            "muscle contraction",
+            "muscle organ development",
+            "myoblast fusion",
+            "neuronal action potential",
+            "positive regulation of acrosome reaction",
+            "positive regulation of calcium ion-dependent exocytosis",
+            "regulation of heart contraction",
+            "regulation of ion transmembrane transport",
+            "regulation of membrane potential"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Epilepsy",
+            "Epilepsy",
+            "Hyperaldosteronism",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Epilepsy: A disorder characterized by recurring generalized seizures in the absence of detectable brain lesions and/or metabolic abnormalities. Generalized seizures arise diffusely and simultaneously from both hemispheres of the brain.",
+            "Epilepsy: A subtype of idiopathic generalized epilepsy characterized by an onset at age 6-7 years, frequent absence seizures (several per day) and bilateral, synchronous, symmetric 3-Hz spike waves on EEG. Tonic-clonic seizures often develop in adolescence. Absence seizures may either remit or persist into adulthood.",
+            "Hyperaldosteronism: A form of familial hyperaldosteronism, a disorder characterized by hypertension, elevated aldosterone levels despite low plasma renin activity, and abnormal adrenal steroid production. There is significant phenotypic heterogeneity, and some individuals never develop hypertension."
+        ],
+        "Complexes": [
+            "Interacts (via N-terminal cytoplasmic domain) with STAC"
+        ]
+    },
+    "CFAP74": {
+        "UniProtKB_ID": "CFA74_HUMAN",
+        "Description": "Cilia- and flagella-associated protein 74",
+        "GO": [
+            "axoneme",
+            "axoneme assembly"
+        ],
+        "Location": [
+            "cytoplasm",
+            "cell projection",
+            "cilium",
+            "cytoskeleton",
+            "cilium axoneme"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    },
+    "HCN1": {
+        "UniProtKB_ID": "HCN1_HUMAN",
+        "Description": "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1",
+        "GO": [
+            "axon",
+            "dendrite",
+            "glutamatergic synapse",
+            "HCN channel complex",
+            "plasma membrane",
+            "postsynaptic membrane",
+            "presynaptic active zone membrane",
+            "cAMP binding",
+            "identical protein binding",
+            "intracellular cAMP-activated cation channel activity",
+            "intracellular cAMP-activated cation channel activity involved in regulation of presynaptic membrane potential",
+            "potassium channel activity",
+            "voltage-gated cation channel activity",
+            "voltage-gated potassium channel activity",
+            "voltage-gated sodium channel activity",
+            "apical protein localization",
+            "cellular response to cAMP",
+            "general adaptation syndrome, behavioral process",
+            "negative regulation of synaptic transmission, glutamatergic",
+            "neuronal action potential",
+            "potassium ion transmembrane transport",
+            "protein homotetramerization",
+            "regulation of cation channel activity",
+            "regulation of heart rate by cardiac conduction",
+            "regulation of membrane depolarization",
+            "regulation of membrane potential",
+            "regulation of SA node cell action potential",
+            "retinal cone cell development",
+            "sodium ion transmembrane transport"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Developmental and epileptic encephalopathy 24",
+            "Generalized epilepsy with febrile seizures plus 10",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Developmental and epileptic encephalopathy 24: A disease characterized by early-onset seizures, intellectual disability of varying degrees, and behavioral disturbances or autistic features in most individuals.",
+            "Generalized epilepsy with febrile seizures plus 10: An autosomal dominant neurologic disorder with incomplete penetrance, characterized by variable types of seizures including absence, tonic-clonic, febrile, focal, and eyelid myoclonia. Some patients have normal neurologic development. Others have mild-to-moderate intellectual disability or autism spectrum disorder."
+        ],
+        "Complexes": [
+            "Homotetramer (PubMed:28086084). Heterotetramer with HCN2. The potassium channel is composed of a homo- or heterotetrameric complex of pore-forming subunits. Interacts with KCNE2. Interacts with the SH3 domain of CSK (By similarity)"
+        ]
+    },
+    "HCN2": {
+        "UniProtKB_ID": "HCN2_HUMAN",
+        "Description": "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2",
+        "GO": [
+            "axon",
+            "dendrite",
+            "HCN channel complex",
+            "plasma membrane",
+            "voltage-gated potassium channel complex",
+            "cAMP binding",
+            "identical protein binding",
+            "intracellular cAMP-activated cation channel activity",
+            "voltage-gated potassium channel activity",
+            "voltage-gated sodium channel activity",
+            "cell-cell signaling",
+            "cellular response to cAMP",
+            "cellular response to cGMP",
+            "membrane depolarization during cardiac muscle cell action potential",
+            "potassium ion import across plasma membrane",
+            "potassium ion transmembrane transport",
+            "regulation of cation channel activity",
+            "regulation of heart rate by cardiac conduction",
+            "regulation of membrane depolarization",
+            "regulation of membrane potential",
+            "regulation of SA node cell action potential",
+            "sodium ion import across plasma membrane",
+            "sodium ion transmembrane transport"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Epilepsy",
+            "Febrile seizures",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Epilepsy: A form of idiopathic generalized epilepsy, a disorder characterized by recurring generalized seizures in the absence of detectable brain lesions and/or metabolic abnormalities. Generalized seizures arise diffusely and simultaneously from both hemispheres of the brain. Seizure types include juvenile myoclonic seizures, absence seizures, and generalized tonic-clonic seizures. Both autosomal dominant and autosomal recessive EIG17 inheritance have been reported.",
+            "Febrile seizures: Seizures associated with febrile episodes in childhood without any evidence of intracranial infection or defined pathologic or traumatic cause. It is a common condition, affecting 2-5% of children aged 3 months to 5 years. The majority are simple febrile seizures (generally defined as generalized onset, single seizures with a duration of less than 30 minutes). Complex febrile seizures are characterized by focal onset, duration greater than 30 minutes, and/or more than one seizure in a 24 hour period. The likelihood of developing epilepsy following simple febrile seizures is low. Complex febrile seizures are associated with a moderately increased incidence of epilepsy. FEB2 transmission pattern is consistent with autosomal dominant inheritance."
+        ],
+        "Complexes": [
+            "The potassium channel is composed of a homo- or heterotetrameric complex of pore-forming subunits. Heterotetramer with HCN1. Forms an obligate 4:4 complex with accessory subunit PEX5L. Interacts with KCNE2 (By similarity). Homotetramer"
+        ]
+    },
+    "HCN3": {
+        "UniProtKB_ID": "HCN3_HUMAN",
+        "Description": "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3",
+        "GO": [
+            "axon",
+            "cone cell pedicle",
+            "dendrite",
+            "HCN channel complex",
+            "neuronal cell body",
+            "plasma membrane",
+            "cAMP binding",
+            "voltage-gated potassium channel activity",
+            "voltage-gated sodium channel activity",
+            "cellular response to cAMP",
+            "cellular response to dopamine",
+            "potassium ion transmembrane transport",
+            "regulation of cation channel activity",
+            "regulation of heart rate by cardiac conduction",
+            "regulation of membrane depolarization",
+            "regulation of membrane potential",
+            "regulation of SA node cell action potential",
+            "response to cisplatin",
+            "sodium ion transmembrane transport"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Homotetramer. The potassium channel is probably composed of a homo- or heterotetrameric complex of pore-forming subunits. Interacts with KCTD3 and PEX5L"
+        ]
+    },
+    "HCN4": {
+        "UniProtKB_ID": "HCN4_HUMAN",
+        "Description": "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4",
+        "GO": [
+            "axon",
+            "dendrite",
+            "HCN channel complex",
+            "perinuclear region of cytoplasm",
+            "plasma membrane",
+            "cAMP binding",
+            "identical protein binding",
+            "intracellular cAMP-activated cation channel activity",
+            "voltage-gated potassium channel activity",
+            "voltage-gated potassium channel activity involved in SA node cell action potential depolarization",
+            "voltage-gated sodium channel activity",
+            "blood circulation",
+            "cation transport",
+            "cellular response to cAMP",
+            "cellular response to cGMP",
+            "membrane depolarization during cardiac muscle cell action potential",
+            "membrane depolarization during SA node cell action potential",
+            "muscle contraction",
+            "potassium ion import across plasma membrane",
+            "potassium ion transmembrane transport",
+            "regulation of cardiac muscle cell action potential involved in regulation of contraction",
+            "regulation of cardiac muscle contraction",
+            "regulation of cation channel activity",
+            "regulation of heart rate",
+            "regulation of heart rate by cardiac conduction",
+            "regulation of membrane depolarization",
+            "regulation of membrane potential",
+            "regulation of SA node cell action potential",
+            "SA node cell action potential",
+            "sinoatrial node development",
+            "sodium ion import across plasma membrane",
+            "sodium ion transmembrane transport"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [
+            "Sick sinus syndrome 2",
+            "Brugada syndrome 8",
+            "Epilepsy",
+            "Brugada syndrome",
+            "Disease variant",
+            "Epilepsy"
+        ],
+        "Disease_description": [
+            "Sick sinus syndrome 2: The term 'sick sinus syndrome' encompasses a variety of conditions caused by sinus node dysfunction. The most common clinical manifestations are syncope, presyncope, dizziness, and fatigue. Electrocardiogram typically shows sinus bradycardia, sinus arrest, and/or sinoatrial block. Episodes of atrial tachycardias coexisting with sinus bradycardia ('tachycardia-bradycardia syndrome') are also common in this disorder. SSS occurs most often in the elderly associated with underlying heart disease or previous cardiac surgery, but can also occur in the fetus, infant, or child without heart disease or other contributing factors. SSS2 onset is in utero or at birth.",
+            "Brugada syndrome 8: A tachyarrhythmia characterized by right bundle branch block and ST segment elevation on an electrocardiogram (ECG). It can cause the ventricles to beat so fast that the blood is prevented from circulating efficiently in the body. When this situation occurs, the individual will faint and may die in a few minutes if the heart is not reset.",
+            "Epilepsy: An autosomal dominant form of idiopathic generalized epilepsy, a disorder characterized by recurring generalized seizures in the absence of detectable brain lesions and/or metabolic abnormalities. Generalized seizures arise diffusely and simultaneously from both hemispheres of the brain. Seizure types include juvenile myoclonic seizures, absence seizures, and generalized tonic-clonic seizures. EIG18 is characterized by onset of myoclonic seizures in infancy. Although the seizures remit, some patients may have later speech or cognitive impairment."
+        ],
+        "Complexes": [
+            "Homotetramer. The potassium channel is composed of a homo- or heterotetrameric complex of pore-forming subunits"
+        ]
+    },
+    "MICAL2": {
+        "UniProtKB_ID": "MICA2_HUMAN",
+        "Description": "[F-actin]-monooxygenase MICAL2",
+        "GO": [
+            "cytoplasm",
+            "nucleus",
+            "actin binding",
+            "FAD binding",
+            "metal ion binding",
+            "mitogen-activated protein kinase binding",
+            "NAD(P)H oxidase H2O2-forming activity",
+            "oxidoreductase activity",
+            "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",
+            "actin filament depolymerization",
+            "cytoskeleton organization",
+            "heart development",
+            "heart looping",
+            "positive regulation of transcription by RNA polymerase II",
+            "sulfur oxidation"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with PLXNA4 (By similarity). Interacts with RAB1B (PubMed:15694364, PubMed:27552051). Interacts with MAPK1/ERK2 (By similarity). Interacts with RAB35, RAB8A, RAB10, RAB13 and RAB15 (in their GTP-bound forms); binding to RAB35 is of low affinity compared to other Rab proteins; at least in case of RAB8A may bind 2 molecules of RAB8A simultaneously through a high and a low affinity binding site, respectively (PubMed:27552051). May interact with MAPK1/ERK2 (By similarity). Interacts with CORO1C; this interaction recruits MICAL2 to the actin filaments (PubMed:34106209)"
+        ]
+    },
+    "TTYH1": {
+        "UniProtKB_ID": "TTYH1_HUMAN",
+        "Description": "Protein tweety homolog 1",
+        "GO": [
+            "chloride channel complex",
+            "filopodium membrane",
+            "filopodium tip",
+            "membrane",
+            "plasma membrane",
+            "smooth endoplasmic reticulum membrane",
+            "synapse",
+            "calcium ion binding",
+            "chloride channel activity",
+            "intracellular calcium activated chloride channel activity",
+            "iron ion transmembrane transporter activity",
+            "volume-sensitive chloride channel activity",
+            "cell-cell adhesion",
+            "cell-substrate adhesion",
+            "chloride transport",
+            "filopodium assembly",
+            "ion transmembrane transport",
+            "iron ion transport",
+            "mitotic cell cycle"
+        ],
+        "Location": [
+            "cell membrane",
+            "membrane"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": []
+    }
+}

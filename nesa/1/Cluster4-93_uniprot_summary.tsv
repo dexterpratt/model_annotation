@@ -1,0 +1,150 @@
+Feature	Number of Genes	Genes
+membrane	8	ANO10, ATP8A1, CACNA1H, HCN1, HCN2, HCN3, HCN4, TTYH1
+plasma membrane	8	ANO10, ATP8A1, CACNA1H, HCN1, HCN2, HCN3, HCN4, TTYH1
+cell membrane	8	ANO10, ATP8A1, CACNA1H, HCN1, HCN2, HCN3, HCN4, TTYH1
+Disease variant	5	ANO10, CACNA1H, HCN1, HCN2, HCN4
+voltage-gated sodium channel activity	5	CACNA1H, HCN1, HCN2, HCN3, HCN4
+regulation of membrane potential	5	CACNA1H, HCN1, HCN2, HCN3, HCN4
+Epilepsy	4	CACNA1H, HCN1, HCN2, HCN4
+axon	4	HCN1, HCN2, HCN3, HCN4
+dendrite	4	HCN1, HCN2, HCN3, HCN4
+HCN channel complex	4	HCN1, HCN2, HCN3, HCN4
+cAMP binding	4	HCN1, HCN2, HCN3, HCN4
+voltage-gated potassium channel activity	4	HCN1, HCN2, HCN3, HCN4
+cellular response to cAMP	4	HCN1, HCN2, HCN3, HCN4
+potassium ion transmembrane transport	4	HCN1, HCN2, HCN3, HCN4
+regulation of cation channel activity	4	HCN1, HCN2, HCN3, HCN4
+regulation of heart rate by cardiac conduction	4	HCN1, HCN2, HCN3, HCN4
+regulation of membrane depolarization	4	HCN1, HCN2, HCN3, HCN4
+regulation of SA node cell action potential	4	HCN1, HCN2, HCN3, HCN4
+sodium ion transmembrane transport	4	HCN1, HCN2, HCN3, HCN4
+ion transmembrane transport	3	ANO10, ATP8A1, TTYH1
+identical protein binding	3	HCN1, HCN2, HCN4
+intracellular cAMP-activated cation channel activity	3	HCN1, HCN2, HCN4
+intracellular membrane-bounded organelle	2	ANO10, ATP8A1
+intracellular calcium activated chloride channel activity	2	ANO10, TTYH1
+cation transport	2	ANO10, HCN4
+chloride transport	2	ANO10, TTYH1
+synapse	2	ATP8A1, TTYH1
+metal ion binding	2	CACNA1H, MICAL2
+muscle contraction	2	CACNA1H, HCN4
+neuronal action potential	2	CACNA1H, HCN1
+cytoplasm	2	CFAP74, MICAL2
+cellular response to cGMP	2	HCN2, HCN4
+membrane depolarization during cardiac muscle cell action potential	2	HCN2, HCN4
+potassium ion import across plasma membrane	2	HCN2, HCN4
+sodium ion import across plasma membrane	2	HCN2, HCN4
+calcium activated cation channel activity	1	ANO10
+transmembrane transport	1	ANO10
+Spinocerebellar ataxia	1	ANO10
+Neurodegeneration	1	ANO10
+azurophil granule membrane	1	ATP8A1
+chromaffin granule membrane	1	ATP8A1
+cytoplasmic vesicle	1	ATP8A1
+endoplasmic reticulum	1	ATP8A1
+extracellular exosome	1	ATP8A1
+Golgi apparatus	1	ATP8A1
+organelle membrane	1	ATP8A1
+phospholipid-translocating ATPase complex	1	ATP8A1
+specific granule membrane	1	ATP8A1
+trans-Golgi network	1	ATP8A1
+ATP binding	1	ATP8A1
+ATP hydrolysis activity	1	ATP8A1
+ATPase-coupled cation transmembrane transporter activity	1	ATP8A1
+ATPase-coupled intramembrane lipid transporter activity	1	ATP8A1
+magnesium ion binding	1	ATP8A1
+phosphatidylserine flippase activity	1	ATP8A1
+phosphatidylserine floppase activity	1	ATP8A1
+aminophospholipid translocation	1	ATP8A1
+learning	1	ATP8A1
+phospholipid translocation	1	ATP8A1
+positive regulation of cell migration	1	ATP8A1
+positive regulation of phospholipid translocation	1	ATP8A1
+transport across blood-brain barrier	1	ATP8A1
+secretory vesicle	1	ATP8A1
+cytoplasmic granule	1	ATP8A1
+golgi apparatus	1	ATP8A1
+neuron projection	1	CACNA1H
+voltage-gated calcium channel complex	1	CACNA1H
+voltage-gated sodium channel complex	1	CACNA1H
+low voltage-gated calcium channel activity	1	CACNA1H
+scaffold protein binding	1	CACNA1H
+voltage-gated ion channel activity	1	CACNA1H
+aldosterone biosynthetic process	1	CACNA1H
+calcium ion import	1	CACNA1H
+cellular response to hormone stimulus	1	CACNA1H
+cellular response to potassium ion	1	CACNA1H
+cortisol biosynthetic process	1	CACNA1H
+inorganic cation transmembrane transport	1	CACNA1H
+membrane depolarization during action potential	1	CACNA1H
+muscle organ development	1	CACNA1H
+myoblast fusion	1	CACNA1H
+positive regulation of acrosome reaction	1	CACNA1H
+positive regulation of calcium ion-dependent exocytosis	1	CACNA1H
+regulation of heart contraction	1	CACNA1H
+regulation of ion transmembrane transport	1	CACNA1H
+Hyperaldosteronism	1	CACNA1H
+axoneme	1	CFAP74
+axoneme assembly	1	CFAP74
+cell projection	1	CFAP74
+cilium	1	CFAP74
+cytoskeleton	1	CFAP74
+cilium axoneme	1	CFAP74
+glutamatergic synapse	1	HCN1
+postsynaptic membrane	1	HCN1
+presynaptic active zone membrane	1	HCN1
+intracellular cAMP-activated cation channel activity involved in regulation of presynaptic membrane potential	1	HCN1
+potassium channel activity	1	HCN1
+voltage-gated cation channel activity	1	HCN1
+apical protein localization	1	HCN1
+general adaptation syndrome, behavioral process	1	HCN1
+negative regulation of synaptic transmission, glutamatergic	1	HCN1
+protein homotetramerization	1	HCN1
+retinal cone cell development	1	HCN1
+Developmental and epileptic encephalopathy 24	1	HCN1
+Generalized epilepsy with febrile seizures plus 10	1	HCN1
+voltage-gated potassium channel complex	1	HCN2
+cell-cell signaling	1	HCN2
+Febrile seizures	1	HCN2
+cone cell pedicle	1	HCN3
+neuronal cell body	1	HCN3
+cellular response to dopamine	1	HCN3
+response to cisplatin	1	HCN3
+perinuclear region of cytoplasm	1	HCN4
+voltage-gated potassium channel activity involved in SA node cell action potential depolarization	1	HCN4
+blood circulation	1	HCN4
+membrane depolarization during SA node cell action potential	1	HCN4
+regulation of cardiac muscle cell action potential involved in regulation of contraction	1	HCN4
+regulation of cardiac muscle contraction	1	HCN4
+regulation of heart rate	1	HCN4
+SA node cell action potential	1	HCN4
+sinoatrial node development	1	HCN4
+Sick sinus syndrome 2	1	HCN4
+Brugada syndrome 8	1	HCN4
+Brugada syndrome	1	HCN4
+nucleus	1	MICAL2
+actin binding	1	MICAL2
+FAD binding	1	MICAL2
+mitogen-activated protein kinase binding	1	MICAL2
+NAD(P)H oxidase H2O2-forming activity	1	MICAL2
+oxidoreductase activity	1	MICAL2
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	1	MICAL2
+actin filament depolymerization	1	MICAL2
+cytoskeleton organization	1	MICAL2
+heart development	1	MICAL2
+heart looping	1	MICAL2
+positive regulation of transcription by RNA polymerase II	1	MICAL2
+sulfur oxidation	1	MICAL2
+chloride channel complex	1	TTYH1
+filopodium membrane	1	TTYH1
+filopodium tip	1	TTYH1
+smooth endoplasmic reticulum membrane	1	TTYH1
+calcium ion binding	1	TTYH1
+chloride channel activity	1	TTYH1
+iron ion transmembrane transporter activity	1	TTYH1
+volume-sensitive chloride channel activity	1	TTYH1
+cell-cell adhesion	1	TTYH1
+cell-substrate adhesion	1	TTYH1
+filopodium assembly	1	TTYH1
+iron ion transport	1	TTYH1
+mitotic cell cycle	1	TTYH1

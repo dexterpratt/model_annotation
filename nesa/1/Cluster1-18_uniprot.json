@@ -13,12 +13,12 @@
             "regulation of cilium movement"
         ],
         "Location": [
-            "flagellum axoneme",
-            "cytoskeleton",
-            "cell projection",
             "cytoplasm",
-            "flagellum basal body",
+            "cell projection",
             "cilium",
+            "flagellum axoneme",
+            "flagellum basal body",
+            "cytoskeleton",
             "flagellum"
         ],
         "Disease": [
@@ -58,9 +58,9 @@
             "protein phosphorylation"
         ],
         "Location": [
+            "cytoplasm",
             "cell projection",
-            "lamellipodium",
-            "cytoplasm"
+            "lamellipodium"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -109,10 +109,10 @@
         ],
         "Location": [
             "membrane",
-            "golgi apparatus membrane",
+            "endoplasmic reticulum membrane",
             "endoplasmic reticulum",
-            "golgi apparatus",
-            "endoplasmic reticulum membrane"
+            "golgi apparatus membrane",
+            "golgi apparatus"
         ],
         "Disease": [
             "Desmosterolosis",
@@ -159,14 +159,14 @@
             "retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"
         ],
         "Location": [
-            "cis-golgi network membrane",
-            "membrane",
+            "cytoplasm",
             "endoplasmic reticulum-golgi intermediate compartment membrane",
             "nucleus",
-            "golgi apparatus",
+            "membrane",
+            "endoplasmic reticulum membrane",
             "endoplasmic reticulum",
-            "cytoplasm",
-            "endoplasmic reticulum membrane"
+            "cis-golgi network membrane",
+            "golgi apparatus"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -188,9 +188,9 @@
             "positive regulation of release of cytochrome c from mitochondria"
         ],
         "Location": [
-            "membrane",
+            "mitochondrion",
             "mitochondrion membrane",
-            "mitochondrion"
+            "membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -212,9 +212,9 @@
         ],
         "Location": [
             "mitochondrion",
-            "membrane",
             "mitochondrion outer membrane",
-            "nucleus"
+            "nucleus",
+            "membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -244,12 +244,12 @@
             "spermatogenesis"
         ],
         "Location": [
-            "centriole",
-            "cytoskeleton",
-            "nucleus",
-            "centrosome",
             "cytoplasm",
-            "microtubule organizing center"
+            "microtubule organizing center",
+            "centrosome",
+            "nucleus",
+            "cytoskeleton",
+            "centriole"
         ],
         "Disease": [
             "Intellectual developmental disorder",
@@ -294,8 +294,8 @@
             "smooth muscle contraction involved in micturition"
         ],
         "Location": [
-            "membrane",
-            "cell membrane"
+            "cell membrane",
+            "membrane"
         ],
         "Disease": [
             "Paroxysmal nonkinesigenic dyskinesia",
@@ -367,14 +367,14 @@
             "regulation of organelle transport along microtubule"
         ],
         "Location": [
-            "endosome membrane",
-            "cytolytic granule membrane",
+            "lysosome",
             "lysosome membrane",
-            "endosome",
+            "endosome membrane",
             "membrane",
+            "endosome",
             "cell membrane",
-            "late endosome membrane",
-            "lysosome"
+            "cytolytic granule membrane",
+            "late endosome membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -398,11 +398,11 @@
             "myelination"
         ],
         "Location": [
+            "cytoplasm",
+            "nucleus",
             "membrane",
             "cytoskeleton",
-            "cell membrane",
-            "nucleus",
-            "cytoplasm"
+            "cell membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -430,9 +430,9 @@
             "ventricular system development"
         ],
         "Location": [
+            "endoplasmic reticulum membrane",
             "membrane",
-            "endoplasmic reticulum",
-            "endoplasmic reticulum membrane"
+            "endoplasmic reticulum"
         ],
         "Disease": [
             "Intellectual developmental disorder",
@@ -473,11 +473,11 @@
             "ubiquitin protein ligase activity"
         ],
         "Location": [
-            "centriole",
-            "cytoskeleton",
-            "centrosome",
             "cytoplasm",
-            "microtubule organizing center"
+            "microtubule organizing center",
+            "centrosome",
+            "cytoskeleton",
+            "centriole"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -512,10 +512,10 @@
             "spermatid development"
         ],
         "Location": [
-            "cell projection",
             "cytoskeleton",
             "cytoplasm",
-            "cilium axoneme"
+            "cilium axoneme",
+            "cell projection"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -584,8 +584,8 @@
             "skeletal muscle acetylcholine-gated channel clustering"
         ],
         "Location": [
-            "membrane",
             "golgi apparatus membrane",
+            "membrane",
             "golgi apparatus"
         ],
         "Disease": [],
@@ -607,9 +607,9 @@
             "translation"
         ],
         "Location": [
+            "endoplasmic reticulum membrane",
             "membrane",
-            "endoplasmic reticulum",
-            "endoplasmic reticulum membrane"
+            "endoplasmic reticulum"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -654,8 +654,8 @@
             "sodium ion transport"
         ],
         "Location": [
-            "membrane",
-            "cell membrane"
+            "cell membrane",
+            "membrane"
         ],
         "Disease": [
             "Generalized epilepsy with febrile seizures plus 2",
@@ -711,8 +711,8 @@
             "sodium ion transport"
         ],
         "Location": [
-            "membrane",
-            "cell membrane"
+            "cell membrane",
+            "membrane"
         ],
         "Disease": [
             "Seizures",
@@ -745,11 +745,11 @@
             "SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"
         ],
         "Location": [
-            "signal recognition particle",
             "nucleolus",
+            "cytoplasm",
             "nucleus",
-            "nucleoplasm",
-            "cytoplasm"
+            "signal recognition particle",
+            "nucleoplasm"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -772,9 +772,9 @@
             "spermatogenesis"
         ],
         "Location": [
-            "membrane",
             "nucleus inner membrane",
             "nucleus",
+            "membrane",
             "golgi apparatus"
         ],
         "Disease": [
@@ -840,14 +840,14 @@
             "stress-activated MAPK cascade"
         ],
         "Location": [
-            "cytoplasmic vesicle membrane",
+            "cytoplasm",
             "dendrite",
-            "membrane",
-            "cytoskeleton",
+            "cell projection",
             "cytoplasmic vesicle",
             "nucleus",
-            "cell projection",
-            "cytoplasm"
+            "membrane",
+            "cytoskeleton",
+            "cytoplasmic vesicle membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -866,9 +866,9 @@
             "protein import into mitochondrial matrix"
         ],
         "Location": [
-            "membrane",
+            "mitochondrion",
             "mitochondrion membrane",
-            "mitochondrion"
+            "membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -896,9 +896,9 @@
             "protein targeting to mitochondrion"
         ],
         "Location": [
-            "membrane",
+            "mitochondrion",
             "mitochondrion outer membrane",
-            "mitochondrion"
+            "membrane"
         ],
         "Disease": [],
         "Disease_description": [],
@@ -918,9 +918,9 @@
             "Wnt signaling pathway"
         ],
         "Location": [
+            "endoplasmic reticulum membrane",
             "membrane",
-            "endoplasmic reticulum",
-            "endoplasmic reticulum membrane"
+            "endoplasmic reticulum"
         ],
         "Disease": [],
         "Disease_description": [],

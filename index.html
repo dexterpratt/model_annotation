@@ -1,137 +1,143 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<meta charset="UTF-8">
-	<title>Model Annotation</title>
-    
-<style>
-    body {
-        font-family: sans-serif;
-        margin: 0;
-        padding: 0;
-    }
+    <meta charset="UTF-8">
+    <title>Model Annotation</title>
 
-    header {
-        background-color: #333;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-    }
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+        }
 
-    h1 {
-        margin: 0;
-    }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
 
-    nav {
-        background-color: #eee;
-        border-right: 1px solid #ccc;
-        float: left;
-        height: 100%;
-        padding: 20px;
-        width: 200px;
-    }
+        h1 {
+            margin: 0;
+        }
 
-    nav ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
+        nav {
+            background-color: #eee;
+            border-right: 1px solid #ccc;
+            float: left;
+            height: 100%;
+            padding: 20px;
+            width: 200px;
+        }
 
-    nav li {
-        margin: 10px 0;
-    }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
 
-    nav a {
-        color: #333;
-        text-decoration: none;
-    }
+        nav li {
+            margin: 10px 0;
+        }
 
-    nav a:hover {
-        color: #666;
-    }
+        nav a {
+            color: #333;
+            text-decoration: none;
+        }
 
-    main {
-        margin-left: 220px;
-        padding: 20px;
-    }
+        nav a:hover {
+            color: #666;
+        }
 
-    h2 {
-        margin-top: 0;
-    }
+        main {
+            margin-left: 220px;
+            padding: 20px;
+        }
 
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
+        h2 {
+            margin-top: 0;
+        }
 
-    li {
-        margin: 10px 0;
-    }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
 
-    a {
-        color: #333;
-        text-decoration: none;
-    }
+        li {
+            margin: 10px 0;
+        }
 
-    a:hover {
-        color: #666;
-    }
-</style>
+        a {
+            color: #333;
+            text-decoration: none;
+        }
 
-<script>
-    // Load the JSON file with the URLs
-    fetch('urls.json')
-        .then(response => response.json())
-        .then(data => {
-            // Display the URLs in a hierarchical format
-            const modelsList = document.getElementById('models-list');
-            const main = document.querySelector('main');
-            
-            data.forEach(model => {
-                const modelItem = document.createElement('li');
-                const modelLink = document.createElement('a');
-                const modelTitle = document.createElement('h2');
-                const versionsList = document.createElement('ul');
-                
-                modelLink.textContent = model.name;
-                modelLink.href = `#${model.name}`;
-                modelTitle.textContent = model.name;
-                
-                model.versions.forEach(version => {
-                    const versionItem = document.createElement('li');
-                    const versionLink = document.createElement('a');
-                    const versionTitle = document.createElement('h3');
-                    const filesList = document.createElement('ul');
-                    
-                    versionLink.textContent = version.name;
-                    versionLink.href = `#${version.name}`;
-                    versionTitle.textContent = version.name;
-                    
-                    version.files.forEach(file => {
-                        const fileItem = document.createElement('li');
-                        const fileLink = document.createElement('a');
-                        
-                        fileLink.textContent = file.name;
-                        fileLink.href = file.url;
-                        
-                        fileItem.appendChild(fileLink);
-                        filesList.appendChild(fileItem);
+        a:hover {
+            color: #666;
+        }
+
+    </style>
+</head>
+
+<body>
+    <script>
+        // Load the JSON file with the URLs
+
+        fetch('urls.json')
+            .then(response => response.json())
+            .then(data => {
+                // Display the URLs in a hierarchical format
+                const modelsList = document.getElementById('models-list');
+                const main = document.querySelector('main');
+
+                data.forEach(model => {
+                    const modelItem = document.createElement('li');
+                    const modelLink = document.createElement('a');
+                    const modelTitle = document.createElement('h2');
+                    const versionsList = document.createElement('ul');
+
+                    modelLink.textContent = model.name;
+                    modelLink.href = `#${model.name}`;
+                    modelTitle.textContent = model.name;
+
+                    model.versions.forEach(version => {
+                        const versionItem = document.createElement('li');
+                        const versionLink = document.createElement('a');
+                        const versionTitle = document.createElement('h3');
+                        const filesList = document.createElement('ul');
+
+                        versionLink.textContent = version.name;
+                        versionLink.href = `#${version.name}`;
+                        versionTitle.textContent = version.name;
+
+                        version.files.forEach(file => {
+                            const fileItem = document.createElement('li');
+                            const fileLink = document.createElement('a');
+
+                            fileLink.textContent = file.name;
+                            fileLink.href = file.url;
+
+                            fileItem.appendChild(fileLink);
+                            filesList.appendChild(fileItem);
+                        });
+
+                        versionItem.appendChild(versionLink);
+                        versionItem.appendChild(versionTitle);
+                        versionItem.appendChild(filesList);
+                        versionsList.appendChild(versionItem);
                     });
-                    
-                    versionItem.appendChild(versionLink);
-                    versionItem.appendChild(versionTitle);
-                    versionItem.appendChild(filesList);
-                    versionsList.appendChild(versionItem);
-                });
-                
-                modelItem.appendChild(modelLink);
-                modelTitle.appendChild(versionsList);
-                main.appendChild(modelTitle);
-                modelsList.appendChild(modelItem);
-            });
-        });
-</script>
 
-    </head>
+                    modelItem.appendChild(modelLink);
+                    modelTitle.appendChild(versionsList);
+                    main.appendChild(modelTitle);
+                    modelsList.appendChild(modelItem);
+                });
+            });
+
+    </script>
+</body>
+
 </html>
