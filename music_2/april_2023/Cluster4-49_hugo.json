@@ -1,0 +1,274 @@
+{
+    "NCBP1": {
+        "hgnc_id": "HGNC:7658",
+        "symbol": "NCBP1",
+        "name": "nuclear cap binding protein subunit 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "NCBP"
+        ],
+        "prev_name": [
+            "nuclear cap binding protein subunit 1, 80kD",
+            "nuclear cap binding protein subunit 1, 80kDa"
+        ],
+        "alias_symbol": [
+            "CBP80",
+            "Sto1"
+        ],
+        "location": "9q22.33",
+        "date_approved_reserved": "1995-01-05T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-09T00:00:00Z",
+        "ena": [
+            "BC001450"
+        ],
+        "entrez_id": "4686",
+        "mgd_id": [
+            "MGI:1891840"
+        ],
+        "pubmed_id": [
+            7937105,
+            8812508
+        ],
+        "refseq_accession": [
+            "NM_002486"
+        ],
+        "gene_group": [
+            "MIF4G domain containing proteins"
+        ],
+        "vega_id": "OTTHUMG00000020332",
+        "ensembl_gene_id": "ENSG00000136937",
+        "ccds_id": [
+            "CCDS6728"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "600469"
+        ],
+        "uniprot_ids": [
+            "Q09161"
+        ],
+        "ucsc_id": "uc004axq.4",
+        "rgd_id": [
+            "RGD:1308973"
+        ],
+        "gene_group_id": [
+            2128
+        ],
+        "location_sortable": "09q22.33",
+        "agr": "HGNC:7658",
+        "mane_select": [
+            "ENST00000375147.8",
+            "NM_002486.5"
+        ],
+        "gencc": "HGNC:7658",
+        "uuid": "3cadbd7f-6376-4f29-97ce-93ecf2f1bc03",
+        "_version_": 1763313345875673088
+    },
+    "STMN1": {
+        "hgnc_id": "HGNC:6510",
+        "symbol": "STMN1",
+        "name": "stathmin 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "LAP18",
+            "C1orf215"
+        ],
+        "prev_name": [
+            "chromosome 1 open reading frame 215",
+            "stathmin 1/oncoprotein 18"
+        ],
+        "alias_symbol": [
+            "SMN",
+            "OP18",
+            "PR22",
+            "PP19",
+            "PP17",
+            "Lag",
+            "FLJ32206"
+        ],
+        "alias_name": [
+            "oncoprotein 18"
+        ],
+        "location": "1p36.11",
+        "date_approved_reserved": "1990-12-17T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2009-04-28T00:00:00Z",
+        "ena": [
+            "J04991"
+        ],
+        "entrez_id": "3925",
+        "mgd_id": [
+            "MGI:96739"
+        ],
+        "pubmed_id": [
+            2917975
+        ],
+        "refseq_accession": [
+            "NM_005563"
+        ],
+        "gene_group": [
+            "Stathmins",
+            "MicroRNA protein coding host genes"
+        ],
+        "date_symbol_changed": "2001-07-13T00:00:00Z",
+        "vega_id": "OTTHUMG00000007389",
+        "ensembl_gene_id": "ENSG00000117632",
+        "ccds_id": [
+            "CCDS269",
+            "CCDS44090"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "151442"
+        ],
+        "uniprot_ids": [
+            "P16949"
+        ],
+        "ucsc_id": "uc001blc.4",
+        "rgd_id": [
+            "RGD:2992"
+        ],
+        "gene_group_id": [
+            1138,
+            1691
+        ],
+        "location_sortable": "01p36.11",
+        "agr": "HGNC:6510",
+        "mane_select": [
+            "ENST00000455785.7",
+            "NM_005563.4"
+        ],
+        "uuid": "71f7d56b-f20f-4aac-8b0d-b94c342e3e5a",
+        "_version_": 1763313358844461056
+    },
+    "STMN3": {
+        "hgnc_id": "HGNC:15926",
+        "symbol": "STMN3",
+        "name": "stathmin 3",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "stathmin-like 3"
+        ],
+        "alias_symbol": [
+            "SCLIP"
+        ],
+        "location": "20q13.33",
+        "date_approved_reserved": "2001-08-01T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-16T00:00:00Z",
+        "ena": [
+            "AF069709"
+        ],
+        "entrez_id": "50861",
+        "mgd_id": [
+            "MGI:1277137"
+        ],
+        "pubmed_id": [
+            9603203,
+            10655513
+        ],
+        "refseq_accession": [
+            "NM_015894"
+        ],
+        "gene_group": [
+            "Stathmins"
+        ],
+        "vega_id": "OTTHUMG00000032985",
+        "ensembl_gene_id": "ENSG00000197457",
+        "ccds_id": [
+            "CCDS13529",
+            "CCDS63330"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "608362"
+        ],
+        "uniprot_ids": [
+            "Q9NZ72"
+        ],
+        "ucsc_id": "uc002yfr.3",
+        "rgd_id": [
+            "RGD:3628"
+        ],
+        "gene_group_id": [
+            1138
+        ],
+        "location_sortable": "20q13.33",
+        "agr": "HGNC:15926",
+        "mane_select": [
+            "ENST00000370053.3",
+            "NM_015894.4"
+        ],
+        "uuid": "141c973e-4d02-48fd-8fab-2be91b857944",
+        "_version_": 1763313358845509633
+    },
+    "TBC1D2": {
+        "hgnc_id": "HGNC:18026",
+        "symbol": "TBC1D2",
+        "name": "TBC1 domain family member 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "TBC1 domain family, member 2"
+        ],
+        "alias_symbol": [
+            "PARIS1",
+            "TBC1D2A",
+            "Armus"
+        ],
+        "alias_name": [
+            "prostate antigen recognized and identified by SEREX"
+        ],
+        "location": "9q22.33",
+        "date_approved_reserved": "2002-02-15T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-18T00:00:00Z",
+        "ena": [
+            "AY026527"
+        ],
+        "entrez_id": "55357",
+        "mgd_id": [
+            "MGI:2652885"
+        ],
+        "refseq_accession": [
+            "NM_018421"
+        ],
+        "gene_group": [
+            "MicroRNA protein coding host genes"
+        ],
+        "vega_id": "OTTHUMG00000020343",
+        "ensembl_gene_id": "ENSG00000095383",
+        "ccds_id": [
+            "CCDS59137",
+            "CCDS94445",
+            "CCDS35080",
+            "CCDS75865"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "609871"
+        ],
+        "uniprot_ids": [
+            "Q9BYX2"
+        ],
+        "ucsc_id": "uc011lvb.3",
+        "rgd_id": [
+            "RGD:1306860"
+        ],
+        "gene_group_id": [
+            1691
+        ],
+        "location_sortable": "09q22.33",
+        "agr": "HGNC:18026",
+        "mane_select": [
+            "ENST00000465784.7",
+            "NM_001267571.2"
+        ],
+        "uuid": "5cfc1a9c-14dc-4ca1-a4f0-e472e3e4ee9a",
+        "_version_": 1763313359118139392
+    }
+}

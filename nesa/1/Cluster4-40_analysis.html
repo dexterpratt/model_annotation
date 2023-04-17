@@ -1,542 +1,221 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <title>Cluster4-40 Summary</title>
+<title>Cluster4-40 Summary</title>
 </head>
-
 <body>
-    <h1>Cluster4-40 System Summary</h1>
-    <h2>Proteins</h2>
-    <p>ADAMTS13, ADGRV1, C16orf46, C2CD4A, C2CD4B, CACNG2, CARD16, CASP1, CC2D1B, CELSR1, CELSR2, CELSR3, CHRM5, CLBA1, CMA1, COL20A1, DCANP1, DCDC1, DCDC2B, DCHS1, DICER1, DTWD2, DTX4, FAM169BP, FAT1, FAT3, FAT4, FREM2, FZD3, HPSE2, IFNE, INSL4, LAG3, LINC01588, LINC02694, LIX1L, NUP210P1, NXPH2, PASK, PCDH20, PCDH7, PPIAL4E, PPIAL4G, PRSS37, RBPJL, RPS14P3, RPSAP52, SMTNL1, SOCS1, SPATA4, SSX6P, TAFA5, UCN3, XAGE1A, XAGE1B, XCL1, XYLB, ZBBX</p>
-    <h2>UniProt Data</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Feature</th>
-                <th>Number of Genes</th>
-                <th>Genes</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>cytoplasm</td>
-                <td>17</td>
-                <td>ADGRV1, CASP1, CELSR2, DCANP1, DCDC1, DICER1, DTWD2, DTX4, FZD3, LIX1L, PASK, PPIAL4E, PPIAL4G, PRSS37, SMTNL1, SOCS1, TAFA5</td>
-            </tr>
-            <tr>
-                <td>membrane</td>
-                <td>16</td>
-                <td>ADGRV1, CACNG2, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, DCHS1, FAT1, FAT3, FAT4, FREM2, FZD3, LAG3, PCDH20, PCDH7</td>
-            </tr>
-            <tr>
-                <td>plasma membrane</td>
-                <td>16</td>
-                <td>ADGRV1, CACNG2, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, FAT1, FAT3, FAT4, FREM2, FZD3, HPSE2, LAG3, PCDH20, PCDH7</td>
-            </tr>
-            <tr>
-                <td>nucleus</td>
-                <td>14</td>
-                <td>C2CD4A, C2CD4B, CC2D1B, DCANP1, DICER1, DTWD2, FAT1, PASK, PRSS37, RBPJL, SMTNL1, SOCS1, SPATA4, SSX6P</td>
-            </tr>
-            <tr>
-                <td>cell membrane</td>
-                <td>13</td>
-                <td>ADGRV1, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, DCHS1, FAT1, FREM2, FZD3, LAG3, PCDH20, PCDH7</td>
-            </tr>
-            <tr>
-                <td>secreted</td>
-                <td>12</td>
-                <td>ADAMTS13, CMA1, COL20A1, HPSE2, IFNE, INSL4, LAG3, NXPH2, PRSS37, TAFA5, UCN3, XCL1</td>
-            </tr>
-            <tr>
-                <td>calcium ion binding</td>
-                <td>11</td>
-                <td>ADAMTS13, ADGRV1, CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, PCDH7</td>
-            </tr>
-            <tr>
-                <td>extracellular space</td>
-                <td>10</td>
-                <td>ADAMTS13, CASP1, CMA1, COL20A1, HPSE2, IFNE, INSL4, TAFA5, UCN3, XCL1</td>
-            </tr>
-            <tr>
-                <td>cytosol</td>
-                <td>9</td>
-                <td>C16orf46, CACNG2, CASP1, CMA1, DICER1, DTX4, PASK, SOCS1, XYLB</td>
-            </tr>
-            <tr>
-                <td>homophilic cell adhesion via plasma membrane adhesion molecules</td>
-                <td>9</td>
-                <td>CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, PCDH7</td>
-            </tr>
-            <tr>
-                <td>Disease variant</td>
-                <td>8</td>
-                <td>ADAMTS13, CACNG2, CELSR1, DCHS1, DICER1, FAT4, FREM2, SOCS1</td>
-            </tr>
-            <tr>
-                <td>cell-cell adhesion</td>
-                <td>7</td>
-                <td>ADGRV1, CELSR1, CELSR2, CELSR3, FAT1, FAT3, FAT4</td>
-            </tr>
-            <tr>
-                <td>nucleoplasm</td>
-                <td>7</td>
-                <td>C16orf46, C2CD4A, CC2D1B, CELSR1, DCANP1, DTX4, SOCS1</td>
-            </tr>
-            <tr>
-                <td>extracellular region</td>
-                <td>7</td>
-                <td>CMA1, COL20A1, LAG3, NXPH2, PRSS37, UCN3, XCL1</td>
-            </tr>
-            <tr>
-                <td>extracellular exosome</td>
-                <td>5</td>
-                <td>ADGRV1, DICER1, FAT1, FAT4, FREM2</td>
-            </tr>
-            <tr>
-                <td>G protein-coupled receptor activity</td>
-                <td>5</td>
-                <td>ADGRV1, CELSR1, CELSR2, CELSR3, FZD3</td>
-            </tr>
-            <tr>
-                <td>G protein-coupled receptor signaling pathway</td>
-                <td>5</td>
-                <td>ADGRV1, CELSR2, CELSR3, TAFA5, XCL1</td>
-            </tr>
-            <tr>
-                <td>cell surface</td>
-                <td>4</td>
-                <td>ADAMTS13, ADGRV1, CACNG2, FZD3</td>
-            </tr>
-            <tr>
-                <td>proteolysis</td>
-                <td>4</td>
-                <td>ADAMTS13, CARD16, CASP1, PRSS37</td>
-            </tr>
-            <tr>
-                <td>intracellular membrane-bounded organelle</td>
-                <td>4</td>
-                <td>CC2D1B, PPIAL4E, PPIAL4G, PRSS37</td>
-            </tr>
-            <tr>
-                <td>Wnt signaling pathway, planar cell polarity pathway</td>
-                <td>4</td>
-                <td>CELSR1, CELSR2, CELSR3, FZD3</td>
-            </tr>
-            <tr>
-                <td>intracellular signal transduction</td>
-                <td>4</td>
-                <td>DCDC1, DCDC2B, PASK, SOCS1</td>
-            </tr>
-            <tr>
-                <td>cell adhesion</td>
-                <td>4</td>
-                <td>FAT1, FREM2, PCDH20, PCDH7</td>
-            </tr>
-            <tr>
-                <td>cellular response to lipopolysaccharide</td>
-                <td>3</td>
-                <td>ADAMTS13, CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>cellular response to type II interferon</td>
-                <td>3</td>
-                <td>ADAMTS13, CASP1, XCL1</td>
-            </tr>
-            <tr>
-                <td>synapse</td>
-                <td>3</td>
-                <td>ADGRV1, CACNG2, CHRM5</td>
-            </tr>
-            <tr>
-                <td>inner ear development</td>
-                <td>3</td>
-                <td>ADGRV1, DCANP1, FREM2</td>
-            </tr>
-            <tr>
-                <td>Deafness</td>
-                <td>3</td>
-                <td>ADGRV1, DCHS1, FAT4</td>
-            </tr>
-            <tr>
-                <td>Intellectual disability</td>
-                <td>3</td>
-                <td>CACNG2, DCHS1, FAT4</td>
-            </tr>
-            <tr>
-                <td>microtubule</td>
-                <td>3</td>
-                <td>CASP1, DCDC1, DCDC2B</td>
-            </tr>
-            <tr>
-                <td>regulation of inflammatory response</td>
-                <td>3</td>
-                <td>CASP1, CMA1, XCL1</td>
-            </tr>
-            <tr>
-                <td>signal transduction</td>
-                <td>3</td>
-                <td>CASP1, RBPJL, XCL1</td>
-            </tr>
-            <tr>
-                <td>dendrite</td>
-                <td>3</td>
-                <td>CHRM5, FAT3, FZD3</td>
-            </tr>
-            <tr>
-                <td>collagen-containing extracellular matrix</td>
-                <td>3</td>
-                <td>CMA1, COL20A1, FREM2</td>
-            </tr>
-            <tr>
-                <td>ATP binding</td>
-                <td>3</td>
-                <td>DICER1, PASK, XYLB</td>
-            </tr>
-            <tr>
-                <td>metal ion binding</td>
-                <td>3</td>
-                <td>DICER1, FREM2, ZBBX</td>
-            </tr>
-            <tr>
-                <td>cell-cell signaling</td>
-                <td>3</td>
-                <td>FAT1, INSL4, XCL1</td>
-            </tr>
-            <tr>
-                <td>endoplasmic reticulum lumen</td>
-                <td>2</td>
-                <td>ADAMTS13, COL20A1</td>
-            </tr>
-            <tr>
-                <td>extracellular matrix</td>
-                <td>2</td>
-                <td>ADAMTS13, HPSE2</td>
-            </tr>
-            <tr>
-                <td>zinc ion binding</td>
-                <td>2</td>
-                <td>ADAMTS13, DTX4</td>
-            </tr>
-            <tr>
-                <td>cellular response to interleukin-4</td>
-                <td>2</td>
-                <td>ADAMTS13, XCL1</td>
-            </tr>
-            <tr>
-                <td>cellular response to tumor necrosis factor</td>
-                <td>2</td>
-                <td>ADAMTS13, XCL1</td>
-            </tr>
-            <tr>
-                <td>extracellular matrix organization</td>
-                <td>2</td>
-                <td>ADAMTS13, HPSE2</td>
-            </tr>
-            <tr>
-                <td>protein catabolic process</td>
-                <td>2</td>
-                <td>ADAMTS13, CMA1</td>
-            </tr>
-            <tr>
-                <td>cell surface receptor signaling pathway</td>
-                <td>2</td>
-                <td>ADGRV1, LAG3</td>
-            </tr>
-            <tr>
-                <td>nucleolus</td>
-                <td>2</td>
-                <td>C2CD4A, CASP1</td>
-            </tr>
-            <tr>
-                <td>positive regulation of acute inflammatory response</td>
-                <td>2</td>
-                <td>C2CD4A, C2CD4B</td>
-            </tr>
-            <tr>
-                <td>regulation of cell adhesion</td>
-                <td>2</td>
-                <td>C2CD4A, C2CD4B</td>
-            </tr>
-            <tr>
-                <td>regulation of vascular permeability involved in acute inflammatory response</td>
-                <td>2</td>
-                <td>C2CD4A, C2CD4B</td>
-            </tr>
-            <tr>
-                <td>transmission of nerve impulse</td>
-                <td>2</td>
-                <td>CACNG2, CHRM5</td>
-            </tr>
-            <tr>
-                <td>protease inhibitor complex</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>protein-containing complex</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>CARD domain binding</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>cysteine-type endopeptidase activity</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>identical protein binding</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>kinase binding</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>cellular response to hypoxia</td>
-                <td>2</td>
-                <td>CARD16, UCN3</td>
-            </tr>
-            <tr>
-                <td>positive regulation of I-kappaB kinase/NF-kappaB signaling</td>
-                <td>2</td>
-                <td>CARD16, CASP1</td>
-            </tr>
-            <tr>
-                <td>endopeptidase activity</td>
-                <td>2</td>
-                <td>CASP1, CMA1</td>
-            </tr>
-            <tr>
-                <td>cytokine precursor processing</td>
-                <td>2</td>
-                <td>CASP1, CMA1</td>
-            </tr>
-            <tr>
-                <td>defense response to virus</td>
-                <td>2</td>
-                <td>CASP1, IFNE</td>
-            </tr>
-            <tr>
-                <td>DNA-binding transcription factor activity, RNA polymerase II-specific</td>
-                <td>2</td>
-                <td>CC2D1B, RBPJL</td>
-            </tr>
-            <tr>
-                <td>RNA polymerase II cis-regulatory region sequence-specific DNA binding</td>
-                <td>2</td>
-                <td>CC2D1B, RBPJL</td>
-            </tr>
-            <tr>
-                <td>establishment of planar polarity</td>
-                <td>2</td>
-                <td>CELSR1, FZD3</td>
-            </tr>
-            <tr>
-                <td>neural tube closure</td>
-                <td>2</td>
-                <td>CELSR1, FZD3</td>
-            </tr>
-            <tr>
-                <td>cilium movement</td>
-                <td>2</td>
-                <td>CELSR2, ZBBX</td>
-            </tr>
-            <tr>
-                <td>motor neuron migration</td>
-                <td>2</td>
-                <td>CELSR2, FZD3</td>
-            </tr>
-            <tr>
-                <td>regulation of DNA-templated transcription</td>
-                <td>2</td>
-                <td>CELSR2, SSX6P</td>
-            </tr>
-            <tr>
-                <td>cytoplasmic ribonucleoprotein granule</td>
-                <td>2</td>
-                <td>CMA1, SOCS1</td>
-            </tr>
-            <tr>
-                <td>serine-type endopeptidase activity</td>
-                <td>2</td>
-                <td>CMA1, PRSS37</td>
-            </tr>
-            <tr>
-                <td>DNA binding</td>
-                <td>2</td>
-                <td>DCANP1, DICER1</td>
-            </tr>
-            <tr>
-                <td>cochlea development</td>
-                <td>2</td>
-                <td>DCANP1, DCHS1</td>
-            </tr>
-            <tr>
-                <td>inner ear morphogenesis</td>
-                <td>2</td>
-                <td>DCANP1, FZD3</td>
-            </tr>
-            <tr>
-                <td>microtubule binding</td>
-                <td>2</td>
-                <td>DCDC1, SPATA4</td>
-            </tr>
-            <tr>
-                <td>microtubule organizing center</td>
-                <td>2</td>
-                <td>DCDC2B, SMTNL1</td>
-            </tr>
-            <tr>
-                <td>heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules</td>
-                <td>2</td>
-                <td>DCHS1, FAT4</td>
-            </tr>
-            <tr>
-                <td>hippo signaling</td>
-                <td>2</td>
-                <td>DCHS1, FAT4</td>
-            </tr>
-            <tr>
-                <td>neurogenesis</td>
-                <td>2</td>
-                <td>DCHS1, FAT4</td>
-            </tr>
-            <tr>
-                <td>post-anal tail morphogenesis</td>
-                <td>2</td>
-                <td>DCHS1, FZD3</td>
-            </tr>
-            <tr>
-                <td>perinuclear region of cytoplasm</td>
-                <td>2</td>
-                <td>DICER1, FAT1</td>
-            </tr>
-            <tr>
-                <td>RNA binding</td>
-                <td>2</td>
-                <td>DICER1, PCDH20</td>
-            </tr>
-            <tr>
-                <td>protein ubiquitination</td>
-                <td>2</td>
-                <td>DTX4, SOCS1</td>
-            </tr>
-            <tr>
-                <td>apical plasma membrane</td>
-                <td>2</td>
-                <td>FAT1, FZD3</td>
-            </tr>
-            <tr>
-                <td>anatomical structure morphogenesis</td>
-                <td>2</td>
-                <td>FAT1, FREM2</td>
-            </tr>
-            <tr>
-                <td>cell migration</td>
-                <td>2</td>
-                <td>FAT1, PRSS37</td>
-            </tr>
-            <tr>
-                <td>response to xenobiotic stimulus</td>
-                <td>2</td>
-                <td>FZD3, SMTNL1</td>
-            </tr>
-            <tr>
-                <td>cytokine activity</td>
-                <td>2</td>
-                <td>IFNE, TAFA5</td>
-            </tr>
-            <tr>
-                <td>adaptive immune response</td>
-                <td>2</td>
-                <td>IFNE, LAG3</td>
-            </tr>
-            <tr>
-                <td>cytokine-mediated signaling pathway</td>
-                <td>2</td>
-                <td>IFNE, SOCS1</td>
-            </tr>
-            <tr>
-                <td>hormone activity</td>
-                <td>2</td>
-                <td>INSL4, UCN3</td>
-            </tr>
-            <tr>
-                <td>insulin-like growth factor receptor binding</td>
-                <td>2</td>
-                <td>INSL4, SOCS1</td>
-            </tr>
-            <tr>
-                <td>signaling receptor binding</td>
-                <td>2</td>
-                <td>INSL4, NXPH2</td>
-            </tr>
-            <tr>
-                <td>negative regulation of interleukin-2 production</td>
-                <td>2</td>
-                <td>LAG3, XCL1</td>
-            </tr>
-            <tr>
-                <td>cyclosporin A binding</td>
-                <td>2</td>
-                <td>PPIAL4E, PPIAL4G</td>
-            </tr>
-            <tr>
-                <td>peptidyl-prolyl cis-trans isomerase activity</td>
-                <td>2</td>
-                <td>PPIAL4E, PPIAL4G</td>
-            </tr>
-            <tr>
-                <td>protein folding</td>
-                <td>2</td>
-                <td>PPIAL4E, PPIAL4G</td>
-            </tr>
-            <tr>
-                <td>protein peptidyl-prolyl isomerization</td>
-                <td>2</td>
-                <td>PPIAL4E, PPIAL4G</td>
-            </tr>
-            <tr>
-                <td>cytoplasmic vesicle</td>
-                <td>2</td>
-                <td>PRSS37, SOCS1</td>
-            </tr>
-            <tr>
-                <td>negative regulation of DNA-templated transcription</td>
-                <td>2</td>
-                <td>SMTNL1, XCL1</td>
-            </tr>
-        </tbody>
-    </table>
-    <h2>ChatGPT 4 Analysis</h2>
-
-
-    <p>In this system of interacting proteins, several mechanisms and biological processes are performed, which can be connected to ASD (Autism Spectrum Disorder). The proteins DCDC2B, DICER1, and FAT3 have high confidence mutations in ASD-diagnosed individuals, and FAT1 is associated with ASD-risk in SFARI categories 2 and 3. These proteins are involved in various cellular components and complexes, and their functional roles can be further analyzed to understand their impact on ASD.</p>
-    <p>The proteins in this system are involved in multiple cellular components, such as the cytoplasm, membrane, plasma membrane, nucleus, cell membrane, extracellular space, and calcium ion binding. These proteins play a role in several cellular processes, including cell adhesion, signal transduction, and intracellular signal transduction. In particular, proteins CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, and PCDH7 are involved in homophilic cell adhesion via plasma membrane adhesion molecules, which can impact cell communication and development. Additionally, proteins such as CASP1, CARD16, CMA1, and PRSS37 are involved in proteolysis, which can influence protein degradation and turnover.</p>
-    <p>Some proteins in the system are associated with specific diseases or developmental processes. For example, ADGRV1, DCHS1, and FAT4 are connected to deafness, while CACNG2, DCHS1, and FAT4 are associated with intellectual disability. The proteins ADGRV1, DCANP1, and FREM2 are involved in inner ear development, while CASP1, DCDC1, and DCDC2B are associated with microtubules, which play a crucial role in cell structure and division.</p>
-    <p>Given the high-confidence ASD-associated mutations in proteins DCDC2B, DICER1, and FAT3, as well as the ASD-risk association of FAT1, it is essential to consider the functional roles of these proteins in the context of ASD. For instance, DICER1 is involved in RNA binding and is localized in the perinuclear region of the cytoplasm, which could potentially impact gene expression regulation. FAT3 is involved in cell adhesion and is present in dendrites, which are crucial for neuronal communication. Understanding the roles of these proteins and their interactions within the system may provide valuable insights into the biological processes underlying ASD.</p>
-
-
-    <p>DCDC2B is a potentially novel ASD-risk gene candidate. While not directly associated with ASD, it is related to DCDC2, which has been implicated in dyslexia and reading disabilities. Dyslexia shares some co-morbidity with ASD, and the genetic relationship between DCDC2 and DCDC2B suggests a possible link to ASD. Further research is needed to confirm this association.</p>
-    <p>DICER1 is another potentially novel ASD-risk gene candidate. DICER1 is involved in microRNA biogenesis, which plays a critical role in regulating gene expression during brain development. Although not directly associated with ASD, DICER1 has been linked to the Dicer1 Syndrome, a rare genetic disorder characterized by multiple benign tumors and an increased risk of certain cancers. The connection between DICER1 and neurodevelopmental processes warrants further investigation into its potential role in ASD.</p>
-    <p>bad reasoning below: concluding that FAT3 is not novel because it is related to FAT1</p>
-    <p>FAT3 is not a novel ASD-risk gene, as it is related to the FAT1 gene, which is already included in the SFARI categories 2 and 3. FAT3 is involved in the regulation of neuronal development and the establishment of neuronal polarity. Its association with FAT1, which is implicated in ASD, and its role in neuronal development suggest that FAT3 might contribute to ASD risk as well. However, since it is related to an already known ASD-risk gene, it is not considered novel in this context.</p>
-
-    <ul>
-        <li>ProteoInteract Nexus</li>
-        <li>Cellular Harmony Network</li>
-        <li>Protein Synergy Ensemble</li>
-        <li>Molecule Coordination Web</li>
-        <li>BioPathway Integrator</li>
-    </ul>
+<h1>Cluster4-40 System Summary</h1>
+<h2>Proteins</h2>
+<p>ADAMTS13, ADGRV1, C16orf46, C2CD4A, C2CD4B, CACNG2, CARD16, CASP1, CC2D1B, CELSR1, CELSR2, CELSR3, CHRM5, CLBA1, CMA1, COL20A1, DCANP1, DCDC1, DCDC2B, DCHS1, DICER1, DTWD2, DTX4, FAM169BP, FAT1, FAT3, FAT4, FREM2, FZD3, HPSE2, IFNE, INSL4, LAG3, LINC01588, LINC02694, LIX1L, NUP210P1, NXPH2, PASK, PCDH20, PCDH7, PPIAL4E, PPIAL4G, PRSS37, RBPJL, RPS14P3, RPSAP52, SMTNL1, SOCS1, SPATA4, SSX6P, TAFA5, UCN3, XAGE1A, XAGE1B, XCL1, XYLB, ZBBX</p>
+<h2>UniProt Data</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th><th>Number of Genes</th><th>Genes</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>cytoplasm</td><td>17</td><td>ADGRV1, CASP1, CELSR2, DCANP1, DCDC1, DICER1, DTWD2, DTX4, FZD3, LIX1L, PASK, PPIAL4E, PPIAL4G, PRSS37, SMTNL1, SOCS1, TAFA5</td></tr>
+<tr>
+<td>membrane</td><td>16</td><td>ADGRV1, CACNG2, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, DCHS1, FAT1, FAT3, FAT4, FREM2, FZD3, LAG3, PCDH20, PCDH7</td></tr>
+<tr>
+<td>plasma membrane</td><td>16</td><td>ADGRV1, CACNG2, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, FAT1, FAT3, FAT4, FREM2, FZD3, HPSE2, LAG3, PCDH20, PCDH7</td></tr>
+<tr>
+<td>nucleus</td><td>14</td><td>C2CD4A, C2CD4B, CC2D1B, DCANP1, DICER1, DTWD2, FAT1, PASK, PRSS37, RBPJL, SMTNL1, SOCS1, SPATA4, SSX6P</td></tr>
+<tr>
+<td>cell membrane</td><td>13</td><td>ADGRV1, CASP1, CELSR1, CELSR2, CELSR3, CHRM5, DCHS1, FAT1, FREM2, FZD3, LAG3, PCDH20, PCDH7</td></tr>
+<tr>
+<td>secreted</td><td>12</td><td>ADAMTS13, CMA1, COL20A1, HPSE2, IFNE, INSL4, LAG3, NXPH2, PRSS37, TAFA5, UCN3, XCL1</td></tr>
+<tr>
+<td>calcium ion binding</td><td>11</td><td>ADAMTS13, ADGRV1, CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, PCDH7</td></tr>
+<tr>
+<td>extracellular space</td><td>10</td><td>ADAMTS13, CASP1, CMA1, COL20A1, HPSE2, IFNE, INSL4, TAFA5, UCN3, XCL1</td></tr>
+<tr>
+<td>cytosol</td><td>9</td><td>C16orf46, CACNG2, CASP1, CMA1, DICER1, DTX4, PASK, SOCS1, XYLB</td></tr>
+<tr>
+<td>homophilic cell adhesion via plasma membrane adhesion molecules</td><td>9</td><td>CELSR1, CELSR2, CELSR3, DCHS1, FAT1, FAT3, FAT4, PCDH20, PCDH7</td></tr>
+<tr>
+<td>Disease variant</td><td>8</td><td>ADAMTS13, CACNG2, CELSR1, DCHS1, DICER1, FAT4, FREM2, SOCS1</td></tr>
+<tr>
+<td>cell-cell adhesion</td><td>7</td><td>ADGRV1, CELSR1, CELSR2, CELSR3, FAT1, FAT3, FAT4</td></tr>
+<tr>
+<td>nucleoplasm</td><td>7</td><td>C16orf46, C2CD4A, CC2D1B, CELSR1, DCANP1, DTX4, SOCS1</td></tr>
+<tr>
+<td>extracellular region</td><td>7</td><td>CMA1, COL20A1, LAG3, NXPH2, PRSS37, UCN3, XCL1</td></tr>
+<tr>
+<td>extracellular exosome</td><td>5</td><td>ADGRV1, DICER1, FAT1, FAT4, FREM2</td></tr>
+<tr>
+<td>G protein-coupled receptor activity</td><td>5</td><td>ADGRV1, CELSR1, CELSR2, CELSR3, FZD3</td></tr>
+<tr>
+<td>G protein-coupled receptor signaling pathway</td><td>5</td><td>ADGRV1, CELSR2, CELSR3, TAFA5, XCL1</td></tr>
+<tr>
+<td>cell surface</td><td>4</td><td>ADAMTS13, ADGRV1, CACNG2, FZD3</td></tr>
+<tr>
+<td>proteolysis</td><td>4</td><td>ADAMTS13, CARD16, CASP1, PRSS37</td></tr>
+<tr>
+<td>intracellular membrane-bounded organelle</td><td>4</td><td>CC2D1B, PPIAL4E, PPIAL4G, PRSS37</td></tr>
+<tr>
+<td>Wnt signaling pathway, planar cell polarity pathway</td><td>4</td><td>CELSR1, CELSR2, CELSR3, FZD3</td></tr>
+<tr>
+<td>intracellular signal transduction</td><td>4</td><td>DCDC1, DCDC2B, PASK, SOCS1</td></tr>
+<tr>
+<td>cell adhesion</td><td>4</td><td>FAT1, FREM2, PCDH20, PCDH7</td></tr>
+<tr>
+<td>cellular response to lipopolysaccharide</td><td>3</td><td>ADAMTS13, CARD16, CASP1</td></tr>
+<tr>
+<td>cellular response to type II interferon</td><td>3</td><td>ADAMTS13, CASP1, XCL1</td></tr>
+<tr>
+<td>synapse</td><td>3</td><td>ADGRV1, CACNG2, CHRM5</td></tr>
+<tr>
+<td>inner ear development</td><td>3</td><td>ADGRV1, DCANP1, FREM2</td></tr>
+<tr>
+<td>Deafness</td><td>3</td><td>ADGRV1, DCHS1, FAT4</td></tr>
+<tr>
+<td>Intellectual disability</td><td>3</td><td>CACNG2, DCHS1, FAT4</td></tr>
+<tr>
+<td>microtubule</td><td>3</td><td>CASP1, DCDC1, DCDC2B</td></tr>
+<tr>
+<td>regulation of inflammatory response</td><td>3</td><td>CASP1, CMA1, XCL1</td></tr>
+<tr>
+<td>signal transduction</td><td>3</td><td>CASP1, RBPJL, XCL1</td></tr>
+<tr>
+<td>dendrite</td><td>3</td><td>CHRM5, FAT3, FZD3</td></tr>
+<tr>
+<td>collagen-containing extracellular matrix</td><td>3</td><td>CMA1, COL20A1, FREM2</td></tr>
+<tr>
+<td>ATP binding</td><td>3</td><td>DICER1, PASK, XYLB</td></tr>
+<tr>
+<td>metal ion binding</td><td>3</td><td>DICER1, FREM2, ZBBX</td></tr>
+<tr>
+<td>cell-cell signaling</td><td>3</td><td>FAT1, INSL4, XCL1</td></tr>
+<tr>
+<td>endoplasmic reticulum lumen</td><td>2</td><td>ADAMTS13, COL20A1</td></tr>
+<tr>
+<td>extracellular matrix</td><td>2</td><td>ADAMTS13, HPSE2</td></tr>
+<tr>
+<td>zinc ion binding</td><td>2</td><td>ADAMTS13, DTX4</td></tr>
+<tr>
+<td>cellular response to interleukin-4</td><td>2</td><td>ADAMTS13, XCL1</td></tr>
+<tr>
+<td>cellular response to tumor necrosis factor</td><td>2</td><td>ADAMTS13, XCL1</td></tr>
+<tr>
+<td>extracellular matrix organization</td><td>2</td><td>ADAMTS13, HPSE2</td></tr>
+<tr>
+<td>protein catabolic process</td><td>2</td><td>ADAMTS13, CMA1</td></tr>
+<tr>
+<td>cell surface receptor signaling pathway</td><td>2</td><td>ADGRV1, LAG3</td></tr>
+<tr>
+<td>nucleolus</td><td>2</td><td>C2CD4A, CASP1</td></tr>
+<tr>
+<td>positive regulation of acute inflammatory response</td><td>2</td><td>C2CD4A, C2CD4B</td></tr>
+<tr>
+<td>regulation of cell adhesion</td><td>2</td><td>C2CD4A, C2CD4B</td></tr>
+<tr>
+<td>regulation of vascular permeability involved in acute inflammatory response</td><td>2</td><td>C2CD4A, C2CD4B</td></tr>
+<tr>
+<td>transmission of nerve impulse</td><td>2</td><td>CACNG2, CHRM5</td></tr>
+<tr>
+<td>protease inhibitor complex</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>protein-containing complex</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>CARD domain binding</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>cysteine-type endopeptidase activity</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>identical protein binding</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>kinase binding</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>cellular response to hypoxia</td><td>2</td><td>CARD16, UCN3</td></tr>
+<tr>
+<td>positive regulation of I-kappaB kinase/NF-kappaB signaling</td><td>2</td><td>CARD16, CASP1</td></tr>
+<tr>
+<td>endopeptidase activity</td><td>2</td><td>CASP1, CMA1</td></tr>
+<tr>
+<td>cytokine precursor processing</td><td>2</td><td>CASP1, CMA1</td></tr>
+<tr>
+<td>defense response to virus</td><td>2</td><td>CASP1, IFNE</td></tr>
+<tr>
+<td>DNA-binding transcription factor activity, RNA polymerase II-specific</td><td>2</td><td>CC2D1B, RBPJL</td></tr>
+<tr>
+<td>RNA polymerase II cis-regulatory region sequence-specific DNA binding</td><td>2</td><td>CC2D1B, RBPJL</td></tr>
+<tr>
+<td>establishment of planar polarity</td><td>2</td><td>CELSR1, FZD3</td></tr>
+<tr>
+<td>neural tube closure</td><td>2</td><td>CELSR1, FZD3</td></tr>
+<tr>
+<td>cilium movement</td><td>2</td><td>CELSR2, ZBBX</td></tr>
+<tr>
+<td>motor neuron migration</td><td>2</td><td>CELSR2, FZD3</td></tr>
+<tr>
+<td>regulation of DNA-templated transcription</td><td>2</td><td>CELSR2, SSX6P</td></tr>
+<tr>
+<td>cytoplasmic ribonucleoprotein granule</td><td>2</td><td>CMA1, SOCS1</td></tr>
+<tr>
+<td>serine-type endopeptidase activity</td><td>2</td><td>CMA1, PRSS37</td></tr>
+<tr>
+<td>DNA binding</td><td>2</td><td>DCANP1, DICER1</td></tr>
+<tr>
+<td>cochlea development</td><td>2</td><td>DCANP1, DCHS1</td></tr>
+<tr>
+<td>inner ear morphogenesis</td><td>2</td><td>DCANP1, FZD3</td></tr>
+<tr>
+<td>microtubule binding</td><td>2</td><td>DCDC1, SPATA4</td></tr>
+<tr>
+<td>microtubule organizing center</td><td>2</td><td>DCDC2B, SMTNL1</td></tr>
+<tr>
+<td>heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules</td><td>2</td><td>DCHS1, FAT4</td></tr>
+<tr>
+<td>hippo signaling</td><td>2</td><td>DCHS1, FAT4</td></tr>
+<tr>
+<td>neurogenesis</td><td>2</td><td>DCHS1, FAT4</td></tr>
+<tr>
+<td>post-anal tail morphogenesis</td><td>2</td><td>DCHS1, FZD3</td></tr>
+<tr>
+<td>perinuclear region of cytoplasm</td><td>2</td><td>DICER1, FAT1</td></tr>
+<tr>
+<td>RNA binding</td><td>2</td><td>DICER1, PCDH20</td></tr>
+<tr>
+<td>protein ubiquitination</td><td>2</td><td>DTX4, SOCS1</td></tr>
+<tr>
+<td>apical plasma membrane</td><td>2</td><td>FAT1, FZD3</td></tr>
+<tr>
+<td>anatomical structure morphogenesis</td><td>2</td><td>FAT1, FREM2</td></tr>
+<tr>
+<td>cell migration</td><td>2</td><td>FAT1, PRSS37</td></tr>
+<tr>
+<td>response to xenobiotic stimulus</td><td>2</td><td>FZD3, SMTNL1</td></tr>
+<tr>
+<td>cytokine activity</td><td>2</td><td>IFNE, TAFA5</td></tr>
+<tr>
+<td>adaptive immune response</td><td>2</td><td>IFNE, LAG3</td></tr>
+<tr>
+<td>cytokine-mediated signaling pathway</td><td>2</td><td>IFNE, SOCS1</td></tr>
+<tr>
+<td>hormone activity</td><td>2</td><td>INSL4, UCN3</td></tr>
+<tr>
+<td>insulin-like growth factor receptor binding</td><td>2</td><td>INSL4, SOCS1</td></tr>
+<tr>
+<td>signaling receptor binding</td><td>2</td><td>INSL4, NXPH2</td></tr>
+<tr>
+<td>negative regulation of interleukin-2 production</td><td>2</td><td>LAG3, XCL1</td></tr>
+<tr>
+<td>cyclosporin A binding</td><td>2</td><td>PPIAL4E, PPIAL4G</td></tr>
+<tr>
+<td>peptidyl-prolyl cis-trans isomerase activity</td><td>2</td><td>PPIAL4E, PPIAL4G</td></tr>
+<tr>
+<td>protein folding</td><td>2</td><td>PPIAL4E, PPIAL4G</td></tr>
+<tr>
+<td>protein peptidyl-prolyl isomerization</td><td>2</td><td>PPIAL4E, PPIAL4G</td></tr>
+<tr>
+<td>cytoplasmic vesicle</td><td>2</td><td>PRSS37, SOCS1</td></tr>
+<tr>
+<td>negative regulation of DNA-templated transcription</td><td>2</td><td>SMTNL1, XCL1</td></tr>
+</tbody>
+</table>
+<h2>ChatGPT 4 Analysis</h2>
+<p>Paste ChatGPT analysis here:</p>
+<!-- Analysis goes here -->
 </body>
-
 </html>

@@ -1,0 +1,82 @@
+Feature	Number of Genes	Genes
+cytoplasm	4	NCBP1, STMN1, STMN3, TBC1D2
+cytosol	4	NCBP1, STMN1, STMN3, TBC1D2
+nucleoplasm	2	NCBP1, TBC1D2
+neuron projection	2	STMN1, STMN3
+tubulin binding	2	STMN1, STMN3
+microtubule depolymerization	2	STMN1, STMN3
+neuron projection development	2	STMN1, STMN3
+regulation of microtubule polymerization or depolymerization	2	STMN1, STMN3
+mitochondrion	1	NCBP1
+mRNA cap binding complex	1	NCBP1
+nuclear cap binding complex	1	NCBP1
+nucleus	1	NCBP1
+ribonucleoprotein complex	1	NCBP1
+RNA cap binding complex	1	NCBP1
+molecular adaptor activity	1	NCBP1
+mRNA binding	1	NCBP1
+RNA 7-methylguanosine cap binding	1	NCBP1
+RNA binding	1	NCBP1
+RNA cap binding	1	NCBP1
+7-methylguanosine mRNA capping	1	NCBP1
+alternative mRNA splicing, via spliceosome	1	NCBP1
+cap-dependent translational initiation	1	NCBP1
+defense response to virus	1	NCBP1
+histone mRNA metabolic process	1	NCBP1
+miRNA-mediated gene silencing	1	NCBP1
+mRNA 3'-end processing	1	NCBP1
+mRNA export from nucleus	1	NCBP1
+mRNA splicing, via spliceosome	1	NCBP1
+mRNA transcription by RNA polymerase II	1	NCBP1
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	1	NCBP1
+positive regulation of cell growth	1	NCBP1
+positive regulation of mRNA 3'-end processing	1	NCBP1
+positive regulation of mRNA splicing, via spliceosome	1	NCBP1
+positive regulation of phosphorylation of RNA polymerase II C-terminal domain	1	NCBP1
+positive regulation of RNA binding	1	NCBP1
+positive regulation of transcription elongation by RNA polymerase II	1	NCBP1
+pre-mRNA cleavage required for polyadenylation	1	NCBP1
+primary miRNA processing	1	NCBP1
+regulation of mRNA processing	1	NCBP1
+regulation of translational initiation	1	NCBP1
+RNA catabolic process	1	NCBP1
+RNA splicing	1	NCBP1
+snRNA export from nucleus	1	NCBP1
+spliceosomal complex assembly	1	NCBP1
+extracellular exosome	1	STMN1
+membrane	1	STMN1
+microtubule	1	STMN1
+axonogenesis	1	STMN1
+establishment of skin barrier	1	STMN1
+hepatocyte growth factor receptor signaling pathway	1	STMN1
+intracellular signal transduction	1	STMN1
+mitotic cytokinesis	1	STMN1
+mitotic spindle organization	1	STMN1
+negative regulation of guanyl-nucleotide exchange factor activity	1	STMN1
+negative regulation of microtubule polymerization	1	STMN1
+negative regulation of Rho protein signal transduction	1	STMN1
+negative regulation of stress fiber assembly	1	STMN1
+negative regulation of thrombin-activated receptor signaling pathway	1	STMN1
+response to virus	1	STMN1
+signal transduction	1	STMN1
+cytoskeleton	1	STMN1
+Golgi apparatus	1	STMN3
+growth cone	1	STMN3
+protein domain specific binding	1	STMN3
+blastocyst hatching	1	STMN3
+cytoplasmic microtubule organization	1	STMN3
+negative regulation of Rac protein signal transduction	1	STMN3
+nervous system development	1	STMN3
+regulation of cytoskeleton organization	1	STMN3
+regulation of GTPase activity	1	STMN3
+axon	1	STMN3
+golgi apparatus	1	STMN3
+cell projection	1	STMN3
+anchoring junction	1	TBC1D2
+cell junction	1	TBC1D2
+cytoplasmic vesicle	1	TBC1D2
+plasma membrane	1	TBC1D2
+cadherin binding	1	TBC1D2
+GTPase activator activity	1	TBC1D2
+activation of GTPase activity	1	TBC1D2
+positive regulation of GTPase activity	1	TBC1D2

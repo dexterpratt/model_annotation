@@ -1,0 +1,156 @@
+{
+    "NCBP1": {
+        "UniProtKB_ID": "NCBP1_HUMAN",
+        "Description": "Nuclear cap-binding protein subunit 1",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "mitochondrion",
+            "mRNA cap binding complex",
+            "nuclear cap binding complex",
+            "nucleoplasm",
+            "nucleus",
+            "ribonucleoprotein complex",
+            "RNA cap binding complex",
+            "molecular adaptor activity",
+            "mRNA binding",
+            "RNA 7-methylguanosine cap binding",
+            "RNA binding",
+            "RNA cap binding",
+            "7-methylguanosine mRNA capping",
+            "alternative mRNA splicing, via spliceosome",
+            "cap-dependent translational initiation",
+            "defense response to virus",
+            "histone mRNA metabolic process",
+            "miRNA-mediated gene silencing",
+            "mRNA 3'-end processing",
+            "mRNA export from nucleus",
+            "mRNA splicing, via spliceosome",
+            "mRNA transcription by RNA polymerase II",
+            "nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+            "positive regulation of cell growth",
+            "positive regulation of mRNA 3'-end processing",
+            "positive regulation of mRNA splicing, via spliceosome",
+            "positive regulation of phosphorylation of RNA polymerase II C-terminal domain",
+            "positive regulation of RNA binding",
+            "positive regulation of transcription elongation by RNA polymerase II",
+            "pre-mRNA cleavage required for polyadenylation",
+            "primary miRNA processing",
+            "regulation of mRNA processing",
+            "regulation of translational initiation",
+            "RNA catabolic process",
+            "RNA splicing",
+            "snRNA export from nucleus",
+            "spliceosomal complex assembly"
+        ],
+        "Location": [
+            "cytoplasm",
+            "nucleus"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Component of the nuclear cap-binding complex (CBC), a heterodimer composed of NCBP1/CBP80 and NCBP2/CBP20 that interacts with m7GpppG-capped RNA. Found in a U snRNA export complex containing PHAX/RNUXA, NCBP1/CBP80, NCBP2/CBP20, RAN, XPO1 and m7G-capped RNA. Identified in a IGF2BP1-dependent mRNP granule complex containing untranslated mRNAs. Interacts with PHAX/RNUXA, SRRT/ARS2, EIF4G2, IGF2BP1, HNRNPF, HNRNPH1, KIAA0427/CTIF, PARN, DROSHA, UPF1 and ALYREF/THOC4. May interact with EIF4G1; the interaction is however controversial since it is reported by PubMed:11340157, PubMed:15059963 and PubMed:15361857, but is not observed by PubMed:19648179. The large PER complex involved in the repression of transcriptional termination is composed of at least PER2, CDK9, DDX5, DHX9, NCBP1/CBP80 and POLR2A. Component of an alternative nuclear cap-binding complex (CBC) composed of NCBP1/CBP80 and NCBP3 (PubMed:26382858). Interacts with METTL3 (PubMed:27117702). Interacts with ZFC3H1 in a RNase-insensitive manner (PubMed:27871484). Interacts with MTREX (PubMed:30842217). Interacts with TASOR (By similarity). Interacts with DHX34; the interaction is RNA-dependent (PubMed:25220460)"
+        ]
+    },
+    "STMN1": {
+        "UniProtKB_ID": "STMN1_HUMAN",
+        "Description": "Stathmin",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "extracellular exosome",
+            "membrane",
+            "microtubule",
+            "neuron projection",
+            "tubulin binding",
+            "axonogenesis",
+            "establishment of skin barrier",
+            "hepatocyte growth factor receptor signaling pathway",
+            "intracellular signal transduction",
+            "microtubule depolymerization",
+            "mitotic cytokinesis",
+            "mitotic spindle organization",
+            "negative regulation of guanyl-nucleotide exchange factor activity",
+            "negative regulation of microtubule polymerization",
+            "negative regulation of Rho protein signal transduction",
+            "negative regulation of stress fiber assembly",
+            "negative regulation of thrombin-activated receptor signaling pathway",
+            "neuron projection development",
+            "regulation of microtubule polymerization or depolymerization",
+            "response to virus",
+            "signal transduction"
+        ],
+        "Location": [
+            "cytoplasm",
+            "cytoskeleton",
+            "microtubule"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Binds to two alpha/beta-tubulin heterodimers. Interacts with KIST"
+        ]
+    },
+    "STMN3": {
+        "UniProtKB_ID": "STMN3_HUMAN",
+        "Description": "Stathmin-3",
+        "GO": [
+            "cytoplasm",
+            "cytosol",
+            "Golgi apparatus",
+            "growth cone",
+            "neuron projection",
+            "protein domain specific binding",
+            "tubulin binding",
+            "blastocyst hatching",
+            "cytoplasmic microtubule organization",
+            "microtubule depolymerization",
+            "negative regulation of Rac protein signal transduction",
+            "nervous system development",
+            "neuron projection development",
+            "regulation of cytoskeleton organization",
+            "regulation of GTPase activity",
+            "regulation of microtubule polymerization or depolymerization"
+        ],
+        "Location": [
+            "cytoplasm",
+            "axon",
+            "cytosol",
+            "golgi apparatus",
+            "growth cone",
+            "cell projection"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with STAT3. Interacts with CLU (secreted form); this interaction may act as an important modulator during neuronal differentiation (By similarity)"
+        ]
+    },
+    "TBC1D2": {
+        "UniProtKB_ID": "TBD2A_HUMAN",
+        "Description": "TBC1 domain family member 2A",
+        "GO": [
+            "anchoring junction",
+            "cell junction",
+            "cytoplasmic vesicle",
+            "cytosol",
+            "nucleoplasm",
+            "plasma membrane",
+            "cadherin binding",
+            "GTPase activator activity",
+            "activation of GTPase activity",
+            "positive regulation of GTPase activity"
+        ],
+        "Location": [
+            "cytoplasm",
+            "cytoplasmic vesicle",
+            "cell junction"
+        ],
+        "Disease": [],
+        "Disease_description": [],
+        "Complexes": [
+            "Interacts with activated RAC1 and CDH1"
+        ]
+    }
+}
