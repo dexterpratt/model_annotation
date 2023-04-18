@@ -1,0 +1,399 @@
+{
+    "CHST9": {
+        "hgnc_id": "HGNC:19898",
+        "symbol": "CHST9",
+        "name": "carbohydrate sulfotransferase 9",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 9"
+        ],
+        "alias_symbol": [
+            "GALNAC4ST-2",
+            "GALNAC-4-ST2"
+        ],
+        "location": "18q11.2",
+        "date_approved_reserved": "2002-11-29T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2016-03-18T00:00:00Z",
+        "ena": [
+            "AF239821"
+        ],
+        "enzyme_id": [
+            "2.8.1.-"
+        ],
+        "entrez_id": "83539",
+        "mgd_id": [
+            "MGI:1918617"
+        ],
+        "pubmed_id": [
+            11139592,
+            11445554
+        ],
+        "refseq_accession": [
+            "NM_031422"
+        ],
+        "gene_group": [
+            "Sulfotransferases, membrane bound"
+        ],
+        "vega_id": "OTTHUMG00000179469",
+        "ensembl_gene_id": "ENSG00000154080",
+        "ccds_id": [
+            "CCDS58618",
+            "CCDS42422"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "610191"
+        ],
+        "uniprot_ids": [
+            "Q7L1S5"
+        ],
+        "ucsc_id": "uc002kwe.5",
+        "rgd_id": [
+            "RGD:1307302"
+        ],
+        "gene_group_id": [
+            763
+        ],
+        "location_sortable": "18q11.2",
+        "agr": "HGNC:19898",
+        "mane_select": [
+            "ENST00000618847.5",
+            "NM_031422.6"
+        ],
+        "uuid": "7831410a-c660-4377-9f70-d9f30bfadb80",
+        "_version_": 1763404873627336704
+    },
+    "DKK1": {
+        "hgnc_id": "HGNC:2891",
+        "symbol": "DKK1",
+        "name": "dickkopf WNT signaling pathway inhibitor 1",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "dickkopf (Xenopus laevis) homolog 1",
+            "dickkopf 1 homolog (Xenopus laevis)"
+        ],
+        "alias_symbol": [
+            "SK",
+            "DKK-1"
+        ],
+        "location": "10q21.1",
+        "date_approved_reserved": "2000-09-01T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2013-05-15T00:00:00Z",
+        "entrez_id": "22943",
+        "mgd_id": [
+            "MGI:1329040"
+        ],
+        "iuphar": "ligandId:3701",
+        "orphanet": 310112,
+        "refseq_accession": [
+            "NM_012242"
+        ],
+        "vega_id": "OTTHUMG00000018247",
+        "ensembl_gene_id": "ENSG00000107984",
+        "ccds_id": [
+            "CCDS7246"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "605189"
+        ],
+        "uniprot_ids": [
+            "O94907"
+        ],
+        "ucsc_id": "uc001jjr.4",
+        "rgd_id": [
+            "RGD:1307313"
+        ],
+        "location_sortable": "10q21.1",
+        "agr": "HGNC:2891",
+        "mane_select": [
+            "ENST00000373970.4",
+            "NM_012242.4"
+        ],
+        "uuid": "200d10fe-3f92-47b1-95cc-4ff51f03e89e",
+        "_version_": 1763404877192495105
+    },
+    "LRP5": {
+        "hgnc_id": "HGNC:6697",
+        "symbol": "LRP5",
+        "name": "LDL receptor related protein 5",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_symbol": [
+            "LRP7",
+            "OPPG",
+            "EVR1"
+        ],
+        "prev_name": [
+            "osteoporosis pseudoglioma syndrome",
+            "exudative vitreoretinopathy 1",
+            "low density lipoprotein receptor-related protein 5"
+        ],
+        "alias_symbol": [
+            "LR3",
+            "BMND1",
+            "HBM",
+            "OPS",
+            "OPTA1",
+            "VBCH2",
+            "EVR4"
+        ],
+        "location": "11q13.2",
+        "date_approved_reserved": "1998-04-07T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-13T00:00:00Z",
+        "ena": [
+            "AF064548"
+        ],
+        "entrez_id": "4041",
+        "mgd_id": [
+            "MGI:1278315"
+        ],
+        "orphanet": 123115,
+        "pubmed_id": [
+            9714764,
+            10049586
+        ],
+        "refseq_accession": [
+            "NM_002335"
+        ],
+        "gene_group": [
+            "Low density lipoprotein receptors"
+        ],
+        "vega_id": "OTTHUMG00000167570",
+        "lsdb": [
+            "Global Variome shared LOVD|https://databases.lovd.nl/shared/genes/LRP5"
+        ],
+        "ensembl_gene_id": "ENSG00000162337",
+        "ccds_id": [
+            "CCDS8181"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603506"
+        ],
+        "uniprot_ids": [
+            "O75197"
+        ],
+        "ucsc_id": "uc001ont.4",
+        "rgd_id": [
+            "RGD:1309329"
+        ],
+        "gene_group_id": [
+            634
+        ],
+        "location_sortable": "11q13.2",
+        "agr": "HGNC:6697",
+        "mane_select": [
+            "ENST00000294304.12",
+            "NM_002335.4"
+        ],
+        "gencc": "HGNC:6697",
+        "uuid": "ecd7ab47-dec4-40e5-99fd-d7447b4488c7",
+        "_version_": 1763404886638067713
+    },
+    "LRP6": {
+        "hgnc_id": "HGNC:6698",
+        "symbol": "LRP6",
+        "name": "LDL receptor related protein 6",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "low density lipoprotein receptor-related protein 6"
+        ],
+        "alias_symbol": [
+            "ADCAD2"
+        ],
+        "location": "12p13.2",
+        "date_approved_reserved": "1998-04-07T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-13T00:00:00Z",
+        "ena": [
+            "AF074264"
+        ],
+        "entrez_id": "4040",
+        "mgd_id": [
+            "MGI:1298218"
+        ],
+        "orphanet": 159752,
+        "pubmed_id": [
+            9704021
+        ],
+        "refseq_accession": [
+            "NM_001414244"
+        ],
+        "gene_group": [
+            "Low density lipoprotein receptors"
+        ],
+        "vega_id": "OTTHUMG00000168540",
+        "ensembl_gene_id": "ENSG00000070018",
+        "ccds_id": [
+            "CCDS8647"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "603507"
+        ],
+        "uniprot_ids": [
+            "O75581"
+        ],
+        "ucsc_id": "uc001rah.6",
+        "rgd_id": [
+            "RGD:1304749"
+        ],
+        "gene_group_id": [
+            634
+        ],
+        "location_sortable": "12p13.2",
+        "agr": "HGNC:6698",
+        "mane_select": [
+            "ENST00000261349.9",
+            "NM_002336.3"
+        ],
+        "gencc": "HGNC:6698",
+        "uuid": "39ffb774-c143-406f-bed2-c54f73ffc80e",
+        "_version_": 1763404886639116289
+    },
+    "RASD2": {
+        "hgnc_id": "HGNC:18229",
+        "symbol": "RASD2",
+        "name": "RASD family member 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "RASD family, member 2"
+        ],
+        "alias_symbol": [
+            "TEM2",
+            "Rhes",
+            "MGC:4834"
+        ],
+        "alias_name": [
+            "tumor endothelial marker 2",
+            "Ras homolog enriched in striatum"
+        ],
+        "location": "22q12.3",
+        "date_approved_reserved": "2002-02-21T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2015-11-18T00:00:00Z",
+        "ena": [
+            "AF279143"
+        ],
+        "entrez_id": "23551",
+        "mgd_id": [
+            "MGI:1922391"
+        ],
+        "pubmed_id": [
+            10947988,
+            10467249,
+            14724584
+        ],
+        "refseq_accession": [
+            "NM_014310"
+        ],
+        "gene_group": [
+            "RAS type GTPase family"
+        ],
+        "vega_id": "OTTHUMG00000150607",
+        "ensembl_gene_id": "ENSG00000100302",
+        "ccds_id": [
+            "CCDS13916"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "612842"
+        ],
+        "uniprot_ids": [
+            "Q96D21"
+        ],
+        "ucsc_id": "uc003anx.4",
+        "rgd_id": [
+            "RGD:628594"
+        ],
+        "gene_group_id": [
+            389
+        ],
+        "location_sortable": "22q12.3",
+        "agr": "HGNC:18229",
+        "mane_select": [
+            "ENST00000216127.5",
+            "NM_014310.4"
+        ],
+        "uuid": "c3b7d8ad-f1db-4da7-a7b5-f6da3640a7c4",
+        "_version_": 1763404895429328897
+    },
+    "TK2": {
+        "hgnc_id": "HGNC:11831",
+        "symbol": "TK2",
+        "name": "thymidine kinase 2",
+        "status": "Approved",
+        "locus_type": "gene with protein product",
+        "prev_name": [
+            "thymidine kinase 2, mitochondrial"
+        ],
+        "alias_symbol": [
+            "SCA31"
+        ],
+        "alias_name": [
+            "mitochondrial thymidine kinase"
+        ],
+        "location": "16q21",
+        "date_approved_reserved": "2001-06-22T00:00:00Z",
+        "date_modified": "2023-01-20T00:00:00Z",
+        "date_name_changed": "2019-01-15T00:00:00Z",
+        "enzyme_id": [
+            "2.7.1.21"
+        ],
+        "entrez_id": "7084",
+        "mgd_id": [
+            "MGI:1913266"
+        ],
+        "orphanet": 120120,
+        "refseq_accession": [
+            "NM_001172643"
+        ],
+        "gene_group": [
+            "Deoxyribonucleoside kinases"
+        ],
+        "vega_id": "OTTHUMG00000137499",
+        "ensembl_gene_id": "ENSG00000166548",
+        "ccds_id": [
+            "CCDS92169",
+            "CCDS54016",
+            "CCDS54017",
+            "CCDS61955",
+            "CCDS54018",
+            "CCDS10805"
+        ],
+        "locus_group": "protein-coding gene",
+        "omim_id": [
+            "188250"
+        ],
+        "uniprot_ids": [
+            "O00142"
+        ],
+        "ucsc_id": "uc002eos.3",
+        "rgd_id": [
+            "RGD:1309279"
+        ],
+        "gene_group_id": [
+            1699
+        ],
+        "location_sortable": "16q21",
+        "agr": "HGNC:11831",
+        "symbol_report_tag": [
+            "Stable symbol"
+        ],
+        "mane_select": [
+            "ENST00000544898.6",
+            "NM_004614.5"
+        ],
+        "gencc": "HGNC:11831",
+        "uuid": "f84b1c82-b271-492a-9643-11b5d8e2ad80",
+        "_version_": 1763404905975906304
+    }
+}
